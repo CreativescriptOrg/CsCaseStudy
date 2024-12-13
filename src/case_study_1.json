@@ -1,0 +1,214 @@
+{
+	"title": "Case Study Title",
+	"hero_img": "/images/hero.png",
+	"about": {
+		"name": "Case Study Name",
+		"desc": "Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.",
+		"domain": "Landing page",
+		"year": "2024",
+		"services": ["Web Design", "Web Development", "SEO", "Marketing"],
+		"mainTechStack": ["React", "Node.js", "MongoDB"],
+		"platform": "Web, Mobile",
+		"image": "/images/placeholder.png"
+	},
+	"projectTeam": {
+		"desc": "Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.<br />Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis",
+		"img": "/images/placeholder.png"
+	},
+	"problem": {
+		"desc": "Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.<br/><br/>Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis"
+	},
+	"goals": [
+		{
+			"title": "User Goal",
+			"desc": "Assist founders in understanding how to create effective UX for landing pages."
+		},
+		{
+			"title": "Business Goal",
+			"desc": "Gather information about these businesses and their products to generate leads and convert them into potential customers."
+		}
+	],
+	"solution": {
+		"desc": "Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.<br/><br/>Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis.Lorem ipsum dolor sit amet consectetur. Enim congue nunc pharetra tortor in aliquam aliquet lobortis"
+	},
+	"mockups": [
+		{
+			"img": "/images/placeholder.png",
+			"alt": "Mockup 1",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "/images/placeholder.png",
+			"alt": "Mockup 1",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "/images/placeholder.png",
+			"alt": "Mockup 1",
+			"width": 500,
+			"height": 944
+		},
+		{
+			"img": "/images/placeholder.png",
+			"alt": "Mockup 1",
+			"width": 700,
+			"height": 400
+		},
+		{
+			"img": "/images/placeholder.png",
+			"alt": "Mockup 1",
+			"width": 700,
+			"height": 500
+		}
+	],
+	"behindTheScenes": {
+		"discoveryPhase": {
+			"identification": "We analyzed 17 Landing Page projects which showed the trend in businesses requiring guidance and aid in building and re-designing there landing pages.",
+			"validation": "Secondary data collection through Reddit, Quora, and web threads, combined with in-depth user interviews with founders and copywriters, provided insights into the specific challenges founders are facing.",
+			"analysis": "Gathering the insights obtained and performing Affinity Mapping in order to group and categorise the problems."
+		},
+		"problemsIdentified": [
+			{
+				"title": "Weak Foundation",
+				"desc": "Design and UX"
+			},
+			{
+				"title": "Copy writing",
+				"desc": "Framing their story from customer's pov"
+			},
+			{
+				"title": "Founder's Mindset",
+				"desc": "Confused state, unaware of problems - looking for help, not able to find one"
+			},
+			{
+				"title": "Guided and personalized Help missing in current market",
+				"desc": "no unified solutions available"
+			},
+			{
+				"title": "Core Business Problems",
+				"desc": "The wrong target audience"
+			},
+			{
+				"title": "Outcome",
+				"desc": "Unable to convert customers"
+			}
+		],
+		"affinityMapping": [
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Affinity 1",
+				"width": 288,
+				"height": 400
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Affinity 1",
+				"width": 288,
+				"height": 400
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Affinity 1",
+				"width": 288,
+				"height": 400
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Affinity 1",
+				"width": 288,
+				"height": 400
+			}
+		],
+		"ideaExploration": {
+			"analogyUsed": "We dived deeper in the problem by building the analogy of how a parent takes their sick child to a doctor",
+			"doctor": "Creative Script Team - Solutions provider",
+			"child": "The Business Landing Page",
+			"parent": "Founder's and Business owner"
+		},
+		"naming": "Drawing from the <strong>doctor-patient analogy</strong>, we sought an element that connects both to doctors and landing pages. The <strong>\"Pill,\"</strong> resembling a <strong>\"Button,\"</strong> bridges both concepts, leading to the name <strong>\"Landing Pill\"</strong> – the solution that cures your landing page issues.",
+		"moreImages": [
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Idea 1",
+				"width": 500,
+				"height": 260
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Idea 1",
+				"width": 280,
+				"height": 260
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Idea 1",
+				"width": 400,
+				"height": 400
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Idea 1",
+				"width": 550,
+				"height": 400
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Idea 1",
+				"width": 400,
+				"height": 260
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Idea 1",
+				"width": 400,
+				"height": 260
+			},
+			{
+				"img": "/images/placeholder.png",
+				"alt": "Idea 1",
+				"width": 400,
+				"height": 400
+			}
+		],
+		"ui": {
+			"approach": "Instead of a traditional website, we opted for a gamified experience. A character, <strong>\"The Pill\"</strong> guides users step-by-step in a fun, conversational way. Resources are presented as levels, building trust as users progress.",
+			"socialProof": "To instill a sense of security and provide social proof, a landing page for the Landing Pill was created. This page outlines the audit process followed by Landing Pill and highlights the value users can expect from the product.",
+			"futureScope": "The future scope includes Creative Script developing a go-to-market strategy to acquire the first 100 customers and determining how to conduct audits and generate organic leads.",
+			"mockups": [
+				{
+					"img": "/images/placeholder.png",
+					"alt": "Affinity 1",
+					"width": 600,
+					"height": 460
+				},
+				{
+					"img": "/images/placeholder.png",
+					"alt": "Affinity 1",
+					"width": 600,
+					"height": 460
+				},
+				{
+					"img": "/images/placeholder.png",
+					"alt": "Affinity 1",
+					"width": 500,
+					"height": 400
+				},
+				{
+					"img": "/images/placeholder.png",
+					"alt": "Affinity 1",
+					"width": 700,
+					"height": 400
+				}
+			]
+		}
+	},
+	"conclusion": {
+		"achievements": [
+			"The Landing Pill is a unique solution that bridges the gap between founders and copywriters, providing a guided and personalized experience.",
+			"The gamified experience of the Landing Pill is a fresh approach to landing pages, making it more engaging and interactive.",
+			"The future scope includes Creative Script developing a go-to-market strategy to acquire the first 100 customers and determining how to conduct audits and generate organic leads."
+		]
+	}
+}

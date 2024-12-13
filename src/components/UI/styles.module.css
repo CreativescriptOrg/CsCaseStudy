@@ -1,0 +1,22 @@
+.grid_1 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 1rem;
+}
+
+.grid_1 span {
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 19.09px;
+	text-align: left;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+}
+.grid_1 div {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19.09px;
+	text-align: left;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+}
