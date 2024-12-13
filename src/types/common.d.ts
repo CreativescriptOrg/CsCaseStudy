@@ -3,8 +3,10 @@ interface Goal {
   desc: string;
 }
 
-interface DocChaseData {
+interface CaseStudyData {
   about: AboutProps;
+  title: string;
+  hero_img: string;
   problem: {
     desc: string;
   };
@@ -14,7 +16,7 @@ interface DocChaseData {
   };
 }
 
-declare module '@/json/docchase.json' {
-  const value: DocChaseData;
+declare module '@/json/*.json' {
+  const value: CaseStudyData;
   export default value;
 } 

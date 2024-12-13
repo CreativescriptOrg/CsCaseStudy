@@ -1,17 +1,23 @@
-import data from "../../case_study_1.json";
-import parse from "html-react-parser";
-import MasonryGrid from "@/components/MasonryGrid/MasonryGrid";
+import { FC } from "react";
 
-const Solution = () => {
+interface SolutionProps {
+  data: {
+    problem?: {
+      desc: string;
+    };
+  }
+}
+
+const Solution: FC<SolutionProps> = ({ data }) => {
   return (
-    <div className={`section container `}>
+    <div className="section container">
       <div className="section_info">
-        <h2 className={`section_heading`}>What was the Solution?</h2>
+        <h2 className="section_heading">What was the Problem?</h2>
         <div className="section_info_right">
-          <div>{parse(data.projectTeam.desc)}</div>
+          <span className="title">Problem Description</span>
+          <p>{data.problem?.desc || "Problem description not available"}</p>
         </div>
       </div>
-      <MasonryGrid data={data.mockups} />
     </div>
   );
 };

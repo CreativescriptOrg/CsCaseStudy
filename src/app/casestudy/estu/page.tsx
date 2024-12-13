@@ -8,60 +8,43 @@ import BTS from "@/components/BTS/BTS";
 import UI from "@/components/UI/UI";
 import parse from "html-react-parser";
 import { AboutProps } from "@/components/Header/Header";
+import { HeroProps } from "@/components/Hero/Hero";
+import { ProjectTeamProps } from "@/components/ProjectTeam/ProjectTeam";
+import Goals from "@/components/Goals/Goals";
 
 export default function Home() {
-  const about: AboutProps = data.about;
+  const header: AboutProps = data.about;
+  const hero: HeroProps = { title: data.title, image: data.hero_img };
+  const about: AboutProps = {
+    name: data.about.name,
+    desc: data.about.desc,
+    domain: data.about.domain,
+    year: data.about.year,
+    services: data.about.services,
+    mainTechStack: data.about.mainTechStack,
+    platform: data.about.platform,
+    image: data.about.image,
+  };
+  const projectTeam: ProjectTeamProps = {
+    desc: data.projectTeam?.desc || '',
+    img: data.projectTeam?.img || ''
+  };
+  const goalsData = {
+    goals: data.goals
+  };
+  const solutionData = {
+    problem: data.problem
+  };
   return (
     <div>
-      <Header about={about} />
-      <Hero />
-      <About />
-      <ProjectTeam />
-
-      <div className="section container">
-        <div className="section_info">
-          <h2 className="section_heading">What was the Problem?</h2>
-          <div className="section_info_right">
-            <span className="title">Problem Description</span>
-            <p>{data.problem?.desc || "Problem description not available"}</p>
-          </div>
-        </div>
-      </div>
-
-      <div className="section container">
-        <div className="section_info">
-          <h2 className="section_heading">What was the Goal?</h2>
-          <div className="section_info_right">
-            <span className="title">What were the Goals:</span>
-            <ul>
-              {data.goals?.map((el, i) => (
-                <li key={i}>
-                  <strong>{el.title}: </strong>
-                  <p>{parse(el.desc || "")}</p>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <Solution />
+      <Header about={header} />
+      <Hero data={hero} />
+      <About data={about} />
+      <ProjectTeam data={projectTeam} />
+      <Solution data={solutionData} />
       <BTS />
       <UI />
-
-      <div className="section container">
-        <div className="section_info">
-          <h2 className="section_heading">Conclusion</h2>
-          <div className="section_info_right">
-            <span className="title">What did we achieve from the project?</span>
-            <ul>
-              {data.conclusion?.achievements?.map((el, i) => (
-                <li key={i}>{parse(el || "")}</li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      </div>
+      <Goals data={goalsData} />
     </div>
   );
 }
