@@ -37,6 +37,14 @@ export default function Home() {
     problem: data.problem
   };
 
+  const btsData = {
+    discoveryPhase: data.behindTheScenes.discoveryPhase,
+    problemsIdentified: data.behindTheScenes.problemsIdentified,
+    affinityMapping: data.behindTheScenes.affinityMapping,
+    ideaExploration: data.behindTheScenes.ideaExploration,
+    naming: data.behindTheScenes.naming,
+  };
+
   return (
     <div>
       <Header about={header} />
@@ -44,7 +52,7 @@ export default function Home() {
       <About data={about} />
       <ProjectTeam data={projectTeam} />
       <Solution data={solutionData} />
-      <BTS />
+      <BTS data={btsData} />
       <UI />
       <Goals data={goalsData} />
     </div>

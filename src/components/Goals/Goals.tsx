@@ -1,5 +1,4 @@
 import { FC } from "react";
-import parse from "html-react-parser";
 
 interface Goal {
   title: string;
@@ -9,7 +8,7 @@ interface Goal {
 interface GoalsProps {
   data: {
     goals?: Goal[];
-  }
+  };
 }
 
 const Goals: FC<GoalsProps> = ({ data }) => {
@@ -23,7 +22,7 @@ const Goals: FC<GoalsProps> = ({ data }) => {
             {data.goals?.map((el: Goal, i: number) => (
               <li key={i}>
                 <strong>{el.title}: </strong>
-                <p>{parse(el.desc || "")}</p>
+                <p>{el.desc || ""}</p>
               </li>
             ))}
           </ul>

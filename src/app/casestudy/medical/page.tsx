@@ -6,7 +6,7 @@ import ProjectTeam from "@/components/ProjectTeam/ProjectTeam";
 import Solution from "@/components/Solution/Solution";
 import BTS from "@/components/BTS/BTS";
 import UI from "@/components/UI/UI";
-import parse from "html-react-parser";
+
 import { AboutProps } from "@/components/Header/Header";
 import { HeroProps } from "@/components/Hero/Hero";
 import { ProjectTeamProps } from "@/components/ProjectTeam/ProjectTeam";
@@ -36,6 +36,15 @@ export default function Home() {
   const solutionData = {
     problem: data.problem,
   };
+
+  const btsData = {
+    discoveryPhase: data.behindTheScenes.discoveryPhase,
+    problemsIdentified: data.behindTheScenes.problemsIdentified,
+    affinityMapping: data.behindTheScenes.affinityMapping,
+    ideaExploration: data.behindTheScenes.ideaExploration,
+    naming: data.behindTheScenes.naming,
+  };
+
   return (
     <div>
       <Header about={header} />
@@ -43,7 +52,7 @@ export default function Home() {
       <About data={about} />
       <ProjectTeam data={projectTeam} />
       <Solution data={solutionData} />
-      <BTS />
+      <BTS data={btsData} />
       <UI />
       <Goals data={goalsData} />
     </div>

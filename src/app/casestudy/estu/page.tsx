@@ -6,7 +6,7 @@ import ProjectTeam from "@/components/ProjectTeam/ProjectTeam";
 import Solution from "@/components/Solution/Solution";
 import BTS from "@/components/BTS/BTS";
 import UI from "@/components/UI/UI";
-import parse from "html-react-parser";
+
 import { AboutProps } from "@/components/Header/Header";
 import { HeroProps } from "@/components/Hero/Hero";
 import { ProjectTeamProps } from "@/components/ProjectTeam/ProjectTeam";
@@ -26,14 +26,21 @@ export default function Home() {
     image: data.about.image,
   };
   const projectTeam: ProjectTeamProps = {
-    desc: data.projectTeam?.desc || '',
-    img: data.projectTeam?.img || ''
+    desc: data.projectTeam?.desc || "",
+    img: data.projectTeam?.img || "",
   };
   const goalsData = {
-    goals: data.goals
+    goals: data.goals,
   };
   const solutionData = {
-    problem: data.problem
+    problem: data.problem,
+  };
+  const btsData = {
+    discoveryPhase: data.behindTheScenes.discoveryPhase,
+    problemsIdentified: data.behindTheScenes.problemsIdentified,
+    affinityMapping: data.behindTheScenes.affinityMapping,
+    ideaExploration: data.behindTheScenes.ideaExploration,
+    naming: data.behindTheScenes.naming,
   };
   return (
     <div>
@@ -42,7 +49,7 @@ export default function Home() {
       <About data={about} />
       <ProjectTeam data={projectTeam} />
       <Solution data={solutionData} />
-      <BTS />
+      <BTS data={btsData} />
       <UI />
       <Goals data={goalsData} />
     </div>

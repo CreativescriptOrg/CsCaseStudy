@@ -1,6 +1,5 @@
 import styles from "./styles.module.css";
 import Image from "next/image";
-import parse from "html-react-parser";
 
 interface AboutProps {
   name: string;
@@ -24,7 +23,7 @@ const About = ({
         <h2 className={`${styles.name} section_heading`}>{name}</h2>
         <div className="section_info_right">
           <span className="title">About Case study</span>
-          <p>{parse(desc)}</p>
+          <p>{desc}</p>
         </div>
       </div>
       <div className={styles.grid}>

@@ -34,7 +34,7 @@ img {
 }
 
 body {
-  font-family: "SF Pro Display", sans-serif;
+  font-family: "SF Pro Display", sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
