@@ -1,26 +1,35 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
-import Image from "next/image";
 import Masonry, { ResponsiveMasonry } from "react-responsive-masonry";
+interface MasonryData {
+  img: string;
+  alt: string;
+  width?: string | number;
+  height?: string | number;
+}
 
-const MasonryGrid = ({ data }: any) => {
-	return (
-		<ResponsiveMasonry columnsCountBreakPoints={{ 350: 1, 750: 2, 900: 3 }}>
-			<Masonry gutter='24px'>
-				{data.map((el: any, i: number) => (
-					<img
-						key={i}
-						src={el.img}
-						alt={el.alt}
-						className='image'
-						width={el.width}
-						height={el.height}
-						style={{ width: "100%", display: "block", maxWidth: "auto" }}
-						loading='lazy'
-					/>
-				))}
-			</Masonry>
-		</ResponsiveMasonry>
-	);
+interface MasonryGridProps {
+  data: MasonryData[];
+}
+const MasonryGrid = ({ data }: MasonryGridProps) => {
+  return (
+    <ResponsiveMasonry columnsCountBreakPoints={{ 350: 1, 750: 2, 900: 3 }}>
+      <Masonry gutter="24px">
+        {data.map((el: any, i: number) => (
+          <img
+            key={i}
+            src={el.img}
+            alt={el.alt}
+            className="image"
+            width={el.width}
+            height={el.height}
+            style={{ width: "100%", display: "block", maxWidth: "auto" }}
+            loading="lazy"
+          />
+        ))}
+      </Masonry>
+    </ResponsiveMasonry>
+  );
 };
 
 export default MasonryGrid;
