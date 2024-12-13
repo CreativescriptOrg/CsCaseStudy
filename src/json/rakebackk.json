@@ -1,0 +1,106 @@
+{
+  "title": "Rakebackk: Online Poker Cashback Platform",
+  "hero_img": "/images/rakebackk-hero.png",
+  "about": {
+    "name": "Rakebackk",
+    "desc": "A comprehensive platform designed to help online poker players maximize their earnings by providing access to rakeback deals and cashback opportunities from various poker rooms.",
+    "domain": "Online Gaming",
+    "year": "2024",
+    "services": [
+      "Web Application Development",
+      "Deal Aggregation Platform",
+      "User Account Management"
+    ],
+    "mainTechStack": [
+      "React.js",
+      "Material-UI",
+      "Redux",
+      "Node.js"
+    ],
+    "platform": "Web",
+    "image": "/images/rakebackk-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "The CreativeScript team worked on developing a user-friendly platform for poker players to access and manage their rakeback deals efficiently.",
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": "Online poker players face challenges in maximizing their profits due to rake fees. They need a centralized platform to access and manage rakeback deals from various poker rooms, helping them reduce costs and increase overall earnings."
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Provide poker players with easy access to rakeback deals and cashback opportunities, helping them maximize their gaming profits."
+    },
+    {
+      "title": "Business Goal",
+      "desc": "Create a comprehensive platform that aggregates rakeback deals while ensuring security and user satisfaction."
+    }
+  ],
+  "solution": {
+    "desc": "CreativeScript delivered a web-based solution featuring deal aggregation, secure user accounts, educational resources, and an intuitive interface for managing rakeback opportunities."
+  },
+  "mockups": [
+    {
+      "img": "/images/rakebackk-mockup1.png",
+      "alt": "Deal Dashboard Interface",
+      "width": 700,
+      "height": 400
+    },
+    {
+      "img": "/images/rakebackk-mockup2.png",
+      "alt": "User Account Management",
+      "width": 600,
+      "height": 455
+    }
+  ],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "identification": "Understanding online poker players' needs and rakeback market dynamics through research and consultation.",
+      "validation": "Client-driven requirements combined with gaming industry best practices.",
+      "analysis": "Mapped out comprehensive solution addressing rakeback tracking and deal management challenges."
+    },
+    "problemsIdentified": [
+      {
+        "title": "Deal Integration",
+        "desc": "Challenges in aggregating and managing deals from multiple poker rooms."
+      },
+      {
+        "title": "User Education",
+        "desc": "Need for clear information about rakeback benefits and usage."
+      },
+      {
+        "title": "Platform Security",
+        "desc": "Ensuring secure handling of user data and transactions."
+      }
+    ],
+    "affinityMapping": [
+      {
+        "img": "/images/rakebackk-affinity1.png",
+        "alt": "Affinity Mapping 1",
+        "width": 288,
+        "height": 400
+      }
+    ],
+    "ideaExploration": {
+      "analogyUsed": "Rakebackk was designed as a central hub for poker players, simplifying access to rakeback deals through an intuitive platform.",
+      "doctor": "CreativeScript Team",
+      "child": "The Rakebackk Platform",
+      "parent": "Online Poker Players"
+    },
+    "naming": "Rakebackk represents the platform's focus on providing rakeback opportunities to poker players, with the double 'k' adding a distinctive touch to the brand."
+  },
+  "ui": {
+    "approach": "Created a clean and intuitive interface focusing on easy access to deals and clear presentation of rakeback information.",
+    "socialProof": "Currently gathering initial user feedback and monitoring platform engagement.",
+    "futureScope": "Planning to expand partnerships with more poker rooms and enhance deal tracking capabilities."
+  },
+  "conclusion": {
+    "achievements": [
+      "Developed a comprehensive rakeback deal aggregation platform",
+      "Created an intuitive interface for managing poker cashback opportunities",
+      "Implemented secure user account management features",
+      "Established a foundation for future expansion with additional poker room partnerships"
+    ]
+  }
+} 

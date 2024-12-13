@@ -1,0 +1,108 @@
+{
+  "title": "Cauhec Connect: Healthcare Education Platform",
+  "hero_img": "/images/cauhec-hero.png",
+  "about": {
+    "name": "Cauhec Connect",
+    "desc": "Cauhec Connect is a comprehensive platform bridging healthcare education and clinical training, connecting healthcare students with experienced preceptors for clinical rotations.",
+    "domain": "Education",
+    "year": "2024",
+    "services": [
+      "Mobile App Development",
+      "Backend Development",
+      "Cloud Infrastructure"
+    ],
+    "mainTechStack": [
+      "React Native",
+      "Redux",
+      "Node.js",
+      "AWS",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "platform": "Mobile",
+    "image": "/images/cauhec-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "The CreativeScript team collaborated across mobile development, backend, cloud infrastructure, QA, and project management roles to deliver an innovative healthcare education platform.",
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": "Healthcare students face challenges in finding and connecting with qualified preceptors for clinical rotations, while experienced healthcare professionals lack efficient tools to manage their teaching commitments and mentor the next generation of practitioners."
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Create a seamless platform connecting healthcare students with experienced preceptors, facilitating efficient clinical training placements and mentorship opportunities."
+    },
+    {
+      "title": "Business Goal",
+      "desc": "Develop a scalable and user-friendly mobile platform that streamlines the clinical rotation process while promoting professional growth in healthcare education."
+    }
+  ],
+  "solution": {
+    "desc": "CreativeScript delivered a comprehensive mobile solution featuring student-preceptor matching, location-based search, secure in-app communication, profile management, streamlined scheduling, push notifications, and progress tracking capabilities."
+  },
+  "mockups": [
+    {
+      "img": "/images/cauhec-mockup1.png",
+      "alt": "Mobile App Interface",
+      "width": 600,
+      "height": 455
+    },
+    {
+      "img": "/images/cauhec-mockup2.png",
+      "alt": "Preceptor Dashboard",
+      "width": 700,
+      "height": 400
+    }
+  ],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "identification": "Understanding the unique challenges in healthcare education through client consultation and industry research.",
+      "validation": "Client-driven requirements combined with healthcare education workflow analysis.",
+      "analysis": "Mapped out comprehensive solution addressing clinical rotation and mentorship challenges."
+    },
+    "problemsIdentified": [
+      {
+        "title": "Complex Matching Process",
+        "desc": "Challenge in creating an efficient system for matching students with appropriate preceptors."
+      },
+      {
+        "title": "Communication Flow",
+        "desc": "Ensuring seamless and secure communication between students and preceptors."
+      },
+      {
+        "title": "User Experience",
+        "desc": "Designing an intuitive interface for both students and experienced healthcare professionals."
+      }
+    ],
+    "affinityMapping": [
+      {
+        "img": "/images/cauhec-affinity1.png",
+        "alt": "Affinity Mapping 1",
+        "width": 288,
+        "height": 400
+      }
+    ],
+    "ideaExploration": {
+      "analogyUsed": "Cauhec Connect was designed as a bridge between healthcare education and practical training, facilitating meaningful connections and learning opportunities.",
+      "doctor": "CreativeScript Team",
+      "child": "The Cauhec Platform",
+      "parent": "Healthcare Students and Preceptors"
+    },
+    "naming": "Cauhec Connect emphasizes the platform's core mission of connecting healthcare education stakeholders for enhanced learning experiences."
+  },
+  "ui": {
+    "approach": "Created an intuitive mobile interface ensuring easy navigation and efficient workflow management for both students and preceptors.",
+    "socialProof": "Currently tracking user engagement and gathering initial feedback for platform optimization.",
+    "futureScope": "Planning to expand features based on user feedback and explore additional healthcare education opportunities."
+  },
+  "conclusion": {
+    "achievements": [
+      "Developed a comprehensive healthcare education platform connecting students with preceptors",
+      "Achieved a crash-free session rate of 99.5%",
+      "Successfully implemented secure communication and scheduling features",
+      "Created a scalable platform ready for future enhancements"
+    ]
+  }
+}

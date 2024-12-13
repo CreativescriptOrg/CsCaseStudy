@@ -1,0 +1,108 @@
+{
+  "title": "DocChase: Healthcare CRM Solution",
+  "hero_img": "/images/docchase-hero.png",
+  "about": {
+    "name": "DocChase",
+    "desc": "DocChase is a comprehensive CRM system designed to streamline patient management, appointment scheduling, and communication for healthcare providers.",
+    "domain": "Healthcare",
+    "year": "2023-2024",
+    "services": [
+      "Web Application Development",
+      "Dashboard Development",
+      "API Integration"
+    ],
+    "mainTechStack": [
+      "React",
+      "Material-UI",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "PDFKit",
+      "Telnyx"
+    ],
+    "platform": "Web",
+    "image": "/images/docchase-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "The CreativeScript team collaborated across frontend, backend, QA, and project management roles to deliver a robust healthcare CRM solution.",
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": "Healthcare providers struggle with fragmented systems for patient management, appointment scheduling, and communication. DocChase addresses these challenges by providing an all-in-one solution that centralizes data and automates workflows."
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Provide healthcare providers with an intuitive platform for managing patient data, appointments, and communications efficiently."
+    },
+    {
+      "title": "Business Goal",
+      "desc": "Develop a scalable and secure CRM system that streamlines healthcare operations while ensuring data privacy and system reliability."
+    }
+  ],
+  "solution": {
+    "desc": "CreativeScript delivered a comprehensive solution including centralized dashboard, calendar integration, patient management, call logs with Twilio integration, Telnyx-powered fax and call functionality, task automation, and secure authentication."
+  },
+  "mockups": [
+    {
+      "img": "/images/docchase-mockup1.png",
+      "alt": "Dashboard Mockup",
+      "width": 700,
+      "height": 400
+    },
+    {
+      "img": "/images/docchase-mockup2.png",
+      "alt": "Patient Management Interface",
+      "width": 600,
+      "height": 455
+    }
+  ],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "identification": "Understanding healthcare providers' needs through client consultation and industry research.",
+      "validation": "Client-driven requirements combined with healthcare workflow analysis.",
+      "analysis": "Mapped out comprehensive solution addressing patient management and communication challenges."
+    },
+    "problemsIdentified": [
+      {
+        "title": "Complex Integration",
+        "desc": "Challenge in integrating multiple third-party APIs like Twilio and Telnyx."
+      },
+      {
+        "title": "Data Security",
+        "desc": "Ensuring HIPAA compliance and secure data handling."
+      },
+      {
+        "title": "System Performance",
+        "desc": "Maintaining performance while handling concurrent tasks and real-time communications."
+      }
+    ],
+    "affinityMapping": [
+      {
+        "img": "/images/docchase-affinity1.png",
+        "alt": "Affinity Mapping 1",
+        "width": 288,
+        "height": 400
+      }
+    ],
+    "ideaExploration": {
+      "analogyUsed": "DocChase was designed as a centralized hub for healthcare providers, simplifying complex workflows through automation and integration.",
+      "doctor": "CreativeScript Team",
+      "child": "The DocChase Platform",
+      "parent": "Healthcare Providers"
+    },
+    "naming": "DocChase represents the streamlined pursuit of efficient healthcare management, emphasizing the platform's focus on medical professionals."
+  },
+  "ui": {
+    "approach": "Created an intuitive interface with Material-UI components, ensuring easy navigation and efficient workflow management.",
+    "socialProof": "Pending initial rollout and user feedback.",
+    "futureScope": "Planning to expand features and enhance integration capabilities based on user feedback and market demands."
+  },
+  "conclusion": {
+    "achievements": [
+      "Developed a comprehensive healthcare CRM with integrated communication features",
+      "Successfully implemented complex third-party API integrations",
+      "Created a scalable and secure platform ready for deployment"
+    ]
+  }
+}

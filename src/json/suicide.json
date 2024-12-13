@@ -1,0 +1,110 @@
+{
+  "title": "Suicide Risk Dashboard: Healthcare Analytics Platform",
+  "hero_img": "/images/suicide-hero.png",
+  "about": {
+    "name": "Suicide Risk Dashboard",
+    "desc": "A comprehensive analytics platform designed to help healthcare providers and analysts identify, compare, and analyze datasets related to suicide risk factors, leveraging advanced visualization tools and machine learning APIs.",
+    "domain": "Healthcare/Analytics",
+    "year": "2024",
+    "services": [
+      "Web Application Development",
+      "Dashboard Development",
+      "API Integration",
+      "Data Visualization"
+    ],
+    "mainTechStack": [
+      "React",
+      "Material-UI",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Redux",
+      "MUI DataGrid"
+    ],
+    "platform": "Web",
+    "image": "/images/suicide-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "The CreativeScript team collaborated across frontend, backend, analytics, QA, and design roles to deliver a sophisticated healthcare analytics platform for suicide risk assessment.",
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": "Healthcare providers and analysts lacked a centralized platform for analyzing suicide risk factors across multiple datasets. The need was for a comprehensive solution that could handle complex data analysis while ensuring security and providing actionable insights."
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Provide healthcare professionals with powerful tools for analyzing and visualizing suicide risk factors across multiple datasets, enabling better understanding and decision-making."
+    },
+    {
+      "title": "Business Goal",
+      "desc": "Develop a secure and scalable analytics platform that streamlines the analysis of healthcare data while ensuring privacy and maintaining high performance."
+    }
+  ],
+  "solution": {
+    "desc": "CreativeScript delivered a comprehensive analytics dashboard featuring dataset comparison tools, interactive visualizations, machine learning API integration, and secure authentication, all designed to enhance healthcare providers' analytical capabilities."
+  },
+  "mockups": [
+    {
+      "img": "/images/suicide-mockup1.png",
+      "alt": "Analytics Dashboard Interface",
+      "width": 700,
+      "height": 400
+    },
+    {
+      "img": "/images/suicide-mockup2.png",
+      "alt": "Data Visualization Tools",
+      "width": 600,
+      "height": 455
+    }
+  ],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "identification": "Understanding healthcare providers' analytical needs through client consultation and industry research.",
+      "validation": "Client-driven requirements combined with healthcare data analysis best practices.",
+      "analysis": "Mapped out comprehensive solution addressing data visualization and analysis challenges."
+    },
+    "problemsIdentified": [
+      {
+        "title": "Data Security",
+        "desc": "Ensuring secure handling of sensitive healthcare information."
+      },
+      {
+        "title": "Complex Analysis",
+        "desc": "Managing and visualizing large datasets effectively."
+      },
+      {
+        "title": "API Integration",
+        "desc": "Seamlessly incorporating multiple analysis and prediction APIs."
+      }
+    ],
+    "affinityMapping": [
+      {
+        "img": "/images/suicide-affinity1.png",
+        "alt": "Affinity Mapping 1",
+        "width": 288,
+        "height": 400
+      }
+    ],
+    "ideaExploration": {
+      "analogyUsed": "The Suicide Risk Dashboard was designed as an analytical companion for healthcare professionals, transforming complex data into actionable insights through intuitive visualization and analysis tools.",
+      "doctor": "CreativeScript Team",
+      "child": "The Analytics Platform",
+      "parent": "Healthcare Providers and Analysts"
+    },
+    "naming": "Suicide Risk Dashboard directly communicates its purpose as a comprehensive tool for analyzing and understanding suicide risk factors in healthcare settings."
+  },
+  "ui": {
+    "approach": "Created an intuitive interface with powerful visualization tools and analytics features, ensuring healthcare providers can easily access and understand complex data insights.",
+    "socialProof": "Early adopters reported high satisfaction with the platform's analytical capabilities and user interface.",
+    "futureScope": "Planning to expand features based on user feedback and integrate additional machine learning capabilities."
+  },
+  "conclusion": {
+    "achievements": [
+      "Developed a comprehensive healthcare analytics platform with advanced visualization tools",
+      "Successfully integrated multiple machine learning APIs for data analysis",
+      "Created a secure and scalable system for handling sensitive healthcare data",
+      "Received positive feedback from healthcare providers on platform usability"
+    ]
+  }
+}

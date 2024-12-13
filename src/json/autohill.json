@@ -1,0 +1,110 @@
+{
+  "title": "Autohill: Automotive Finance Management Platform",
+  "hero_img": "/images/autohill-hero.png",
+  "about": {
+    "name": "Autohill App",
+    "desc": "A comprehensive mobile application that streamlines vehicle management, budget planning, and payment processing, offering users a seamless experience for managing their automotive finances.",
+    "domain": "Automotive/Fintech",
+    "year": "2024",
+    "services": [
+      "Mobile App Development",
+      "Payment Integration",
+      "Authentication System",
+      "Vehicle Management"
+    ],
+    "mainTechStack": [
+      "React Native",
+      "Supabase",
+      "Redux",
+      "Formik",
+      "Stripe",
+      "Apple Pay SDK",
+      "Google Pay SDK"
+    ],
+    "platform": "Mobile",
+    "image": "/images/autohill-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "The CreativeScript team collaborated across mobile development, backend integration, payment systems, and UX design to deliver a robust automotive finance management solution.",
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": "Vehicle owners faced challenges in managing their automotive finances, vehicle information, and payment methods efficiently. The need was for an integrated solution that could handle these aspects while providing a secure and user-friendly experience."
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Provide vehicle owners with an intuitive platform for managing their automotive information, expenses, and payments through a unified mobile application."
+    },
+    {
+      "title": "Business Goal",
+      "desc": "Develop a secure and scalable mobile platform that streamlines automotive finance management while ensuring seamless payment integration and data privacy."
+    }
+  ],
+  "solution": {
+    "desc": "CreativeScript delivered a comprehensive mobile solution featuring multi-platform authentication, secure wallet functionality, garage management, budget planning tools, and integrated payment processing with Apple Pay, Google Pay, and Stripe."
+  },
+  "mockups": [
+    {
+      "img": "/images/autohill-mockup1.png",
+      "alt": "Mobile App Interface",
+      "width": 600,
+      "height": 455
+    },
+    {
+      "img": "/images/autohill-mockup2.png",
+      "alt": "Payment Management Screen",
+      "width": 700,
+      "height": 400
+    }
+  ],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "identification": "Understanding vehicle owners' needs through client consultation and automotive finance industry research.",
+      "validation": "Client-driven requirements combined with fintech best practices.",
+      "analysis": "Mapped out comprehensive solution addressing vehicle management and payment processing challenges."
+    },
+    "problemsIdentified": [
+      {
+        "title": "Complex Integration",
+        "desc": "Integrating multiple payment SDKs and authentication systems seamlessly."
+      },
+      {
+        "title": "Data Security",
+        "desc": "Ensuring secure handling of payment information and user data."
+      },
+      {
+        "title": "User Experience",
+        "desc": "Creating intuitive workflows for vehicle data management and payments."
+      }
+    ],
+    "affinityMapping": [
+      {
+        "img": "/images/autohill-affinity1.png",
+        "alt": "Affinity Mapping 1",
+        "width": 288,
+        "height": 400
+      }
+    ],
+    "ideaExploration": {
+      "analogyUsed": "Autohill was designed as a digital garage manager, simplifying automotive finance management through intuitive interfaces and secure payment processing.",
+      "doctor": "CreativeScript Team",
+      "child": "The Autohill Platform",
+      "parent": "Vehicle Owners and Users"
+    },
+    "naming": "Autohill represents the platform's focus on automotive management and financial planning, emphasizing its role in helping users navigate their vehicle-related expenses."
+  },
+  "ui": {
+    "approach": "Created an intuitive mobile interface with clear workflows for vehicle management, payment processing, and budget planning.",
+    "socialProof": "Currently gathering initial user feedback and monitoring app performance metrics.",
+    "futureScope": "Planning to expand features based on user feedback and integrate additional automotive management capabilities."
+  },
+  "conclusion": {
+    "achievements": [
+      "Developed a comprehensive automotive finance management platform",
+      "Successfully integrated multiple payment systems and authentication methods",
+      "Created intuitive workflows for vehicle data management",
+      "Implemented secure payment processing with industry-standard protocols"
+    ]
+  }
+} 
