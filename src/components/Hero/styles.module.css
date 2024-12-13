@@ -4,11 +4,11 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	/* height: 80vh; */
 	background: url("/images/hero_bg.png");
 	color: white;
 	padding-block: 4rem;
-	margin-bottom: 12rem;
+	margin-bottom: 6rem;
+	gap: 3rem;
 }
 .backdrop {
 	position: absolute;
@@ -20,21 +20,32 @@
 }
 
 .container img {
-	margin-bottom: -160px;
+	margin-bottom: -120px;
 	z-index: 1;
-	/* border: 1px solid #ffffff99; */
+	border: 1px solid #ffffff99;
 	box-shadow: 0px 4px 24px 0px #0000000f;
 	box-shadow: 0px 4px 8px 0px #0000001a;
 	box-shadow: 0px 0px 32px 0px #0000000f;
+	border-radius: 1rem;
 }
 
 .container h1 {
 	font-family: Mochiy Pop One;
-	font-size: 60px;
+	font-size: 24px;
 	font-weight: 400;
-	line-height: 86.88px;
+	line-height: 34.75px;
 	letter-spacing: -0.02em;
 	text-align: left;
 	text-underline-position: from-font;
 	text-decoration-skip-ink: none;
+}
+
+@media (min-width: 768px) {
+	.container {
+		margin-bottom: 12rem;
+	}
+	.container h1 {
+		font-size: 60px;
+		line-height: 86.88px;
+	}
 }

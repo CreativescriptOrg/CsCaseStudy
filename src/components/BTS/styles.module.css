@@ -6,11 +6,32 @@
 
 .grid_1 {
 	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+	grid-template-columns: repeat(2, 1fr);
 	gap: 1rem;
 }
+
 .grid_1 img,
 .grid_2 img {
 	width: 100%;
 	object-fit: cover;
+}
+
+.container li {
+	font-family: SF Pro Display;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.71px;
+	text-align: left;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+}
+
+@media (min-width: 768px) {
+	.container li {
+		font-size: 16px;
+		line-height: 19.09px;
+	}
+	.grid_1 {
+		grid-template-columns: repeat(4, 1fr);
+	}
 }

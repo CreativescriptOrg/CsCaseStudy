@@ -1,6 +1,6 @@
 .grid_1 {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 1fr;
 	gap: 1rem;
 }
 
@@ -19,4 +19,10 @@
 	text-align: left;
 	text-underline-position: from-font;
 	text-decoration-skip-ink: none;
+}
+
+@media (min-width: 768px) {
+	.grid_1 {
+		grid-template-columns: 1fr 1fr;
+	}
 }

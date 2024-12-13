@@ -36,8 +36,7 @@ const BTS = () => {
 					<ul>
 						{data.behindTheScenes.problemsIdentified.map((el, i) => (
 							<li key={i}>
-								<strong>{el.title} - </strong>
-								{parse(el.desc)}
+								{el.title} - {parse(el.desc)}
 							</li>
 						))}
 					</ul>
