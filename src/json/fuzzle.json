@@ -1,0 +1,81 @@
+{
+    "title": "Fuzzle: Weight Management System",
+    "hero_img": "/images/fuzzle-hero.png",
+    "about": {
+      "name": "Fuzzle",
+      "desc": "Fuzzle is an innovative, patent-pending weight management system designed to help users control hunger cues and improve their overall well-being.",
+      "domain": "Healthcare",
+      "year": "2024",
+      "services": [
+        "Research",
+        "UI/UX Design"
+      ],
+      "mainTechStack": [],
+      "platform": "Mobile App",
+      "image": "/images/fuzzle-placeholder.png"
+    },
+    "projectTeam": {
+      "desc": "The team consisted of two UI designers and one UX designer along with the project owner. The entire project was completed in 2 months.",
+      "roles": [
+        {
+          "role": "UI Design",
+          "members": ["Himanshu", "Hariom"]
+        },
+        {
+          "role": "Project Management and UX Design",
+          "members": ["Vanshita"]
+        }
+      ],
+      "img": "/images/team-placeholder.png"
+    },
+    "problem": {
+      "desc": "Many individuals struggle with discipline when following diet plans, leading to inconsistent adherence. Fuzzle addresses this challenge by implementing a mechanism to physically restrict eating and enforcing compliance through reminders and tracking features."
+    },
+    "goals": [
+      {
+        "title": "User Goal",
+        "desc": "Design and develop an application to help users plan meals, manage diets, and track fitness metrics."
+      },
+      {
+        "title": "Business Goal",
+        "desc": "Enhance user engagement by providing interactive and effective features to address the target audience's needs."
+      }
+    ],
+    "solution": {
+      "desc": "CreativeScript delivered a feature-packed app including meal logging, customized meal plans, notifications, weight and glucose monitoring, community features, physical activity tracking, and streak management. The app's minimal and user-friendly design ensures seamless navigation."
+    },
+    "behindTheScenes": {
+      "targetAudience": [
+        "Individuals aged 25–55, male and female, with sedentary or office-going lifestyles in the US",
+        "Individuals seeking tools for meal planning, fitness tracking, and weight management"
+      ],
+      "marketAnalysis": "Studied existing applications in the domain to understand the best-performing features and user flows.",
+      "userFlow": "Created and refined a user flow incorporating functionalities like meal planning, activity timers, and a chatbot.",
+      "problemsIdentified": [
+        "Initial lack of clarity around required features necessitated extensive exploration and brainstorming.",
+        "Designing and iterating on the app’s flow to ensure ease of use and intuitive navigation."
+      ]
+    },
+    "ui": {
+      "approach": "Adopted a dark theme with purple accents to align with the client's branding and resonate with the target audience.",
+      "colors": {
+        "primary": "Purple",
+        "secondary": "Gray"
+      },
+      "typography": {
+        "primary": "Manrope",
+        "secondary": "Chivo Mono"
+      }
+    },
+    "conclusion": {
+      "achievements": [
+        "Designed and developed the Fuzzle app with a comprehensive feature set to tackle meal tracking and fitness management challenges.",
+        "Conducted thorough market analysis and iterative design processes to meet user needs.",
+        "Provided a comprehensive solution to help users improve their overall health."
+      ]
+    },
+    "clientFeedback": {
+      "desc": "Re-designed the app with a fresh outlook, focusing on simplicity and usability improvements."
+    }
+  }
+  

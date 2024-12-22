@@ -1,0 +1,72 @@
+{
+    "title": "Polyviam",
+    "hero_img": "/images/polyviam-hero.png",
+    "about": {
+      "name": "Polyviam",
+      "desc": "Polyviam is a growth strategy agency that helps startups and businesses to plan and consult growth strategies by identifying opportunities through the big three growth levers: Product, Brand, and Distribution.",
+      "domain": "Growth Strategy Agency",
+      "year": "2024",
+      "services": ["Branding", "UI & UX Designing"],
+      "mainTechStack": ["Webflow"],
+      "platform": "Web, Mobile",
+      "image": "/images/polyviam-placeholder.png"
+    },
+    "projectTeam": {
+      "desc": "This landing page project consisted of a product designer and a UX researcher and took around 2 weeks to design, with ongoing Webflow development.",
+      "members": [
+        "UI Designer - Himanshu",
+        "UX Researcher & Project Management - Vanshita"
+      ],
+      "img": "/images/team-placeholder.png"
+    },
+    "problem": {
+      "desc": [
+        "The client needed an intuitive and visually appealing landing page that effectively communicates Polyviam’s core services and growth strategies.",
+        "The brief was to create a no-nonsense yet interactive design that keeps users hooked till the end."
+      ]
+    },
+    "goals": [
+      {
+        "title": "User Goal",
+        "desc": "Craft a visually engaging landing page to establish trust and credibility."
+      },
+      {
+        "title": "Business Goal",
+        "desc": [
+          "Highlight Polyviam’s unique methodology of leveraging Product, Brand, and Distribution for growth.",
+          "Follow the structure and vision the client had and turn it into reality, based on references provided by the client."
+        ]
+      }
+    ],
+    "solution": {
+      "desc": [
+        "To have a minimal and non-distracting design, but with a visually engaging user experience throughout the website.",
+        "Unique transitions between various sections of the landing page were implemented to keep users hooked.",
+        "Showcase the content using illustrations and animations to enhance engagement and clarity."
+      ]
+    },
+    "mockups": [],
+    "behindTheScenes": {
+      "discoveryPhase": {
+        "targetAudience": [
+          "Startup Founders: Startups with 100 to 200 team members, aspiring to scale their businesses.",
+          "Successful Founders: Seeking innovative strategies to optimize operations and expand their market reach."
+        ],
+        "uiInspiration": "Analyzed multiple landing pages of competitors and client-provided references for the look and feel of the website.",
+        "ideaExploration": "Iterated on hero sections and subsequent sections of the website, aligning with user goals and incorporating client feedback."
+      },
+      "ui": {
+        "approach": "Crafted a clean, modern, and minimalistic interface ensuring a seamless user journey with visual hierarchy.",
+        "colors": "Balanced use of red, blue, and grey for professionalism and vibrancy. Subtle noise textures and gradients added depth and sophistication.",
+        "typography": "Used 'Inter Display' and 'Inter Tight' fonts for a contemporary and readable experience while keeping font sizes minimal.",
+        "animations": "Incorporated smooth scroll-triggered animations and fade-ins, including a silhouette overlay in the hero section for dynamic interactions."
+      }
+    },
+    "conclusion": {
+      "achievements": [
+        "Designed a visually engaging, minimal landing page that clearly communicated Polyviam's services and growth strategies.",
+        "Used unique transitions, illustrations, and animations to create an interactive user experience aligned with the client's vision."
+      ]
+    }
+  }
+  

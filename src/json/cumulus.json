@@ -1,0 +1,65 @@
+{
+  "title": "Cumulus",
+  "hero_img": "/images/cumulus-hero.png",
+  "about": {
+    "name": "Cumulus",
+    "desc": "Cumulus is a web-based responsive application that allows users to securely store documents, share them with designated individuals, and set inheritance rules for document access after the owner's passing. The platform emphasizes ease of use, data security, and seamless sharing.",
+    "domain": "Document Storage and Inheritance Management",
+    "year": "2024",
+    "services": ["Research", "UI/UX Design"],
+    "mainTechStack": [],
+    "platform": "Web Application",
+    "image": "/images/cumulus-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "The project's design took 2 months (October to December) along with the Project Owner and Project Manager from the client end.",
+    "members": [
+      "UX Design & Project Management - Vanshita",
+      "UI Design - Hariom"
+    ],
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": [
+      "The client wanted to build a secure, user-friendly, and organized platform for individuals to store critical documents, share them with specific people, and plan for access after their passing."
+    ]
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Design a web platform to assist users in managing their inheritance documents effectively."
+    },
+    {
+      "title": "Business Goal",
+      "desc": "Create a landing page to showcase the features and benefits of Cumulus, ensuring seamless compatibility across both web and mobile versions."
+    }
+  ],
+  "solution": {
+    "desc": [
+      "Dashboard: Overview with folder system, stats, search bar, and key actions.",
+      "Folder and Document Management: View folders, upload and categorize documents, and access document details with options for download and sharing.",
+      "Document Sharing: Manage access by adding designated contacts and setting custom permissions (view, edit, delete).",
+      "After Life Access: Designed a separate flow to securely select nominees and share documents with them.",
+      "Voice Memo: Allowing users to record voice messages for their nominees as part of after-life access.",
+      "Notification & User Profile: User profile management and notifications for document access, updates, and security alerts."
+    ]
+  },
+  "mockups": [],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "targetAudience": "US individuals aged 30-65, including estate planners, family members, trusted individuals, and legal or financial advisors.",
+      "uiInspiration": "Reviewed another application, FidSafe, in the same domain to understand its user flow, features, and gather ideas for the user interface.",
+      "ideaExploration": "Brainstormed and refined the user flow for each feature through multiple design iterations."
+    },
+    "designingForDevices": "Once the web version features were complete, the mobile UI was designed and a landing page was created to highlight all the product features.",
+    "ui": {
+      "approach": "The UI is clean, user-friendly, and focused on organizing and managing documents efficiently. The colors white, gray, and blue were chosen to create a sense of trust, especially since the app involves sharing sensitive information. The use of a clean, sans-serif font makes it easier for users to read and navigate the platform."
+    }
+  },
+  "conclusion": {
+    "achievements": [
+      "Successfully designed a comprehensive platform for secure document management and sharing, incorporating inheritance planning with custom permissions and after-life access.",
+      "Ensured the design is compatible with both mobile and web versions, providing a seamless experience across all devices."
+    ]
+  }
+}

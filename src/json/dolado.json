@@ -1,0 +1,60 @@
+{
+  "title": "Dolado: Supply Chain Management Platform",
+  "hero_img": "/images/dolado-hero.png",
+  "about": {
+    "name": "Dolado",
+    "desc": "Dolado is a platform designed to streamline the connection between sellers and industries, making it easier to manage and facilitate sales processes.",
+    "domain": "Supply Chain Management",
+    "year": "2024",
+    "services": ["UI & UX Designing"],
+    "mainTechStack": ["Framer"],
+    "platform": "Web, Mobile",
+    "image": "/images/dolado-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "This landing page redesign project consisted of a product designer and took 2 weeks to design.",
+    "team": ["UI/UX Designer: Hariom Gupta"],
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": [
+      "The existing landing page didn\u2019t clearly differentiate services for sellers and suppliers, making it harder to cater to both customer categories effectively.",
+      "The client wanted a fresh layout with better storytelling, modern visuals, and alignment with current design trends while maintaining the existing branding."
+    ]
+  },
+  "goals": [
+    {
+      "title": "Design Goal",
+      "desc": [
+        "Re-design the Landing Page clearly showcasing services for sellers and suppliers in separate sections for better communication.",
+        "Use visuals, animations, and clean design to make the page engaging and aligned with modern trends.",
+        "Retain the existing brand identity while improving the user experience and storytelling."
+      ]
+    }
+  ],
+  "solution": {
+    "desc": [
+      "Redesigned the layout to include clear sections for sellers and suppliers, using graphics and visuals to explain features effectively.",
+      "Incorporated animations to make the page engaging and visually dynamic while maintaining branding as per client\u2019s requirement.",
+      "Used a clean and minimal design to balance a modern and professional look."
+    ]
+  },
+  "behindTheScenes": {
+    "research": "Studied multiple websites for UI inspiration and performed heuristic analysis to identify areas of improvement.",
+    "contentRestructuring": "Reorganized content and features into clear sections, better aligning with Dolado\u2019s story and making key information more accessible.",
+    "visualEnhancements": "Designed graphics, visuals, and animations to highlight features and services, improving user engagement while keeping the layout clean and modern."
+  },
+  "ui": {
+    "approach": [
+      "Created a minimal and professional look using the brand colors and a card-based layout for clarity.",
+      "Incorporated animations to make the page engaging and visually dynamic while maintaining branding with blue, navy blue, lime neon green, and grey accents.",
+      "Used a clean and minimal design with fonts 'Noticia Text' and 'Inter' to balance a modern and professional look."
+    ]
+  },
+  "conclusion": {
+    "achievements": [
+      "The re-designed landing page successfully caters to both sellers and suppliers by showcasing services in a clear and engaging way.",
+      "The updated layout, storytelling, and modern visuals align with Dolado\u2019s branding and enhance the user experience, ensuring better communication and stronger engagement with users."
+    ]
+  }
+}

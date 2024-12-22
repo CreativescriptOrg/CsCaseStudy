@@ -1,108 +1,145 @@
 {
-  "title": "DocChase: Healthcare CRM Solution",
+  "title": "DocChase",
+  "subtitle":"How we designed and developed  a communication platform for healthcare providers with fast, responsive, and secure user interface.",
   "hero_img": "/images/docchase-hero.png",
   "about": {
     "name": "DocChase",
-    "desc": "DocChase is a comprehensive CRM system designed to streamline patient management, appointment scheduling, and communication for healthcare providers.",
+    "desc": "DocChase aims to streamline patient management, appointment scheduling, and communication for healthcare providers. Its primary goal is to enhance operational efficiency and provide a user-friendly interface for managing various healthcare workflows, including call logs, notifications, and reports.",
     "domain": "Healthcare",
-    "year": "2023-2024",
+    "year": "2024",
     "services": [
+      "Research",
+      "UI/UX Design",
       "Web Application Development",
       "Dashboard Development",
       "API Integration"
     ],
     "mainTechStack": [
-      "React",
-      "Material-UI",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "PDFKit",
-      "Telnyx"
+      "Frontend: React, Material-UI",
+      "Backend: Node.js, Express",
+      "Database: Postgres",
+      "Additional: ToolsPDFKit, Telnyx"
     ],
-    "platform": "Web",
-    "image": "/images/docchase-placeholder.png"
+    "platform": "Web Application",
+    "images": [
+      "image1",
+      "image2",
+      "image3",
+      "image4",
+      "/mnt/data/Screenshot 2024-12-22 at 5.14.24 AM.png"
+    ]
   },
   "projectTeam": {
-    "desc": "The CreativeScript team collaborated across frontend, backend, QA, and project management roles to deliver a robust healthcare CRM solution.",
+    "desc": "The project’s initial development took 3-4 months (July to November), with ongoing development planned afterward.",
+    "teamMembers": {
+      "Frontend Development": ["Karishma"],
+      "Backend Development": ["Kunal"],
+      "Quality Assurance & Project Management": ["Amrendra", "Shreyansh"],
+      "UX Design": ["Vanshita"],
+      "UI Design": ["Hariom"]
+    },
     "img": "/images/team-placeholder.png"
   },
-  "problem": {
-    "desc": "Healthcare providers struggle with fragmented systems for patient management, appointment scheduling, and communication. DocChase addresses these challenges by providing an all-in-one solution that centralizes data and automates workflows."
-  },
-  "goals": [
-    {
-      "title": "User Goal",
-      "desc": "Provide healthcare providers with an intuitive platform for managing patient data, appointments, and communications efficiently."
+  "projectDetails": {
+    "problem": {
+      "title": "What was the Problem?",
+      "heading": "Client Challenges",
+      "description": [
+        "Need for a user-friendly interface to ensure adoption among staff.",
+        "Complexity in managing and streamlining asynchronous tasks like follow-ups with doctors, collecting patient records, finding doctor information, and notifications.",
+        "Currently, multiple software and tools are used for different tasks, making the process difficult to manage and time-consuming."
+      ]
     },
-    {
-      "title": "Business Goal",
-      "desc": "Develop a scalable and secure CRM system that streamlines healthcare operations while ensuring data privacy and system reliability."
-    }
-  ],
-  "solution": {
-    "desc": "CreativeScript delivered a comprehensive solution including centralized dashboard, calendar integration, patient management, call logs with Twilio integration, Telnyx-powered fax and call functionality, task automation, and secure authentication."
-  },
-  "mockups": [
-    {
-      "img": "/images/docchase-mockup1.png",
-      "alt": "Dashboard Mockup",
-      "width": 700,
-      "height": 400
+    "goal": {
+      "title": "What was the Goal?",
+      "description": [
+        "Centralized Dashboard: Provide a comprehensive overview of appointments, tasks, and notifications.",
+        "Task Automation: Automate repetitive tasks like follow-ups, notifications, and appointment reminders.",
+        "Seamless Communication: Integrate call logs and messaging features using Twilio and Telnyx.",
+        "Efficient Scheduling: Enable intuitive scheduling and calendar views for managing appointments.",
+        "Data Security: Implement robust authentication and authorization using JWT."
+      ]
     },
-    {
-      "img": "/images/docchase-mockup2.png",
-      "alt": "Patient Management Interface",
-      "width": 600,
-      "height": 455
-    }
-  ],
-  "behindTheScenes": {
-    "discoveryPhase": {
-      "identification": "Understanding healthcare providers' needs through client consultation and industry research.",
-      "validation": "Client-driven requirements combined with healthcare workflow analysis.",
-      "analysis": "Mapped out comprehensive solution addressing patient management and communication challenges."
+    "solution": {
+      "title": "What was the Solution?",
+      "description": [
+        "Dashboard: Built an interactive dashboard displaying key metrics, task overviews, and upcoming appointments.",
+        "Calendar Integration: Integrated a dynamic calendar to schedule and track appointments seamlessly.",
+        "Patient Management: Developed a dedicated patient page for storing and updating patient data.",
+        "Call Log System: Implemented a chronological call log feature with playback functionality for recorded calls using Twilio.",
+        "Fax and Call Functionality: Successfully integrated Telnyx to provide calling and faxing capabilities. Overcame significant challenges related to API integration and optimized the system for real-time communication.",
+        "Task Automation: Used Node-Cron for scheduling and managing tasks like notifications and follow-up reminders.",
+        "PDF Generation: Leveraged PDFKit to create custom reports and exportable documents for patient records.",
+        "Secure Authentication: Integrated JWT for secure session management and user authentication.",
+        "Data Visualization: Used libraries like Chart.js for visualizing data and reports in the dashboard."
+      ]
     },
-    "problemsIdentified": [
-      {
-        "title": "Complex Integration",
-        "desc": "Challenge in integrating multiple third-party APIs like Twilio and Telnyx."
-      },
-      {
-        "title": "Data Security",
-        "desc": "Ensuring HIPAA compliance and secure data handling."
-      },
-      {
-        "title": "System Performance",
-        "desc": "Maintaining performance while handling concurrent tasks and real-time communications."
-      }
-    ],
-    "affinityMapping": [
-      {
-        "img": "/images/docchase-affinity1.png",
-        "alt": "Affinity Mapping 1",
-        "width": 288,
-        "height": 400
-      }
-    ],
-    "ideaExploration": {
-      "analogyUsed": "DocChase was designed as a centralized hub for healthcare providers, simplifying complex workflows through automation and integration.",
-      "doctor": "CreativeScript Team",
-      "child": "The DocChase Platform",
-      "parent": "Healthcare Providers"
-    },
-    "naming": "DocChase represents the streamlined pursuit of efficient healthcare management, emphasizing the platform's focus on medical professionals."
-  },
-  "ui": {
-    "approach": "Created an intuitive interface with Material-UI components, ensuring easy navigation and efficient workflow management.",
-    "socialProof": "Pending initial rollout and user feedback.",
-    "futureScope": "Planning to expand features and enhance integration capabilities based on user feedback and market demands."
-  },
-  "conclusion": {
-    "achievements": [
-      "Developed a comprehensive healthcare CRM with integrated communication features",
-      "Successfully implemented complex third-party API integrations",
-      "Created a scalable and secure platform ready for deployment"
+    "Image": [
+      "image1",
+      "image2",
+      "image3",
+      "image4",
+      "/mnt/data/Screenshot 2024-12-22 at 5.14.24 AM.png"
     ]
+  },
+  "behindTheScenes": {
+    "understandingCurrentWorkflow": {
+      "targetAudience": {
+        "healthcareProviders": "Efficiently manage patient data, schedule appointments, and communicate seamlessly.",
+        "administrativeStaff": "Streamline operations with an intuitive dashboard, calendar integration, and task automation."
+      },
+      "understandingUserJourney": "We analyzed the entire user journey by conducting detailed interviews with the client to understand the process thoroughly.",
+      "developingUserFlow": "Using the insights from the interviews, we created a user flow and grouped features based on the specific tasks users needed to complete.",
+      "visualisingFeaturesAndDataPoints": "Each feature was aligned with user goals, and we brainstormed multiple ways to present these features to make the process simpler and more user-friendly."
+    },
+    "teamChallenges": {
+      "designChallenges": [
+        "Developing user flow understanding due to the complexity of the process, which was difficult to grasp all at once."
+      ],
+      "developmentChallenges": [
+        "Integration of multiple third-party APIs (Twilio, Telnyx, Axios).",
+        "Ensuring the system handles concurrent tasks without performance issues.",
+        "Designing a flexible database schema to accommodate varied patient data.",
+        "Big Challenge: Integration of advanced calling and fax functionalities using Telnyx. This required adapting to Telnyx's API for seamless communication features while maintaining system performance and ensuring a cohesive user experience."
+      ]
+    }
+  },
+  "userInterfaceAndProductOutlook": {
+    "designApproach": "We designed the user interface with a clean, simple look using white, gray, and blue colors, which give the app a healthcare feel. The easy-to-read sans-serif font and clear charts make the information simple to understand.",
+    "results": {
+      "performance": "Fast and responsive user interface with minimal load times.",
+      "scalability": "Scalable backend design to accommodate future feature additions.",
+      "security": "Robust implementation of secure APIs and data handling practices."
+    }
+  },
+  "BrandingImages": [
+    "image1",
+    "image2",
+    "image3",
+    "image4",
+    "image5",
+    "image6",
+    "/mnt/data/Screenshot 2024-12-22 at 5.14.24 AM.png"
+  ],
+  "InterfaceImage": "/mnt/data/Screenshot 2024-12-22 at 5.14.24 AM.png",
+  "conclusion": {
+    "title": "Conclusion",
+    "description": {
+      "achievement": "The project successfully delivered a centralized platform that addressed the client’s challenges.",
+      "metricsAchieved": {
+        "performance": "Fast and responsive user interface with minimal load times.",
+        "scalability": "Scalable backend design to accommodate future feature additions.",
+        "security": "Robust implementation of secure APIs and data handling practices."
+      }
+    }
+  },
+  "clientFeedback": {
+    "title": "Client Feedback",
+    "description": {
+      "achievement": [
+        "Re-designed the entire Konster app with a fresh outlook of minimalist and simpler user interface.",
+        "The new design improves usability and enhances Konster’s image as a reliable platform for connecting users with contractors and suppliers."
+      ]
+    }
   }
 }

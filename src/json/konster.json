@@ -1,0 +1,68 @@
+{
+  "title": "Konster Redesign Project",
+  "hero_img": "/images/konster-hero.png",
+  "about": {
+    "name": "Konster",
+    "desc": "Konster is a platform connecting users with contractors and suppliers, providing reliable and efficient service management solutions.",
+    "domain": "Service Management",
+    "year": "2023-2024",
+    "services": [
+      "UI/UX Redesign",
+      "Application Modernization",
+      "Brand Enhancement"
+    ],
+    "mainTechStack": ["Figma", "Adobe Illustrator", "Prototyping Tools"],
+    "platform": "Mobile",
+    "image": "/images/konster-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "The team consisted of two UI designers and one UX designer along with the project owner. The entire project was completed in 4 weeks.",
+    "members": [
+      "UI Design - Himanshu, Hariom",
+      "Project Management and UX Design - Vanshita"
+    ],
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": [
+      "The current design of the application was too formal and complex.",
+      "The usage of brand colors was not balanced, with increased use of the primary color blue.",
+      "The icons and real-life images made the application less approachable and user-friendly, misaligning with the brand's principles of trust and transparency."
+    ]
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Redesign the entire user interface according to the given user flow and provide Konster with a fresh, clean, and minimal user interface."
+    }
+  ],
+  "solution": {
+    "desc": [
+      "To make the app look minimal and simple, the use of blue was reduced by balancing the colors with a 60-30-10 rule: 60% white, 30% blue, and 10% yellow.",
+      "Illustrations and simplified icons were used to make the platform look more friendly and approachable."
+    ]
+  },
+  "mockups": [],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "identification": "Understanding design challenges through consultations and competitor analysis.",
+      "validation": "Incorporating user feedback to create a streamlined design approach.",
+      "analysis": "Analyzed successful interfaces like ANGI, Task Rabbit, and Urban Company to draw inspiration."
+    },
+    "insights": {
+      "UI": "Inspired by ANG, Task Rabbit, and Urban Company to design a simpler and more user-friendly interface for Konster.",
+      "UX": "Studied service booking processes to understand the user journey from finding a service to booking it, improving the booking experience on Konster."
+    }
+  },
+  "ui": {
+    "approach": "Streamlined the color scheme, simplified icons, and improved the booking flow to create a simpler, minimalist, and more user-friendly UI for Konster.",
+    "socialProof": "Pending further rollout and feedback.",
+    "futureScope": "Currently in the MVP stage, with plans for funding and application development."
+  },
+  "conclusion": {
+    "achievements": [
+      "Redesigned the entire Konster app with a fresh outlook of minimalist and simpler user interface.",
+      "Improved usability and enhanced Konster’s image as a reliable platform for connecting users with contractors and suppliers."
+    ]
+  }
+}

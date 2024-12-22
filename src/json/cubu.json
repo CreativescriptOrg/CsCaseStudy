@@ -1,0 +1,59 @@
+{
+  "title": "Cubu: Customer Service Management Platform",
+  "hero_img": "/images/cubu-hero.png",
+  "about": {
+    "name": "Cubu",
+    "desc": "Cubu is a platform that streamlines the customer journey, both in-branch and online. The complete toolkit for running and optimizing customer service in your organization.",
+    "domain": "Customer Service Management",
+    "year": "2024",
+    "services": ["UI Designing"],
+    "platform": "Web, Mobile",
+    "image": "/images/cubu-placeholder.png",
+    "mainTechStack": []
+  },
+  "projectTeam": {
+    "desc": "This landing page redesign project consisted of a product designer and it took 2 weeks to design.",
+    "team": [
+      {
+        "role": "UI/UX Designer",
+        "name": "Hariom Gupta"
+      }
+    ],
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": "The existing landing page failed to present Cubu's features in an organized and visually appealing manner. The lack of a clean layout made it challenging for users to understand the services and features at a glance."
+  },
+  "goals": [
+    {
+      "title": "Highlight Key Features",
+      "desc": "Showcase Cubu's appointment and queue management services clearly and effectively."
+    },
+    {
+      "title": "Create a Minimal and Engaging UI",
+      "desc": "Develop a clean, visually appealing interface that enhances user understanding and experience."
+    }
+  ],
+  "solution": {
+    "desc": "Incorporated graphics and animations to explain services in a user-friendly manner. Multiple iterations were done to refine sections based on client feedback, ensuring clarity and engagement."
+  },
+  "behindTheScenes": {
+    "researchAndInspiration": "Analyzed layouts and designs from various sources to identify best practices for presenting services graphically.",
+    "iterations": "Created several versions of different sections of the landing page and refined them based on client feedback.",
+    "featureCommunication": "Used visuals, animations, graphics, and clean layouts to simplify the understanding of key features like Smart Calendar, Online Self-Booking, and Time Slot Management."
+  },
+  "ui": {
+    "approach": "Adopted a clean, clutter-free design to make the content stand out with visuals to provide clear communication of features and improve usability.",
+    "colors": "Used purple as the primary color, with blue, yellow, and peach as secondary colors, aligning with the client’s branding.",
+    "typography": "The font 'Plus Jakarta' was used for its modern and minimal vibe, complementing the clean aesthetic."
+  },
+  "conclusion": {
+    "achievements": [
+      "The redesign successfully presented Cubu's features in a clear, visually appealing format, making the services easy to understand for users.",
+      "By combining minimal design, animations, and client feedback, a landing page was delivered that effectively communicates Cubu’s offerings while enhancing user experience."
+    ]
+  },
+  "clientFeedback": {
+    "desc": "The new design improves usability and enhances Cubu's image as a reliable platform for managing customer service."
+  }
+}

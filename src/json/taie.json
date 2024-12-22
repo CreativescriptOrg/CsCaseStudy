@@ -1,0 +1,69 @@
+{
+  "title": "TAIE International Institute: Landing Page Project",
+  "hero_img": "/images/taie-hero.png",
+  "about": {
+    "name": "TAIE International Institute",
+    "desc": "TAIE International Institute is a leading international school in Toronto, Canada, offering a university preparation program called Unibridge, which acts as a pathway to prestigious universities worldwide.",
+    "domain": "Landing Page",
+    "year": "2024",
+    "services": ["UI & UX Designing"],
+    "mainTechStack": ["Figma", "Framer"],
+    "platform": "Web, Mobile",
+    "image": "/images/taie-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "The team consisted of 2 product designers and a UX researcher, who collaborated for 2 weeks to design and develop the landing page using Framer.",
+    "roles": [
+      "UI Designer: Himanshu, Hariom",
+      "UX Researcher & Project Manager: Vanshita",
+      "Framer Development: Himanshu"
+    ],
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": "Create a comprehensive landing page for TAIE International Institute highlighting their Unibridge program, effectively communicating benefits, showcasing success stories, and driving engagement with multiple CTAs."
+  },
+  "goals": [
+    {
+      "title": "Highlight Program Benefits",
+      "desc": "Effectively showcase the benefits and success rates of the Unibridge program."
+    },
+    {
+      "title": "Drive Engagement",
+      "desc": "Provide clear pathways for users to get in touch, learn more, and enroll."
+    },
+    {
+      "title": "Build Credibility",
+      "desc": "Incorporate testimonials and success stories to enhance trust."
+    },
+    {
+      "title": "Provide Detailed Information",
+      "desc": "Present detailed information about TAIE International Institute and their offerings."
+    }
+  ],
+  "solution": {
+    "desc": "Developed an intuitive landing page with clear navigation, compelling visuals and testimonials, detailed program information, and optimized lead capture forms."
+  },
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "targetAudience": "Students aged 16-25 preparing for top universities worldwide.",
+      "inspiration": "Analyzed competitor landing pages and client references to design a professional yet engaging look.",
+      "ideation": "Multiple iterations of hero sections and layouts were created and refined based on client feedback."
+    },
+    "uiAndVisuals": {
+      "approach": "Designed a clean and modern interface with a balanced use of white space and bold accent colors.",
+      "colors": "Deep blues and subtle whites with accent colors for CTAs and key sections.",
+      "typography": "Instrument Sans was chosen for its modern aesthetic and readability."
+    }
+  },
+  "conclusion": {
+    "achievements": [
+      "Enhanced user engagement through a professional and user-friendly interface.",
+      "Successfully highlighted program benefits and credibility through data-driven visuals.",
+      "Optimized for lead generation and enrollment conversions."
+    ]
+  },
+  "clientFeedback": {
+    "summary": "Client expressed satisfaction with the clean design and intuitive user experience, noting the positive impact on engagement and enrollment inquiries."
+  }
+}
