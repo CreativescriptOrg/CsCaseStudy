@@ -1,0 +1,69 @@
+{
+  "title": "Real Estate Landing Page ",
+  "hero_img": "/images/polyviam-hero.png",
+  "about": {
+    "name": "Real Estate Landing Page ",
+    "desc": "Personal landing page for a real estate client Shreaz Ali to educate users about the benefits of home flipping and showcase his experience and achievements.",
+    "domain": "Real-Estate",
+    "year": "2024",
+    "services": ["Branding", "UI & UX Designing"],
+    "mainTechStack": ["Framer"],
+    "platform": "Web, Mobile",
+    "image": "/images/polyviam-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "This landing page project consisted of a product designer and a UX researcher, and took around  1 weeks to design.",
+    "members": [
+      "UI Design : Hariom",
+      "UX Researcher & Project Management - Vanshita"
+    ],
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": [
+      "Client wanted to build a Landing Page for his home flipping real-estate business to help people know about home flipping and how his services can help them.",
+      "The Landing Page should not sound aggressively salesy as users are likely to avoid engaging with such websites."
+    ]
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Design the landing page showcasing the client’s achievements to establish trust and confidence among visitors."
+    },
+    {
+      "title": "Business Goal",
+      "desc": [
+        "Ensuring the design reflects the client’s personality casual yet experienced, showcasing their expertise and proven track record."
+      ]
+    }
+  ],
+  "solution": {
+    "desc": [
+      "Highlighted the benefits of flipping homes through content that showcases the client's expertise, building trust with users.",
+      "Designed intuitive call-to-action buttons that guide users toward simple actions like signing up for a webinar or downloading a guide.",
+      "Implemented a clean, minimalistic design with a luxurious feel to reflect the client’s personality while ensuring smooth navigation."
+    ]
+  },
+  "mockups": [],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "targetAudience": [
+        "Individuals aged  50 and above who are interested in real estate, financial growth, or learning about flipping homes. "
+      ],
+      "uiInspiration": "We analyzed multiple landing pages of websites in similar domain and Analyzed preferences of the target demographic focusing on a design and tone that resonates with their expectations.",
+      "ideaExploration": "We created a wireframe for easy navigation and registration, then refined the hero and other sections based on client feedback to finalize the landing page layout."
+    },
+    "ui": {
+      "approach": "A clean design using colors like yellow, black, and muted white, paired with professional typography using the Inter font, and high-quality images was chosen to create an ultra-luxurious and minimal look for the website.",
+      "colors": "We used a balanced combination of blue and green as primary colors for a medical look, complemented by neutral tones like white and sand. A subtle touch of orange stands out against the neutral tones and highlights the Call To Action Items.",
+      "typography": "The font “Satoshi” was used to ensure a professional look and easily readable experience.",
+      "animations": "Incorporated smooth scroll-triggered animations and fade-ins, including a silhouette overlay in the hero section for dynamic interactions."
+    }
+  },
+  "conclusion": {
+    "achievements": [
+      "Successfully designed the client’s Landing Page showcasing client’s achievement and experience along with webinar details, highlights and benefits.",
+      "The final design reflects the client’s approachable yet professional personality, creating an engaging experience that encourages webinar registrations while building trust with users."
+    ]
+  }
+}

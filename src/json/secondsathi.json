@@ -1,0 +1,68 @@
+{
+  "title": "Second Sathi - Landing Page Re-design",
+  "hero_img": "/images/polyviam-hero.png",
+  "about": {
+    "name": "Second Sathi - Landing Page Re-design",
+    "desc": "Second Sathi is a platform that connects individuals with US-based doctors to provide reliable second opinions for their medical concerns.",
+    "domain": "Healthcare",
+    "year": "2024",
+    "services": ["UI & UX Designing"],
+    "mainTechStack": ["Figma"],
+    "platform": "Web, Mobile",
+    "image": "/images/polyviam-placeholder.png"
+  },
+  "projectTeam": {
+    "desc": "This landing page project consisted of a product designer and a UX researcher, and took around  2 weeks to design.",
+    "members": [
+      "UI Designer - Himanshu",
+      "UX Researcher & Project Management - Vanshita"
+    ],
+    "img": "/images/team-placeholder.png"
+  },
+  "problem": {
+    "desc": [
+      "Second Sathi, a platform connecting Indians with trusted second opinions from U.S.-based board-certified doctors wanted a landing page that helps in streamlining the lead generation process in order to understand the interest of people for their service. "
+    ]
+  },
+  "goals": [
+    {
+      "title": "User Goal",
+      "desc": "Redesign the existing landing page to clearly communicate Second Sathi’s offerings, making it easier for users to understand the services and ultimately drive lead generation."
+    },
+    {
+      "title": "Business Goal",
+      "desc": [
+        "Streamlining the content and improving visual hierarchy and enhance lead generation by encouraging users to take actionable steps, such as scheduling consultations or exploring tailored plans."
+      ]
+    }
+  ],
+  "solution": {
+    "desc": [
+      "Analysing existing landing page problems in order to suggest potential improvements.",
+      "Simplifying the content flow for clarity and usability.",
+      "Used clean design, whitespace, and visuals to enhance readability and user experience."
+    ]
+  },
+  "mockups": [],
+  "behindTheScenes": {
+    "discoveryPhase": {
+      "targetAudience": [
+        "Indian individuals aged 24 to 45 years interested in second opinions from US Doctors for their medical concerns."
+      ],
+      "uiInspiration": "We conducted a UX Audit on the existing Landing Page to identify potential issues with usability and content structuring.",
+      "ideaExploration": "Based on the understanding developed from the UX Audit we re-structured the entire flow highlighting Second Sathi’s offerings and core value propositions.We did multiple iterations of hero sections as well as next sections of the website and  finalized on those which best aligned with users goals. We incorporated constant client feedback into the process to align user and business goals together.."
+    },
+    "ui": {
+      "approach": "We crafted a clean and modern interface that ensures a seamless user journey. Each section was thoughtfully structured to maintain visual hierarchy and deliver information effectively.",
+      "colors": "We used a balanced combination of blue and green as primary colors for a medical look, complemented by neutral tones like white and sand. A subtle touch of orange stands out against the neutral tones and highlights the Call To Action Items.",
+      "typography": "The font “Satoshi” was used to ensure a professional look and easily readable experience.",
+      "animations": "Incorporated smooth scroll-triggered animations and fade-ins, including a silhouette overlay in the hero section for dynamic interactions."
+    }
+  },
+  "conclusion": {
+    "achievements": [
+      "Successfully re-designed Second Sathi’s landing page, clearly showcasing its services and functionality.",
+      "Enhanced user understanding by guiding them to express their concerns easily through a clean, structured interface, while giving the page an overall medical-themed appearance."
+    ]
+  }
+}
