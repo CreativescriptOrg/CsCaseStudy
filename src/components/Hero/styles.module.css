@@ -1,4 +1,13 @@
+.hero {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 6rem;
+	gap: 2rem;
+}
 .container {
+	width: 100%;
 	position: relative;
 	display: flex;
 	flex-direction: column;
@@ -7,8 +16,25 @@
 	background: url("/images/hero_bg.png");
 	color: white;
 	padding-block: 4rem;
-	margin-bottom: 6rem;
+
 	gap: 3rem;
+	overflow: hidden;
+}
+.container > div {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+.container > div p {
+	color: rgba(245, 245, 245, 0.6);
+	text-align: center;
+	font-family: "SF Pro Display";
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 27px; /* 150% */
+	max-width: 800px;
+	margin-top: 1.6rem;
 }
 .backdrop {
 	position: absolute;
@@ -41,8 +67,8 @@
 }
 
 @media (min-width: 768px) {
-	.container {
-		margin-bottom: 12rem;
+	.hero {
+		margin-bottom: 4rem;
 	}
 	.container h1 {
 		font-size: 60px;

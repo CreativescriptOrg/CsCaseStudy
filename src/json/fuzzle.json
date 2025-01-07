@@ -1,81 +1,164 @@
 {
-    "title": "Fuzzle: Weight Management System",
-    "hero_img": "/images/fuzzle-hero.png",
-    "about": {
-      "name": "Fuzzle",
-      "desc": "Fuzzle is an innovative, patent-pending weight management system designed to help users control hunger cues and improve their overall well-being.",
-      "domain": "Healthcare",
-      "year": "2024",
-      "services": [
-        "Research",
-        "UI/UX Design"
-      ],
-      "mainTechStack": [],
-      "platform": "Mobile App",
-      "image": "/images/fuzzle-placeholder.png"
-    },
-    "projectTeam": {
-      "desc": "The team consisted of two UI designers and one UX designer along with the project owner. The entire project was completed in 2 months.",
-      "roles": [
-        {
-          "role": "UI Design",
-          "members": ["Himanshu", "Hariom"]
-        },
-        {
-          "role": "Project Management and UX Design",
-          "members": ["Vanshita"]
-        }
-      ],
-      "img": "/images/team-placeholder.png"
-    },
-    "problem": {
-      "desc": "Many individuals struggle with discipline when following diet plans, leading to inconsistent adherence. Fuzzle addresses this challenge by implementing a mechanism to physically restrict eating and enforcing compliance through reminders and tracking features."
-    },
-    "goals": [
-      {
-        "title": "User Goal",
-        "desc": "Design and develop an application to help users plan meals, manage diets, and track fitness metrics."
-      },
-      {
-        "title": "Business Goal",
-        "desc": "Enhance user engagement by providing interactive and effective features to address the target audience's needs."
-      }
-    ],
-    "solution": {
-      "desc": "CreativeScript delivered a feature-packed app including meal logging, customized meal plans, notifications, weight and glucose monitoring, community features, physical activity tracking, and streak management. The app's minimal and user-friendly design ensures seamless navigation."
-    },
-    "behindTheScenes": {
-      "targetAudience": [
-        "Individuals aged 25–55, male and female, with sedentary or office-going lifestyles in the US",
-        "Individuals seeking tools for meal planning, fitness tracking, and weight management"
-      ],
-      "marketAnalysis": "Studied existing applications in the domain to understand the best-performing features and user flows.",
-      "userFlow": "Created and refined a user flow incorporating functionalities like meal planning, activity timers, and a chatbot.",
-      "problemsIdentified": [
-        "Initial lack of clarity around required features necessitated extensive exploration and brainstorming.",
-        "Designing and iterating on the app’s flow to ensure ease of use and intuitive navigation."
-      ]
-    },
-    "ui": {
-      "approach": "Adopted a dark theme with purple accents to align with the client's branding and resonate with the target audience.",
-      "colors": {
-        "primary": "Purple",
-        "secondary": "Gray"
-      },
-      "typography": {
-        "primary": "Manrope",
-        "secondary": "Chivo Mono"
-      }
-    },
-    "conclusion": {
-      "achievements": [
-        "Designed and developed the Fuzzle app with a comprehensive feature set to tackle meal tracking and fitness management challenges.",
-        "Conducted thorough market analysis and iterative design processes to meet user needs.",
-        "Provided a comprehensive solution to help users improve their overall health."
-      ]
-    },
-    "clientFeedback": {
-      "desc": "Re-designed the app with a fresh outlook, focusing on simplicity and usability improvements."
-    }
-  }
-  
+	"theme_color": "#7E00DE",
+	"title": "Fuzzle",
+	"subtitle": "How we designed and developed the Fuzzle app with meal planning and fitness tracking to improve weight management, helping users track their diet plan and health goals leading to improved well-being.",
+	"hero_img": "fuzzle/Hero Image 1.webp",
+	"about": {
+		"name": "Fuzzle",
+		"desc": "Fuzzle is an innovative, patent-pending weight management system designed to help users control hunger cues and improve their overall well-being.",
+		"domain": "Healthcare",
+		"year": "2024",
+		"services": ["Research", "UI/UX Design"],
+		"mainTechStack": [],
+		"platform": "Mobile App",
+		"images": [
+			{
+				"img": "fuzzle/About Image 1.webp",
+				"alt": "fuzzle - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			},
+			{
+				"img": "fuzzle/About Image 3.webp",
+				"alt": "fuzzle - Healthcare Communication Platform",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "fuzzle/About Image 2.webp",
+				"alt": "fuzzle - Healthcare Communication Platform",
+				"width": 496,
+				"height": 949
+			},
+			{
+				"img": "fuzzle/About Image 4.webp",
+				"alt": "fuzzle - Healthcare Communication Platform",
+				"width": 724,
+				"height": 520
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The team consisted of two UI designers and one UX designer along with the project owner. The entire project was completed in 2 months.",
+		"members": [
+			"UI Design - Himanshu, Hariom",
+			"Project Management and UX Design - Vanshita"
+		],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>Many individuals struggle with discipline when following diet plans, leading to inconsistent adherence. To address this, the fuzzle is implemented to physically restrict eating, serving as a control mechanism to enforce compliance.</li><li>In order to help the individuals with the problem the client needed an application that provides meal reminders and helps them to maintain and track their diet plan.</li></ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<ul><li>Design and develop an application that helps users plan their meals, manage their diet and track fitness metrics.</li><li>Enhance User Engagement: Provide features that make the app interactive and effective for its target audience.</li></ul>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<div><div className='inner_title'>Feature-Packed App</div><br /><ul><li>The app includes meal logging, customised meal plans, notifications, weight and glucose monitoring, community features, physical activity tracking, and streak management.</li></ul></div><br /><br /><div><div className='inner_title'>User-Friendly Design</div><br /><ul><li>The app features a minimal and user-friendly design, ensuring a seamless and straightforward journey to assist individuals effectively.</li></ul></div>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "fuzzle/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 1224,
+			"height": 455
+		},
+		{
+			"img": "fuzzle/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "fuzzle/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 496,
+			"height": 944
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><div className='inner_title'>Target Audience</div><br /><ul><li>Individuals aged 25-55, male and female, with sedentary and office going lifestyles in the US.</li><li>Individuals seeking tools for meal planning, fitness tracking, and weight management.</li></ul></div><br /><br /><div><div className='inner_title'>Market Analysis</div><br /><p>We studied existing applications in the similar domain to understand the features and user flows that work best.</p></div><br /><br /><div><div className='inner_title'>Developing User Flow</div><br /><p>Based on the understanding we created a user flow and Implemented functionalities like meal planning, body metrics tracking, activity timers, and a chatbot to enhance the user experience.</p></div><br /><br /><div><div className='inner_title'>Visualising The Features</div><br /><p>We created multiple iterations on the design to refine the user flow and interface layout based on client feedback to ensure a seamless experience.</p></div><br /><br /><div><div className='inner_title'>Problems Faced - Design</div><br /><ul><li>The initial lack of clarity around required features necessitated extensive exploration and brainstorming.</li><li>Designing and iterating on the app’s flow demanded significant effort to ensure ease of use and intuitive navigation.</li></ul></div>"
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "fuzzle/Behind the Scenes 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "fuzzle/Behind the Scenes 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "fuzzle/Behind the Scenes 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "fuzzle/Behind the Scenes 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "fuzzle/Behind the Scenes 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "fuzzle/Behind the Scenes 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "fuzzle/Behind the Scenes 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "<div><div className='inner_title'>UI and Visuals</div><br /><p>We adopted dark theme with purple accents a modern, brand-aligned aesthetic that resonates with the target audience.</p></div><br /><br /><div><div className='inner_title'>Colors</div><br /><p>We used purple as the primary color and accents of gray aligning with the client’s branding interests.</p></div><br /><br /><div><div className='inner_title'>Typography</div><br /><p>The font “Manrope” is used  for its modern appeal and “Chivo Mono” for the numerical data representation to ensure clear readibility.</p></div>"
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "fuzzle/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 6",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "fuzzle/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 6",
+			"width": 600,
+			"height": 455
+		}
+	],
+
+	"projectDetails_4": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Designed and developed the Fuzzle app with comprehensive features and a user-friendly design to tackle meal tracking and fitness management challenges.</li><li>Conducted thorough market analysis and used iterative design to ensure the app meets user needs.</li><li>Provided a comprehensive solution to help users improve their overall health.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire fuzzle app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances fuzzle’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
+}

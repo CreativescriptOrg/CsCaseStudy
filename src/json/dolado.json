@@ -1,60 +1,173 @@
 {
-  "title": "Dolado: Supply Chain Management Platform",
-  "hero_img": "/images/dolado-hero.png",
-  "about": {
-    "name": "Dolado",
-    "desc": "Dolado is a platform designed to streamline the connection between sellers and industries, making it easier to manage and facilitate sales processes.",
-    "domain": "Supply Chain Management",
-    "year": "2024",
-    "services": ["UI & UX Designing"],
-    "mainTechStack": ["Framer"],
-    "platform": "Web, Mobile",
-    "image": "/images/dolado-placeholder.png"
-  },
-  "projectTeam": {
-    "desc": "This landing page redesign project consisted of a product designer and took 2 weeks to design.",
-    "team": ["UI/UX Designer: Hariom Gupta"],
-    "img": "/images/team-placeholder.png"
-  },
-  "problem": {
-    "desc": [
-      "The existing landing page didn\u2019t clearly differentiate services for sellers and suppliers, making it harder to cater to both customer categories effectively.",
-      "The client wanted a fresh layout with better storytelling, modern visuals, and alignment with current design trends while maintaining the existing branding."
-    ]
-  },
-  "goals": [
-    {
-      "title": "Design Goal",
-      "desc": [
-        "Re-design the Landing Page clearly showcasing services for sellers and suppliers in separate sections for better communication.",
-        "Use visuals, animations, and clean design to make the page engaging and aligned with modern trends.",
-        "Retain the existing brand identity while improving the user experience and storytelling."
-      ]
-    }
-  ],
-  "solution": {
-    "desc": [
-      "Redesigned the layout to include clear sections for sellers and suppliers, using graphics and visuals to explain features effectively.",
-      "Incorporated animations to make the page engaging and visually dynamic while maintaining branding as per client\u2019s requirement.",
-      "Used a clean and minimal design to balance a modern and professional look."
-    ]
-  },
-  "behindTheScenes": {
-    "research": "Studied multiple websites for UI inspiration and performed heuristic analysis to identify areas of improvement.",
-    "contentRestructuring": "Reorganized content and features into clear sections, better aligning with Dolado\u2019s story and making key information more accessible.",
-    "visualEnhancements": "Designed graphics, visuals, and animations to highlight features and services, improving user engagement while keeping the layout clean and modern."
-  },
-  "ui": {
-    "approach": [
-      "Created a minimal and professional look using the brand colors and a card-based layout for clarity.",
-      "Incorporated animations to make the page engaging and visually dynamic while maintaining branding with blue, navy blue, lime neon green, and grey accents.",
-      "Used a clean and minimal design with fonts 'Noticia Text' and 'Inter' to balance a modern and professional look."
-    ]
-  },
-  "conclusion": {
-    "achievements": [
-      "The re-designed landing page successfully caters to both sellers and suppliers by showcasing services in a clear and engaging way.",
-      "The updated layout, storytelling, and modern visuals align with Dolado\u2019s branding and enhance the user experience, ensuring better communication and stronger engagement with users."
-    ]
-  }
+	"theme_color": "#196BF7",
+	"title": "Dolado",
+	"subtitle": "How we redesigned the landing page of the platform that streamlines the connection between sellers and industries by clearly separating services for sellers and suppliers, with modern visuals, animations, and a clean layout to enhance engagement and storytelling.",
+	"hero_img": "dolado/Hero Image 1.webp",
+	"about": {
+		"name": "Dolado",
+		"desc": "Dolado is a platform designed to streamline the connection between sellers and industries, making it easier to manage and facilitate sales processes.",
+		"domain": "Supply Chain Management",
+		"year": "2024",
+		"services": ["UI & UX Designing"],
+		"mainTechStack": ["Framer"],
+		"platform": "Web, Mobile",
+		"images": [
+			{
+				"img": "dolado/About Image 1.webp",
+				"alt": "dolado - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			},
+			{
+				"img": "dolado/About Image 3.webp",
+				"alt": "dolado - Healthcare Communication Platform",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "dolado/About Image 2.webp",
+				"alt": "dolado - Healthcare Communication Platform",
+				"width": 496,
+				"height": 949
+			},
+			{
+				"img": "dolado/About Image 4.webp",
+				"alt": "dolado - Healthcare Communication Platform",
+				"width": 724,
+				"height": 520
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "This landing page redesign project consisted of a product designer and took 2 weeks to design.",
+		"members": ["UI/UX Designer: Hariom Gupta"],
+		"img": "placeholder.png"
+	},
+
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<div className='inner_title'>Client Challenges</div><br/><br/><ul><li>The existing landing page didn\u2019t clearly differentiate services for sellers and suppliers, making it harder to cater to both customer categories effectively.</li><li>The client wanted a fresh layout with better storytelling, modern visuals, and alignment with current design trends while maintaining the existing branding.</li></ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<ul><li>Re-design the Landing Page clearly showcasing services for sellers and suppliers in separate sections for better communication.</li><li>Use visuals, animations, and clean design to make the page engaging and aligned with modern trends.</li><li>Retain the existing brand identity while improving the user experience and storytelling.</li></ul>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<ul><li>Redesigned the layout to include clear sections for sellers and suppliers, using graphics and visuals to explain features effectively.</li><li>Incorporated animations to make the page engaging and visually dynamic while maintaining branding as per client\u2019s requirement.</li><li>Used a clean and minimal design to balance a modern and professional look.</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "dolado/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 442
+		},
+		{
+			"img": "dolado/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 442
+		},
+		{
+			"img": "dolado/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 442
+		},
+		{
+			"img": "dolado/Solution 4.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 442
+		},
+		{
+			"img": "dolado/Solution 5.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 442
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><span className='inner_title'>Research and Inspiration</span><br /><p>Studied multiple websites for UI inspiration and performed heuristic analysis to identify areas of improvement.</p></div><br /><br /><div><span className='inner_title'>Content Restructuring</span><br /><p>Reorganized content and features into clear sections, better aligning with Dolado’s story and making key information more accessible.</p></div><br /><br /><div><span className='inner_title'>Visual Enhancements</span><br /><p>Designed graphics, visuals, and animations to highlight features and services, improving user engagement while keeping the layout clean and modern.</p></div><br /><br />"
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "dolado/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "dolado/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "dolado/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "dolado/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "dolado/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "dolado/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "dolado/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "<div><span className='inner_title'>UI and Visuals</span><br /><ul><li>We created a minimal and professional look using the brand colors and a card-based layout for clarity.</li><li>We incorporated animations to make the page engaging and visually dynamic while maintaining branding with blue, navy blue, lime neon green, and grey accents.</li><li>Used a clean and minimal design with fonts 'Noticia Text' and 'Inter' to balance a modern and professional look.</li></ul></div>"
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "dolado/User Interface and Product Outlook 8.webp",
+			"alt": "Affinity 6",
+			"width": 600,
+			"height": 496
+		},
+		{
+			"img": "dolado/User Interface and Product Outlook 9.webp",
+			"alt": "Affinity 6",
+			"width": 600,
+			"height": 496
+		}
+	],
+	"projectDetails_4": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>The re-designed landing page successfully caters to both sellers and suppliers by showcasing services in a clear and engaging way.</li><li>The updated layout, storytelling, and modern visuals align with Dolado’s branding and enhance the user experience, ensuring better communication and stronger engagement with users.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>The project successfully delivered a centralized platform that addressed the client’s challenges.</li></ul><br/></br><div className=''>Metrics Achieved</div><br/><ul><li>Performance: Fast and responsive user interface with minimal load times.</li><li>Scalability: Scalable backend design to accommodate future feature additions.</li><li>Security: Robust implementation of secure APIs and data handling practices.</li></ul>"
+		}
+	]
 }

@@ -1,69 +1,189 @@
 {
-  "title": "TAIE International Institute: Landing Page Project",
-  "hero_img": "/images/taie-hero.png",
-  "about": {
-    "name": "TAIE International Institute",
-    "desc": "TAIE International Institute is a leading international school in Toronto, Canada, offering a university preparation program called Unibridge, which acts as a pathway to prestigious universities worldwide.",
-    "domain": "Landing Page",
-    "year": "2024",
-    "services": ["UI & UX Designing"],
-    "mainTechStack": ["Figma", "Framer"],
-    "platform": "Web, Mobile",
-    "image": "/images/taie-placeholder.png"
-  },
-  "projectTeam": {
-    "desc": "The team consisted of 2 product designers and a UX researcher, who collaborated for 2 weeks to design and develop the landing page using Framer.",
-    "roles": [
-      "UI Designer: Himanshu, Hariom",
-      "UX Researcher & Project Manager: Vanshita",
-      "Framer Development: Himanshu"
-    ],
-    "img": "/images/team-placeholder.png"
-  },
-  "problem": {
-    "desc": "Create a comprehensive landing page for TAIE International Institute highlighting their Unibridge program, effectively communicating benefits, showcasing success stories, and driving engagement with multiple CTAs."
-  },
-  "goals": [
-    {
-      "title": "Highlight Program Benefits",
-      "desc": "Effectively showcase the benefits and success rates of the Unibridge program."
-    },
-    {
-      "title": "Drive Engagement",
-      "desc": "Provide clear pathways for users to get in touch, learn more, and enroll."
-    },
-    {
-      "title": "Build Credibility",
-      "desc": "Incorporate testimonials and success stories to enhance trust."
-    },
-    {
-      "title": "Provide Detailed Information",
-      "desc": "Present detailed information about TAIE International Institute and their offerings."
-    }
-  ],
-  "solution": {
-    "desc": "Developed an intuitive landing page with clear navigation, compelling visuals and testimonials, detailed program information, and optimized lead capture forms."
-  },
-  "behindTheScenes": {
-    "discoveryPhase": {
-      "targetAudience": "Students aged 16-25 preparing for top universities worldwide.",
-      "inspiration": "Analyzed competitor landing pages and client references to design a professional yet engaging look.",
-      "ideation": "Multiple iterations of hero sections and layouts were created and refined based on client feedback."
-    },
-    "uiAndVisuals": {
-      "approach": "Designed a clean and modern interface with a balanced use of white space and bold accent colors.",
-      "colors": "Deep blues and subtle whites with accent colors for CTAs and key sections.",
-      "typography": "Instrument Sans was chosen for its modern aesthetic and readability."
-    }
-  },
-  "conclusion": {
-    "achievements": [
-      "Enhanced user engagement through a professional and user-friendly interface.",
-      "Successfully highlighted program benefits and credibility through data-driven visuals.",
-      "Optimized for lead generation and enrollment conversions."
-    ]
-  },
-  "clientFeedback": {
-    "summary": "Client expressed satisfaction with the clean design and intuitive user experience, noting the positive impact on engagement and enrollment inquiries."
-  }
+	"theme_color": "#2C3393",
+	"title": "TAIE International Institute",
+	"subtitle": "How we created a professional, engaging landing page to effectively highlight the TAIE Institute's programs, enhancing user engagement and conversions with clear navigation, compelling visuals.",
+	"hero_img": "taie/Hero Image 1.webp",
+	"about": {
+		"name": "TAIE International Institute",
+		"desc": "TAIE International Institute is a leading international school in Toronto, Canada, offering a university preparation program called Unibridge, which acts as a pathway to prestigious universities worldwide.",
+		"domain": "Landing Page",
+		"year": "2024",
+		"services": ["UI & UX Designing"],
+		"mainTechStack": ["Figma", "Framer"],
+		"platform": "Web, Mobile",
+		"images": [
+			{
+				"img": "taie/About Image 1.webp",
+				"alt": "taie - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			},
+			{
+				"img": "taie/About Image 2.webp",
+				"alt": "taie - Healthcare Communication Platform",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "taie/About Image 3.webp",
+				"alt": "taie - Healthcare Communication Platform",
+				"width": 496,
+				"height": 949
+			},
+			{
+				"img": "taie/About Image 4.webp",
+				"alt": "taie - Healthcare Communication Platform",
+				"width": 724,
+				"height": 520
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The team consisted of 2 product designers and a UX researcher, who collaborated for 2 weeks to design and develop the landing page using Framer.",
+		"members": [
+			"UI Designer: Himanshu, Hariom",
+			"UX Researcher & Project Manager: Vanshita",
+			"Framer Development: Himanshu"
+		],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>Create a comprehensive landing page for TAIE International Institute that highlights their top university preparation program, Unibridge.</li><li>The landing page should effectively communicate the benefits of the program, showcase successful university offers, and include testimonials, detailed information about TAIE, and multiple CTAs (Call-to-Actions) to drive engagement and conversions.</li></ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<ul><li>Highlight the Unibridge program's benefits and success rates.</li><li>Provide a clear pathway for users to get in touch, learn more, and enroll.</li><li>Showcase testimonials from students to build trust and credibility.</li><li>Provide detailed information about TAIE International Institute.</li></ul>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<ul><li>Clear Navigation: Designed an intuitive layout with CTAs guiding users to explore and enroll.</li><li>Compelling Content: Used visuals, testimonials, and success stats to build trust.</li><li>Data-Driven Confidence: Highlighted key metrics like acceptance rates to reinforce credibility.</li><li>Comprehensive Details: Included detailed program and service information for clarity.</li><li>Optimized Lead Capture: Integrated a user-friendly contact form for inquiries and enrollment.</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "taie/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 1224,
+			"height": 455
+		},
+		{
+			"img": "taie/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "taie/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 496,
+			"height": 944
+		},
+		{
+			"img": "taie/Solution 4.webp",
+			"alt": "Mockup 1",
+			"width": 496,
+			"height": 944
+		},
+		{
+			"img": "taie/Solution 5.webp",
+			"alt": "Mockup 1",
+			"width": 496,
+			"height": 944
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><div className='inner_title'>Target Audience</div><br /><br /><ul><li>Students of age group between 16-25 preparing for top universities worldwide.</li></ul></div><br /><br /><div><strong>User Interface Understanding and Inspiration</strong><br /><br /><p>We analyzed multiple landing pages of the competitors along with references provided by the client, and drew inspiration for the look and feel of the website. We wanted to give it a professional yet engaging look.</p></div><br /><br /><div><strong>Ideation on various sections</strong><br /><br /><p>We did multiple iterations of hero sections and presented to the client. And finalized on those which best aligned with users goals.</p></div>"
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "taie/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "<div><div className='inner_title'>UI and Visuals</div><br /><p>We designed a clean and modern interface with a balanced use of white space and bold accent colors to create a professional yet approachable look.</p></div><br /><br /><div><div className='inner_title'>Colors</div><br /><p>We used a professional and vibrant color palette, combining deep blues with subtle whites to convey trust and credibility. Accent colors were used to highlight CTAs, key statistics, and important sections, ensuring a visually engaging and cohesive design.</p></div><br /><br /><div><div className='inner_title'>Typography</div><br /><p>We chose “Instrument Sans” for its modern and clean aesthetic, ensuring readability across all devices. Larger, bold headings draw attention to key messages, while the clean, readable body text ensures users can easily absorb detailed information.</p></div>"
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "taie/User Interface and Product Outlook 8.webp",
+			"alt": "Affinity 6",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 9.webp",
+			"alt": "Affinity 6",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 10.webp",
+			"alt": "Affinity 6",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "taie/User Interface and Product Outlook 11.webp",
+			"alt": "Affinity 6",
+			"width": 600,
+			"height": 455
+		}
+	],
+
+	"projectDetails_4": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>The design highlights Unibridge’s benefits with a user-friendly and professional interface.</li><li>Clear navigation and visuals drive engagement and boost conversions.</li><li>A collaborative approach ensured a seamless blend of function and aesthetics.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire taie app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances taie’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
 }

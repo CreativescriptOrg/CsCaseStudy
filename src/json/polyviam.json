@@ -1,72 +1,170 @@
 {
-    "title": "Polyviam",
-    "hero_img": "/images/polyviam-hero.png",
-    "about": {
-      "name": "Polyviam",
-      "desc": "Polyviam is a growth strategy agency that helps startups and businesses to plan and consult growth strategies by identifying opportunities through the big three growth levers: Product, Brand, and Distribution.",
-      "domain": "Growth Strategy Agency",
-      "year": "2024",
-      "services": ["Branding", "UI & UX Designing"],
-      "mainTechStack": ["Webflow"],
-      "platform": "Web, Mobile",
-      "image": "/images/polyviam-placeholder.png"
-    },
-    "projectTeam": {
-      "desc": "This landing page project consisted of a product designer and a UX researcher and took around 2 weeks to design, with ongoing Webflow development.",
-      "members": [
-        "UI Designer - Himanshu",
-        "UX Researcher & Project Management - Vanshita"
-      ],
-      "img": "/images/team-placeholder.png"
-    },
-    "problem": {
-      "desc": [
-        "The client needed an intuitive and visually appealing landing page that effectively communicates Polyviam’s core services and growth strategies.",
-        "The brief was to create a no-nonsense yet interactive design that keeps users hooked till the end."
-      ]
-    },
-    "goals": [
-      {
-        "title": "User Goal",
-        "desc": "Craft a visually engaging landing page to establish trust and credibility."
-      },
-      {
-        "title": "Business Goal",
-        "desc": [
-          "Highlight Polyviam’s unique methodology of leveraging Product, Brand, and Distribution for growth.",
-          "Follow the structure and vision the client had and turn it into reality, based on references provided by the client."
-        ]
-      }
-    ],
-    "solution": {
-      "desc": [
-        "To have a minimal and non-distracting design, but with a visually engaging user experience throughout the website.",
-        "Unique transitions between various sections of the landing page were implemented to keep users hooked.",
-        "Showcase the content using illustrations and animations to enhance engagement and clarity."
-      ]
-    },
-    "mockups": [],
-    "behindTheScenes": {
-      "discoveryPhase": {
-        "targetAudience": [
-          "Startup Founders: Startups with 100 to 200 team members, aspiring to scale their businesses.",
-          "Successful Founders: Seeking innovative strategies to optimize operations and expand their market reach."
-        ],
-        "uiInspiration": "Analyzed multiple landing pages of competitors and client-provided references for the look and feel of the website.",
-        "ideaExploration": "Iterated on hero sections and subsequent sections of the website, aligning with user goals and incorporating client feedback."
-      },
-      "ui": {
-        "approach": "Crafted a clean, modern, and minimalistic interface ensuring a seamless user journey with visual hierarchy.",
-        "colors": "Balanced use of red, blue, and grey for professionalism and vibrancy. Subtle noise textures and gradients added depth and sophistication.",
-        "typography": "Used 'Inter Display' and 'Inter Tight' fonts for a contemporary and readable experience while keeping font sizes minimal.",
-        "animations": "Incorporated smooth scroll-triggered animations and fade-ins, including a silhouette overlay in the hero section for dynamic interactions."
-      }
-    },
-    "conclusion": {
-      "achievements": [
-        "Designed a visually engaging, minimal landing page that clearly communicated Polyviam's services and growth strategies.",
-        "Used unique transitions, illustrations, and animations to create an interactive user experience aligned with the client's vision."
-      ]
-    }
-  }
-  
+	"theme_color": "#4A4E69",
+	"title": "Polyviam",
+	"subtitle": "How we designed an interactive, minimal landing page for a growth agency aligning with the client’s vision to highlight their key offerings with an engaging user experience.",
+	"hero_img": "polyviam/Hero Image 1.webp",
+	"about": {
+		"name": "polyviam",
+		"desc": "Polyviam is a growth strategy agency, that helps startups and businesses to plan and consult growth strategies, by identifying opportunities through the big three growth levers, i.e. Product, Brand, Distribution.",
+		"domain": "Growth strategy agency",
+		"year": "2024",
+		"services": ["Branding", "UI & UX Designing"],
+		"mainTechStack": ["Webflow"],
+		"platform": "Web, Mobile",
+		"images": [
+			{
+				"img": "polyviam/About Image 1.webp",
+				"alt": "polyviam - Construction & Maintenance Application",
+				"width": 1224,
+				"height": 400
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "This landing page project consisted of a product designer and a UX researcher, and took around  2 weeks to design, with ongoing webflow development.",
+		"members": [
+			"UI designer: Himanshu",
+			"UX researcher & Project management: Vanshita"
+		],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>Client needed an intuitive and visually appealing landing page that effectively communicates Polyviam’s core services and growth strategies.</li><li>The brief was to create a no-nonsense yet interactive design that keeps the users hooked till the end.</li></ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<div><span className='inner_title'>What were the Goals:</span><br/><br/><ul><li>Craft a visually engaging landing page to establish trust and credibility.</li><li>Highlight Polyviam’s unique methodology of leveraging Product, Brand, and Distribution for growth.</li><li>Follow the structure and the vison that the client had, and turn it into reality, based on the provided references by the client.</li></ul></div>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<ul><li>To have a minimal and non-distracting design, but with a visually engaging user experience through out the website.</li><li>Have unique transitions between various sections of the landing page to keep users hooked.</li><li>Showcase the content using illustrations and animations, wherever necessary to enhance engagement and clarity.</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "polyviam/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "polyviam/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "polyviam/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 496,
+			"height": 944
+		},
+		{
+			"img": "polyviam/Solution 4.webp",
+			"alt": "Mockup 1",
+			"width": 704,
+			"height": 400
+		},
+		{
+			"img": "polyviam/Solution 5.webp",
+			"alt": "Mockup 1",
+			"width": 704,
+			"height": 520
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><div className='inner_title'>Target Audience</div><br /><br /><ul><li><strong>Startup Founders: </strong>Startups with 100 to 200 team members, aspiring to scale their businesses.</li><li><strong>Successful Founders: </strong>Seeking innovative strategies to optimize their operations and expand their market reach.</li></ul></div><br /><br /><div><strong>User Interface Understanding and Inspiration</strong><br /><br /><p>We analyzed multiple landing pages of the competitors along with those provided by the client, and drew inspiration for the look and feel of the website.</p></div><br /><br /><div><strong>Ideation on various sections</strong><br /><br /><p>We did multiple iterations of hero sections as well as next two sections of the website. And finalized on those which best aligned with users goals. The client’s feedback, also played an important part in this iteration phase.</p></div>"
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "polyviam/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "<div><div className='inner_title'>UI and Visuals</div><br /><p>We crafted a clean, modern, and minimalistic interface that ensures a seamless user journey. Each section was thoughtfully structured to maintain visual hierarchy and deliver information effectively without overwhelming the user.</p></div><br /><br /><div><div className='inner_title'>Colors</div><br /><p>For colors we tried to have a balanced use of red, blue, and grey as the primary colors, creating a professional yet vibrant look. Subtle noise textures and minimal gradients are strategically applied to add depth and sophistication without overwhelming the layout.</p></div><br /><br /><div><div className='inner_title'>Typography</div><br /><p>The fonts “Inter Display” and “Inter Tight” were used to ensure a contemporary, sleek, and highly readable experience. We deliberately kept the number of font sizes and weights minimal to maintain simplicity and avoid visual clutter.</p></div><br /><br /><div><div className='inner_title'>Animations</div><br /><p>We incorporated smooth, scroll-triggered animations and fade-in effects to make the design feel dynamic and interactive. The silhouette opening overlay in the hero section adds a sense of door which expands as you scroll down to next section.</p></div> "
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "polyviam/User Interface and Product Outlook 8.webp",
+			"alt": "Affinity 6",
+			"width": 1224,
+			"height": 480
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 9.webp",
+			"alt": "Affinity 6",
+			"width": 1224,
+			"height": 480
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 10.webp",
+			"alt": "Affinity 6",
+			"width": 1224,
+			"height": 480
+		},
+		{
+			"img": "polyviam/User Interface and Product Outlook 11.webp",
+			"alt": "Affinity 6",
+			"width": 1224,
+			"height": 480
+		}
+	],
+
+	"projectDetails_4": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Designed a visually engaging, minimal landing page that clearly communicated Polyviam’s services and growth strategies.</li><li>Used unique transitions, illustrations, and animations to create an interactive user experience aligned with the client’s vision.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire polyviam app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances polyviam’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
+}

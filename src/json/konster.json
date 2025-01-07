@@ -1,68 +1,168 @@
 {
-  "title": "Konster Redesign Project",
-  "hero_img": "/images/konster-hero.png",
-  "about": {
-    "name": "Konster",
-    "desc": "Konster is a platform connecting users with contractors and suppliers, providing reliable and efficient service management solutions.",
-    "domain": "Service Management",
-    "year": "2023-2024",
-    "services": [
-      "UI/UX Redesign",
-      "Application Modernization",
-      "Brand Enhancement"
-    ],
-    "mainTechStack": ["Figma", "Adobe Illustrator", "Prototyping Tools"],
-    "platform": "Mobile",
-    "image": "/images/konster-placeholder.png"
-  },
-  "projectTeam": {
-    "desc": "The team consisted of two UI designers and one UX designer along with the project owner. The entire project was completed in 4 weeks.",
-    "members": [
-      "UI Design - Himanshu, Hariom",
-      "Project Management and UX Design - Vanshita"
-    ],
-    "img": "/images/team-placeholder.png"
-  },
-  "problem": {
-    "desc": [
-      "The current design of the application was too formal and complex.",
-      "The usage of brand colors was not balanced, with increased use of the primary color blue.",
-      "The icons and real-life images made the application less approachable and user-friendly, misaligning with the brand's principles of trust and transparency."
-    ]
-  },
-  "goals": [
-    {
-      "title": "User Goal",
-      "desc": "Redesign the entire user interface according to the given user flow and provide Konster with a fresh, clean, and minimal user interface."
-    }
-  ],
-  "solution": {
-    "desc": [
-      "To make the app look minimal and simple, the use of blue was reduced by balancing the colors with a 60-30-10 rule: 60% white, 30% blue, and 10% yellow.",
-      "Illustrations and simplified icons were used to make the platform look more friendly and approachable."
-    ]
-  },
-  "mockups": [],
-  "behindTheScenes": {
-    "discoveryPhase": {
-      "identification": "Understanding design challenges through consultations and competitor analysis.",
-      "validation": "Incorporating user feedback to create a streamlined design approach.",
-      "analysis": "Analyzed successful interfaces like ANGI, Task Rabbit, and Urban Company to draw inspiration."
-    },
-    "insights": {
-      "UI": "Inspired by ANG, Task Rabbit, and Urban Company to design a simpler and more user-friendly interface for Konster.",
-      "UX": "Studied service booking processes to understand the user journey from finding a service to booking it, improving the booking experience on Konster."
-    }
-  },
-  "ui": {
-    "approach": "Streamlined the color scheme, simplified icons, and improved the booking flow to create a simpler, minimalist, and more user-friendly UI for Konster.",
-    "socialProof": "Pending further rollout and feedback.",
-    "futureScope": "Currently in the MVP stage, with plans for funding and application development."
-  },
-  "conclusion": {
-    "achievements": [
-      "Redesigned the entire Konster app with a fresh outlook of minimalist and simpler user interface.",
-      "Improved usability and enhanced Konster’s image as a reliable platform for connecting users with contractors and suppliers."
-    ]
-  }
+	"theme_color": "#214DAC",
+	"title": "Konster Redesign Project",
+	"subtitle": "How we redesigned a construction and maintenance services app, giving it a fresh, simpler user interface, and improved the service booking experience for users.",
+	"hero_img": "konster/Hero Image 1.webp",
+	"hero_img_caption": "Konster - Construction & Maintenance Application",
+	"about": {
+		"name": "Konster",
+		"desc": "Konster is a platform connecting users with contractors and suppliers, providing reliable and efficient service management solutions.",
+		"domain": "Service Management",
+		"year": "2023-2024",
+		"services": [
+			"UI/UX Redesign",
+			"Application Modernization",
+			"Brand Enhancement"
+		],
+		"mainTechStack": ["Figma", "Adobe Illustrator", "Prototyping Tools"],
+		"platform": "Mobile",
+		"image": [
+			{
+				"img": "konster/About Image 1.webp",
+				"alt": "Konster - Construction & Maintenance Application",
+				"width": 1224,
+				"height": 434
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The team consisted of two UI designers and one UX designer along with the project owner. The entire project was completed in 4 weeks.",
+		"members": [
+			"UI Design - Himanshu, Hariom",
+			"Project Management and UX Design - Vanshita"
+		],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>The current design of the application was too formal and complex.</li><li>The usage of brand colors was not balanced, with increased use of the primary color blue.</li><li>The icons and real-life images made the application less approachable and user-friendly, misaligning with the brand's principles of trust and transparency.</li></ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<ul><li>To re-design the entire user interface according to the given user flow.</li><li>Give Konster a fresh look with clean and minimal user interface.</li></ul>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<ul><li>To make the app look minimal and simple, the use of blue was reduced by balancing the colors with a 60-30-10 rule: 60% white, 30% blue, and 10% yellow.</li><li>Illustrations and simplified icons were used to make the platform look more friendly and approachable.</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "konster/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 1224,
+			"height": 434
+		},
+		{
+			"img": "konster/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 724,
+			"height": 400
+		},
+		{
+			"img": "konster/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 380,
+			"height": 870
+		},
+		{
+			"img": "konster/Solution 4.webp",
+			"alt": "Mockup 1",
+			"width": 724,
+			"height": 440
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div className='inner_title'>Insights From Similar Platforms</div><br/><br/><div><strong>User Interface Understanding and Inspiration</strong><br/><br/><p>We drew inspiration from apps like ANGI, Task Rabbit, and Urban Company to study their user interface, color choices, and icons, which helped us design a simpler and more user-friendly interface for Konster.</p></div><div><strong>User Experience Understanding</strong><br/><br/><p>To create a smooth user flow for the app, we studied how Urban Company handles service bookings. Even though the apps are in different fields, the common process of booking services online helped us understand the user journey from finding a service to booking it. This insight helped us improving the booking experience on Konster.</p></div>"
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "konster/Behind The Scene 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "konster/Behind The Scene 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "konster/Behind The Scene 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "konster/Behind The Scene 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "konster/Behind The Scene 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "konster/Behind The Scene 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "konster/Behind The Scene 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "Konster’s New Look",
+			"desc": "By streamlining the colour scheme, simplifying icons, and improving the booking flow, we created a simpler, minimalist and more user-friendly UI for Konster.<br/><br/><br/><div><strong>Future Scope</strong><br/><br/><p>Currently the app is under a MVP stage and next step for the company is to get a funding and then focus on development of the application.</p></div>"
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "konster/New Look Image 1.webp",
+			"alt": "Affinity 6",
+			"width": 496,
+			"height": 480
+		},
+		{
+			"img": "konster/New Look Image 2.webp",
+			"alt": "Affinity 7",
+			"width": 496,
+			"height": 480
+		},
+		{
+			"img": "konster/New Look Image 3.webp",
+			"alt": "Affinity 7",
+			"width": 496,
+			"height": 480
+		},
+		{
+			"img": "konster/New Look Image 4.webp",
+			"alt": "Affinity 7",
+			"width": 496,
+			"height": 480
+		}
+	],
+	"projectDetails_4": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire Konster app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances Konster’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire Konster app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances Konster’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
 }

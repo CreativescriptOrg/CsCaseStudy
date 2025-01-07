@@ -1,19 +1,28 @@
 import styles from "./styles.module.css";
 import data from "../../case_study_1.json";
-
+import { IMAGE_BASE_URL } from "../../config";
 export interface HeroProps {
-  title: string;
-  image: string;
+	title: string;
+	subtitle?: string;
+	image: string;
+	caption?: string;
 }
 
 const Hero = ({ data }: { data: HeroProps }) => {
-  return (
-    <div className={styles.container}>
-      <h1>{data.title}</h1>
-      <img src="/images/hero.png" alt="" />
-      <div className={styles.backdrop}></div>
-    </div>
-  );
+	return (
+		<div className={styles.hero}>
+			<div className={styles.container}>
+				<div>
+					<h1>{data.title}</h1>
+					<p>{data.subtitle}</p>
+				</div>
+				<img src={`${IMAGE_BASE_URL}${data.image}`} alt='' width={940} />
+
+				<div className={styles.backdrop}></div>
+			</div>
+			<p className={styles.caption}>{data.caption}</p>
+		</div>
+	);
 };
 
 export default Hero;

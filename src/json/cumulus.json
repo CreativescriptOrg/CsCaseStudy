@@ -1,65 +1,180 @@
 {
-  "title": "Cumulus",
-  "hero_img": "/images/cumulus-hero.png",
-  "about": {
-    "name": "Cumulus",
-    "desc": "Cumulus is a web-based responsive application that allows users to securely store documents, share them with designated individuals, and set inheritance rules for document access after the owner's passing. The platform emphasizes ease of use, data security, and seamless sharing.",
-    "domain": "Document Storage and Inheritance Management",
-    "year": "2024",
-    "services": ["Research", "UI/UX Design"],
-    "mainTechStack": [],
-    "platform": "Web Application",
-    "image": "/images/cumulus-placeholder.png"
-  },
-  "projectTeam": {
-    "desc": "The project's design took 2 months (October to December) along with the Project Owner and Project Manager from the client end.",
-    "members": [
-      "UX Design & Project Management - Vanshita",
-      "UI Design - Hariom"
-    ],
-    "img": "/images/team-placeholder.png"
-  },
-  "problem": {
-    "desc": [
-      "The client wanted to build a secure, user-friendly, and organized platform for individuals to store critical documents, share them with specific people, and plan for access after their passing."
-    ]
-  },
-  "goals": [
-    {
-      "title": "User Goal",
-      "desc": "Design a web platform to assist users in managing their inheritance documents effectively."
-    },
-    {
-      "title": "Business Goal",
-      "desc": "Create a landing page to showcase the features and benefits of Cumulus, ensuring seamless compatibility across both web and mobile versions."
-    }
-  ],
-  "solution": {
-    "desc": [
-      "Dashboard: Overview with folder system, stats, search bar, and key actions.",
-      "Folder and Document Management: View folders, upload and categorize documents, and access document details with options for download and sharing.",
-      "Document Sharing: Manage access by adding designated contacts and setting custom permissions (view, edit, delete).",
-      "After Life Access: Designed a separate flow to securely select nominees and share documents with them.",
-      "Voice Memo: Allowing users to record voice messages for their nominees as part of after-life access.",
-      "Notification & User Profile: User profile management and notifications for document access, updates, and security alerts."
-    ]
-  },
-  "mockups": [],
-  "behindTheScenes": {
-    "discoveryPhase": {
-      "targetAudience": "US individuals aged 30-65, including estate planners, family members, trusted individuals, and legal or financial advisors.",
-      "uiInspiration": "Reviewed another application, FidSafe, in the same domain to understand its user flow, features, and gather ideas for the user interface.",
-      "ideaExploration": "Brainstormed and refined the user flow for each feature through multiple design iterations."
-    },
-    "designingForDevices": "Once the web version features were complete, the mobile UI was designed and a landing page was created to highlight all the product features.",
-    "ui": {
-      "approach": "The UI is clean, user-friendly, and focused on organizing and managing documents efficiently. The colors white, gray, and blue were chosen to create a sense of trust, especially since the app involves sharing sensitive information. The use of a clean, sans-serif font makes it easier for users to read and navigate the platform."
-    }
-  },
-  "conclusion": {
-    "achievements": [
-      "Successfully designed a comprehensive platform for secure document management and sharing, incorporating inheritance planning with custom permissions and after-life access.",
-      "Ensured the design is compatible with both mobile and web versions, providing a seamless experience across all devices."
-    ]
-  }
+	"theme_color": "#0067FF",
+	"title": "Cumulus",
+	"subtitle": "How we designed a secure, user-friendly platform for document management and inheritance planning to ensure seamless experience and efficiency for users.",
+	"hero_img": "cumulus/Hero Image 1.webp",
+	"about": {
+		"name": "Cumulus",
+		"desc": "Cumulus is a web-based responsive application that allows users to securely store documents, share them with designated individuals, and set inheritance rules for document access after the owner's passing. The platform emphasizes ease of use, data security, and seamless sharing.",
+		"domain": "Document Storage and Inheritance Management",
+		"year": "2024",
+		"services": ["Research", "UI/UX Design"],
+		"mainTechStack": [],
+		"platform": "Web Application",
+		"images": [
+			{
+				"img": "cumulus/About Image 1.webp",
+				"alt": "cumulus - Construction & Maintenance Application",
+				"width": 1224,
+				"height": 400
+			},
+			{
+				"img": "cumulus/About Image 2.webp",
+				"alt": "cumulus - Construction & Maintenance Application",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "cumulus/About Image 3.webp",
+				"alt": "cumulus - Construction & Maintenance Application",
+				"width": 724,
+				"height": 520
+			},
+			{
+				"img": "cumulus/About Image 4.webp",
+				"alt": "cumulus - Construction & Maintenance Application",
+				"width": 496,
+				"height": 949
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The project's design took 2 months (October to December) along with the Project Owner and Project Manager from the client end.",
+		"members": [
+			"UX Design & Project Management - Vanshita",
+			"UI Design - Hariom"
+		],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "Client wanted to build a secure, user-friendly, and organised platform for individuals to store critical documents, share them with specific people, and plan for access after their passing."
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<ul><li>Design a web platform to assist users in managing their inheritance documents effectively.</li><li>Create a landing page to showcase the features and benefits of Cumulus.</li><li>Ensure seamless compatibility across both web and mobile versions.</li></ul>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<div className='inner_title'>Key Solutions Delivered:</div><br/><br/><ul><li>Dashboard: Overview with folder system, stats, search bar, and key actions.</li><li>Folder and Document Management: View folders, upload and categorize documents, and access document details with options for download and sharing.</li><li>Document Sharing: Manage access by adding designated contacts and setting custom permissions (view, edit, delete).</li><li>After Life Access: Designed a separate flow to securely select nominees and share documents with them.</li><li>Voice Memo:  Letting users record voice messages for their nominees as part of after-life access.</li><li>Notification & User Profile:  User profile management and notifications for document access, updates, and security alerts.</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "cumulus/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "cumulus/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "cumulus/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "cumulus/Solution 4.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "cumulus/Solution 5.webp",
+			"alt": "Mockup 1",
+			"width": 1224,
+			"height": 434
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><div className='inner_title'>Target Audience</div><br /><br /><ul><li>U.S. individuals aged 30-65, including estate planners, family members, trusted individuals, and legal or financial advisors.</li></ul></div><br /><br /><div><strong>User Interface Understanding and Inspiration</strong><br /><br /><p>We reviewed another application, FidSafe, in the same domain to understand its user flow, features, and gather ideas for the user interface.</p></div><br /><br /><div><strong>Ideation on Different Features</strong><br /><br /><p>Based on our understanding, we brainstormed and refined the user flow for each feature through multiple design iterations.</p></div><br /><br /><div><strong>Designing for Multiple Devices</strong><br /><br /><p>Once the web version features were complete, we designed the mobile UI and created a landing page to highlight all the product features.</p></div>"
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "cumulus/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "cumulus/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "cumulus/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "cumulus/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "cumulus/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "cumulus/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "cumulus/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "The UI is clean, user-friendly, and focused on organising and managing documents efficiently. The colors white, gray, and blue were chosen to create a sense of trust, especially since the app involves sharing sensitive information. The use of a clean, sans-serif font makes it easier for users to read and navigate the platform. "
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "cumulus/User Interface and Product Outlook 8.webp",
+			"alt": "Affinity 6",
+			"width": 1224,
+			"height": 480
+		}
+	],
+
+	"projectDetails_4": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully designed a comprehensive platform for secure document management and sharing incorporating inheritance planning with custom permissions and after-life access.</li><li>Ensured the design is compatible with both mobile and web versions, providing a seamless experience across all devices.</li></ul>"
+		}
+	],
+	"mockups_4": [
+		{
+			"img": "cumulus/Conclusion 1.webp",
+			"alt": "Affinity 6",
+			"width": 1224,
+			"height": 480
+		}
+	],
+	"projectDetails_5": [
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire cumulus app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances cumulus’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
 }
