@@ -9,7 +9,11 @@ import ProjectDetailsSection from "@/components/ProjectDetailsSection/ProjectDet
 import Media from "@/components/Media/Media";
 
 export default function Seoul() {
-	const hero: HeroProps = { title: data.title, image: data.hero_img };
+	const hero: HeroProps = {
+		title: data.title,
+		image: data.hero_img,
+		subtitle: data.subtitle,
+	};
 	const about: AboutProps = {
 		name: data.about.name,
 		desc: data.about.desc,
