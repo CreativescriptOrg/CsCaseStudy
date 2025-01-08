@@ -49,7 +49,6 @@ export default function Home() {
 				))}
 			</div>
 			<ProjectDetailsSection data={data.projectDetails_2} />
-			<ProjectDetailsSection data={data.projectDetails_3} />
 
 			<div className='caption_container'>
 				<div className='container mockup_grid konster_affinity'>
@@ -65,13 +64,12 @@ export default function Home() {
 						/>
 					))}
 				</div>
-				<span>Doc Chase Branding</span>
 			</div>
 			<br />
 			<br />
 			<br />
 
-			<div className='container mockup_grid'>
+			<div className='container mockup_grid two_col_grid'>
 				{data.mockups_3.map((el: any, i: number) => (
 					<img
 						key={i}
@@ -85,7 +83,7 @@ export default function Home() {
 				))}
 			</div>
 
-			<ProjectDetailsSection data={data.projectDetails_4} />
+			<ProjectDetailsSection data={data.projectDetails_3} />
 		</div>
 	);
 }

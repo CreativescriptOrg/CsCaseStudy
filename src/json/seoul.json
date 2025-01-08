@@ -1,0 +1,164 @@
+{
+	"theme_color": "#1F1F1F",
+	"title": "Seoul Medical CRM Design",
+	"subtitle": "How we developed a centralized healthcare platform that integrates financial tracking, project management, and patient task mseoultoring, resulting in more efficient clinic operations and streamlined administrative workflows.",
+	"hero_img": "seoul/Hero Image 1.webp",
+	"about": {
+		"name": "Seoul Medical CRM",
+		"desc": "Seoul Medical CRM is a platform provides a comprehensive user management system, enabling hospital administrators to keep track of team roles, responsibilities, and project assignments efficiently.",
+		"domain": "Healthcare, Customer Relationship Management",
+		"year": "2024",
+		"services": ["UI & UX Designing"],
+		"platform": "Web, Mobile",
+		"mainTechStack": ["Figma"],
+		"images": [
+			{
+				"img": "seoul/About Image 1.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			},
+			{
+				"img": "seoul/About Image 3.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "seoul/About Image 2.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 496,
+				"height": 949
+			},
+			{
+				"img": "seoul/About Image 4.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 520
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The project’s design took 3 -4 weeks to complete.",
+		"members": ["UI Design: Hariom Gupta"],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>Managing a clinic's finances and operations and projects can be overwhelming, with multiple moving parts such as tracking and mseoultoring expenses, and ensuring patient-related tasks are completed.</li><li>The client wanted a centralized system to provide real-time insights, enabling clinic administrators to efficiently manage projects, patients, forms, and analytics all in one place.</li></ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<div><span>To build a centralised platform healthcare platfrom that :</span><br/><br/><ul><li>Simplifies user management with role-based filters, project assignments.</li><li>Provides a real-time financial dashboard for tracking sales, expenses, and refunds, while streamlining patient task management and consolidating key data for quick, informed decision-making</li></ul></div>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<div><span className='inner_title'>Key Solutions Delivered:</span><br/><br/><ul><li><strong>Dashboard: </strong>Central hub for financial and personal metrics, including sales, expenses, refunds, and task completion.</li><li><strong>Chat: </strong>Real-time messaging for team collaboration and updates.</li><li><strong>Projects: </strong>Manage clinic projects, tasks, and progress tracking.</li><li><strong>Procedure Pricing: </strong>Manage and update pricing for clinic procedures.</li><li><strong>Forms:</strong> Create, store, and manage forms filled by the patients for inquiries</li><li><strong>User Management:</strong> Handle user roles, permissions, and task assignments.</li><li><strong>Admin Settings: </strong>Control panel for platform configuration and system customization.</li></ul></div>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "seoul/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "seoul/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "seoul/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "seoul/Solution 4.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><span className='inner_title'>Understanding Client Requirements:</span><br /><p>The client provided a basic structure of required features, which we used as a foundation to build user flows and organize data points systematically.</p></div><br /><br /><div><span className='inner_title'>Research & Inspiration</span><br /><p>To align with the client’s vision, we studied similar platforms, particularly Asana by Atlassian, to understand how user management systems function effectively.</p></div><br /><br /><div><span className='inner_title'>Iterative Design Approach:</span><br /><p>Using the research insights and client feedback, we designed and refined the platform to ensure it was comprehensive, user-friendly, and met all requirements seamlessly.</p></div><br /><br />"
+		},
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "<ul><li>The user interface features a clean, professional design with a predominantly olive gold and white color scheme, using the “Noto Sans KR” typeface for typography.</li><li>A structured grid layout organizes charts and cards effectively, while the sidebar navigation and intuitive filters enhance the user’s understanding of the information.</li><li>Circular charts and data visualizations simplify complex information, while the clean, readable design ensures usability and adaptability across various screen sizes.</li></ul>"
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "seoul/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "seoul/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "seoul/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "seoul/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "seoul/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "seoul/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "seoul/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "seoul/User Interface and Product Outlook 8.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "seoul/User Interface and Product Outlook 9.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>We created a centralized platform that integrates financial tracking, project management, and patient task monitoring, making clinic operations more efficient and organized.</li><li>The platform's clean design, intuitive navigation, and role-based features ensure ease of use, enabling clinic administrators to manage complex workflows effortlessly.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire seoul app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances seoul’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
+}

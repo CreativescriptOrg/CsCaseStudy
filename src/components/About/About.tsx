@@ -10,7 +10,7 @@ export interface AboutProps {
 	services: string[];
 	mainTechStack: string[];
 	platform: string;
-	images: any[];
+	images?: any[];
 }
 
 const About = ({
@@ -59,18 +59,22 @@ const About = ({
 					<div>{platform}</div>
 				</div>
 			</div>
-			<div className={`mockup_grid ${about_grid ? about_grid : styles.images}`}>
-				{images.map((image: any, i: number) => (
-					<Image
-						src={`${IMAGE_BASE_URL}${image.img}`}
-						alt={image.alt}
-						className='image'
-						width={image.width}
-						height={image.height}
-						key={i}
-					/>
-				))}
-			</div>
+			{images && images.length > 0 && (
+				<div
+					className={`mockup_grid ${about_grid ? about_grid : styles.images}`}
+				>
+					{images.map((image: any, i: number) => (
+						<Image
+							src={`${IMAGE_BASE_URL}${image.img}`}
+							alt={image.alt}
+							className='image'
+							width={image.width}
+							height={image.height}
+							key={i}
+						/>
+					))}
+				</div>
+			)}
 		</div>
 	);
 };

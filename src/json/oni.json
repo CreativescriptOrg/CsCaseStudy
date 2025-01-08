@@ -1,0 +1,140 @@
+{
+	"theme_color": "#1F1F1F",
+	"title": "One Nation Innovation ",
+	"subtitle": "How we designed the One Nation Innovation landing page to showcase government-hosted challenges resulting in a streamlined user experience that simplifies the discovery of relevant challenges and drives engagement.",
+	"hero_img": "oni/Hero Image 1.webp",
+	"about": {
+		"name": "One Nation Innovation",
+		"desc": "One Nation Innovation platform aims to present open challenges hosted by government improving public services where problem-solvers propose innovative solutions, driving higher quality and efficiency",
+		"domain": "Landing Page",
+		"year": "2024",
+		"services": ["UI Designing"],
+		"platform": "Web, Mobile",
+		"mainTechStack": [],
+		"images": [
+			{
+				"img": "oni/About Image 1.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			},
+			{
+				"img": "oni/About Image 3.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "oni/About Image 2.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 496,
+				"height": 949
+			},
+			{
+				"img": "oni/About Image 4.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 520
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The project’s design took 5 days to complete. The project team consisted of one UI designer.",
+		"members": ["UI Design: Hariom Gupta"],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "Client wanted to build Landing Page that helps in presenting the challenges held by the government online."
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "Design the landing page showcasing challenges hosted on the platform along with features to help users search challenges based on their preference."
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "The final design highlights the challenges section, incorporating filters and a search function to help users easily explore and find relevant challenges."
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "oni/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 1220,
+			"height": 455
+		},
+		{
+			"img": "oni/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "oni/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 496,
+			"height": 944
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "The design features a clean look using gold, navy blue, and black, combined with professional 'DM Sans' typography, creating a minimal and organized aesthetic for the landing page."
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "oni/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "oni/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "oni/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "oni/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "oni/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "oni/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "oni/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully designed the landing page that effectively organizes and presents challenges, improving user experience with easy search and filter options.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire oni app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances oni’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
+}

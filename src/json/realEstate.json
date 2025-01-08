@@ -1,69 +1,158 @@
 {
-  "title": "Real Estate Landing Page ",
-  "hero_img": "/images/polyviam-hero.png",
-  "about": {
-    "name": "Real Estate Landing Page ",
-    "desc": "Personal landing page for a real estate client Shreaz Ali to educate users about the benefits of home flipping and showcase his experience and achievements.",
-    "domain": "Real-Estate",
-    "year": "2024",
-    "services": ["Branding", "UI & UX Designing"],
-    "mainTechStack": ["Framer"],
-    "platform": "Web, Mobile",
-    "image": "/images/polyviam-placeholder.png"
-  },
-  "projectTeam": {
-    "desc": "This landing page project consisted of a product designer and a UX researcher, and took around  1 weeks to design.",
-    "members": [
-      "UI Design : Hariom",
-      "UX Researcher & Project Management - Vanshita"
-    ],
-    "img": "/images/team-placeholder.png"
-  },
-  "problem": {
-    "desc": [
-      "Client wanted to build a Landing Page for his home flipping real-estate business to help people know about home flipping and how his services can help them.",
-      "The Landing Page should not sound aggressively salesy as users are likely to avoid engaging with such websites."
-    ]
-  },
-  "goals": [
-    {
-      "title": "User Goal",
-      "desc": "Design the landing page showcasing the client’s achievements to establish trust and confidence among visitors."
-    },
-    {
-      "title": "Business Goal",
-      "desc": [
-        "Ensuring the design reflects the client’s personality casual yet experienced, showcasing their expertise and proven track record."
-      ]
-    }
-  ],
-  "solution": {
-    "desc": [
-      "Highlighted the benefits of flipping homes through content that showcases the client's expertise, building trust with users.",
-      "Designed intuitive call-to-action buttons that guide users toward simple actions like signing up for a webinar or downloading a guide.",
-      "Implemented a clean, minimalistic design with a luxurious feel to reflect the client’s personality while ensuring smooth navigation."
-    ]
-  },
-  "mockups": [],
-  "behindTheScenes": {
-    "discoveryPhase": {
-      "targetAudience": [
-        "Individuals aged  50 and above who are interested in real estate, financial growth, or learning about flipping homes. "
-      ],
-      "uiInspiration": "We analyzed multiple landing pages of websites in similar domain and Analyzed preferences of the target demographic focusing on a design and tone that resonates with their expectations.",
-      "ideaExploration": "We created a wireframe for easy navigation and registration, then refined the hero and other sections based on client feedback to finalize the landing page layout."
-    },
-    "ui": {
-      "approach": "A clean design using colors like yellow, black, and muted white, paired with professional typography using the Inter font, and high-quality images was chosen to create an ultra-luxurious and minimal look for the website.",
-      "colors": "We used a balanced combination of blue and green as primary colors for a medical look, complemented by neutral tones like white and sand. A subtle touch of orange stands out against the neutral tones and highlights the Call To Action Items.",
-      "typography": "The font “Satoshi” was used to ensure a professional look and easily readable experience.",
-      "animations": "Incorporated smooth scroll-triggered animations and fade-ins, including a silhouette overlay in the hero section for dynamic interactions."
-    }
-  },
-  "conclusion": {
-    "achievements": [
-      "Successfully designed the client’s Landing Page showcasing client’s achievement and experience along with webinar details, highlights and benefits.",
-      "The final design reflects the client’s approachable yet professional personality, creating an engaging experience that encourages webinar registrations while building trust with users."
-    ]
-  }
+	"theme_color": "#1F1F1F",
+	"title": "Real Estate Landing Page",
+	"subtitle": "How we designed real-estate landing page to showcase home flipping benefits ensuring a professional outlook integrating clear call to action for webinar sign-ups leading to a trusted and engaging experience, driving conversions.",
+	"hero_img": "realEstate/Hero Image 1.webp",
+	"about": {
+		"name": "Real Estate Landing Page",
+		"desc": "Personal landing page for a real estate client Shreaz Ali to educate users about the benefits of home flipping and showcase his experience and achievements.",
+		"domain": "Real-Estate",
+		"year": "2024",
+		"services": ["Branding", "UI & UX Designing"],
+		"mainTechStack": ["Framer"],
+		"platform": "Web, Mobile",
+		"images": [
+			{
+				"img": "realEstate/About Image 1.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			},
+			{
+				"img": "realEstate/About Image 3.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "realEstate/About Image 2.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 496,
+				"height": 949
+			},
+			{
+				"img": "realEstate/About Image 4.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 520
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The project’s design took one week to complete.",
+		"members": ["UX Design: Vanshita", "UI Design : Hariom"],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>Client wanted to build a Landing Page for his home flipping real-estate business to help people know about home flipping and how his services can help them.</li><li>The Landing Page should not sound aggressively salesy as users are likely to avoid engaging with such websites.</ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<ul><li>Design the landing page showcasing the client’s achievements to establish trust and confidence among visitors.</li><li>Presenting the content as educational and informative way and also motivate them to register for the webinar.</li><li>Ensuring the design reflects the client’s personality casual yet experienced, showcasing their expertise and proven track record.</li></ul>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<ul><li>Highlighted the benefits of flipping homes through content that showcases the client's expertise, building trust with users.</li><li>Designed intuitive call-to-action buttons that guide users toward simple actions like signing up for a webinar or downloading a guide.</li><li>Implemented a clean, minimalistic design with a luxurious feel to reflect the client’s personality while ensuring smooth navigation.</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "realEstate/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 1224,
+			"height": 434
+		},
+		{
+			"img": "realEstate/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 724,
+			"height": 400
+		},
+		{
+			"img": "realEstate/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 380,
+			"height": 870
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><span className='inner_title'>Target Audience</span><br /><br /><ul><li>Individuals aged  50 and above who are interested in real estate, financial growth, or learning about flipping homes.</li></ul></div><br /><br /><div><strong>User Interface Understanding and Inspiration</strong><br /><br /><p>We analyzed multiple landing pages of websites in similar domain and Analyzed preferences of the target demographic focusing on a design and tone that resonates with their expectations.</p></div><br /><br /><div><strong>Ideation on various sections</strong><br /><br /><p>We created a wireframe for easy navigation and registration, then refined the hero and other sections based on client feedback to finalize the landing page layout.</p></div>"
+		},
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "A clean design using colors like yellow, black, and muted white, paired with professional typography using the 'Inter' font, and high-quality images was chosen to create an ultra-luxurious and minimal look for the website."
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "realEstate/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "realEstate/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "realEstate/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "realEstate/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "realEstate/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "realEstate/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "realEstate/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "realEstate/User Interface and Product Outlook 8.webp",
+			"alt": "Affinity 6",
+			"width": 496,
+			"height": 480
+		},
+		{
+			"img": "realEstate/User Interface and Product Outlook 9.webp",
+			"alt": "Affinity 7",
+			"width": 496,
+			"height": 480
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully designed the client’s Landing Page showcasing client’s achievement and experience along with webinar details, highlights and benefits.</li><li>The final design reflects the client’s approachable yet professional personality, creating an engaging experience that encourages webinar registrations while building trust with users.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire realEstate app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances realEstate’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
 }

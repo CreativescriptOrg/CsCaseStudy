@@ -1,69 +1,158 @@
 {
-  "title": "Poker Zombie",
-  "hero_img": "/images/polyviam-hero.png",
-  "about": {
-    "name": "Poker Zombie",
-    "desc": "Poker zombie is a platform that allows users to compare different online poker platforms, helping them determine which site best suits their needs based on the features offered by each platform",
-    "domain": "Fantasy Sports and Gaming",
-    "year": "2024",
-    "services": ["Branding", "UI & UX Designing"],
-    "mainTechStack": ["Figma"],
-    "platform": "Web, Mobile",
-    "image": "/images/polyviam-placeholder.png"
-  },
-  "projectTeam": {
-    "desc": "This landing page project consisted of a product designer and a UX researcher, and took around  2 weeks to design.",
-    "members": [
-      "UI Design : Himanshu",
-      "UX Researcher & Project Management - Vanshita"
-    ],
-    "img": "/images/team-placeholder.png"
-  },
-  "problem": {
-    "desc": [
-      "The client wanted to build a website/platform to compare different online poker platforms, helping users determine which site best suits their needs based on the features offered by each platform.",
-      "The website also showcases content related to the poker world, such as poker news, important events, articles, and videos about poker strategies, and more."
-    ]
-  },
-  "goals": [
-    {
-      "title": "User Goal",
-      "desc": "Help users compare and choose the best online poker platforms easily."
-    },
-    {
-      "title": "Business Goal",
-      "desc": [
-        "Seamlessly integrate advertisements while maintaining trust and credibility."
-      ]
-    }
-  ],
-  "solution": {
-    "desc": [
-      "Created an intuitive and clean design that allows users to quickly compare top poker platforms without feeling overwhelmed.",
-      "Used a calming color scheme and professional design elements to instill trust, making the website feel legitimate and reliable.",
-      "mplemented a clear, organized layout for poker-related content, such as news, events, and strategies, making it easily accessible."
-    ]
-  },
-  "mockups": [],
-  "behindTheScenes": {
-    "discoveryPhase": {
-      "targetAudience": [
-        "Indian poker enthusiasts or those looking to get into poker, aged 19-34."
-      ],
-      "uiInspiration": "Designed multiple layouts, exploring different structures for the landing page to optimize user experience and ensure intuitive navigation.",
-      "ideaExploration": "Incorporated feedback from the client to refine designs, ensuring alignment with their vision and business goals."
-    },
-    "ui": {
-      "approach": "A clean design using colors like yellow, black, and muted white, paired with professional typography using the Inter font, and high-quality images was chosen to create an ultra-luxurious and minimal look for the website.",
-      "colors": "We used a balanced combination of blue and green as primary colors for a medical look, complemented by neutral tones like white and sand. A subtle touch of orange stands out against the neutral tones and highlights the Call To Action Items.",
-      "typography": "The font “Satoshi” was used to ensure a professional look and easily readable experience.",
-      "animations": "Incorporated smooth scroll-triggered animations and fade-ins, including a silhouette overlay in the hero section for dynamic interactions."
-    }
-  },
-  "conclusion": {
-    "achievements": [
-      "Successfully designed Poker Zombie platform delivering a clean and professional website that helps users compare poker platforms and access poker-related content",
-      "The user-friendly design ensures easy navigation, builds trust, and aligns with both user expectations and client goals."
-    ]
-  }
+	"theme_color": "#1F1F1F",
+	"title": "Poker Zombie",
+	"subtitle": "How we designed the One Nation Innovation landing page to showcase government-hosted challenges resulting in a streamlined user experience that simplifies the discovery of relevant challenges and drives engagement.",
+	"hero_img": "pokerZombie/Hero Image 1.webp",
+	"about": {
+		"name": "Poker Zombie",
+		"desc": "Poker zombie is a platform that allows users to compare different online poker platforms, helping them determine which site best suits their needs based on the features offered by each platform",
+		"domain": "Fantasy Sports and Gaming",
+		"year": "2024",
+		"services": ["Branding", "UI & UX Designing"],
+		"mainTechStack": ["Figma"],
+		"platform": "Web, Mobile",
+		"images": [
+			{
+				"img": "pokerZombie/About Image 1.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			},
+			{
+				"img": "pokerZombie/About Image 3.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "pokerZombie/About Image 2.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 496,
+				"height": 949
+			},
+			{
+				"img": "pokerZombie/About Image 4.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 520
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The project’s design took two weeks to complete.",
+		"members": ["UX researcher: Vanshita", "UI Design: Hariom Gupta"],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>The client wanted to build a website/platform to compare different online poker platforms, helping users determine which site best suits their needs based on the features offered by each platform.</li><li>The website also showcases content related to the poker world, such as poker news, important events, articles, and videos about poker strategies, and more.</li><ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<ul><li>Help users compare and choose the best online poker platforms easily.</li><li>Provide poker-related content like news, strategies, and event updates.</li><li>Create a clean, engaging, and professional user experience without looking scammy.</li><li>Seamlessly integrate advertisements while maintaining trust and credibility.</li></ul>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<ul><li>Created an intuitive and clean design that allows users to quickly compare top poker platforms without feeling overwhelmed.</li><li>Used a calming color scheme and professional design elements to instill trust, making the website feel legitimate and reliable.</li><li>Implemented a clear, organized layout for poker-related content, such as news, events, and strategies, making it easily accessible.</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "pokerZombie/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 1220,
+			"height": 455
+		},
+		{
+			"img": "pokerZombie/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 600,
+			"height": 455
+		},
+		{
+			"img": "pokerZombie/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 496,
+			"height": 944
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><span className='inner_title'>Target Audience</span><br /><ul><li>Indian poker enthusiasts or those looking to get into poker, aged 19-34.</li></ul></div><br /><div><span className='inner_title'>Research and Analysis</span><br /><ul><li>Conducted an initial interview as part of a user study to understand the target audience’s preferences, needs, and expectations.</li><li>Performed market analysis, focusing on poker websites as specified by the client, to identify industry standards and trends for inspiration.</li></ul></div><br /><div><span className='inner_title'>Moodboarding</span><br /><ul><li>Created mood boards to define the visual direction, including color schemes, typography, and imagery that align with the poker theme and client's brand.</li></ul></div><br /><div><span className='inner_title'>UI Design and Layout Exploration</span><br /><ul><li>Designed multiple layouts, exploring different structures for the landing page to optimize user experience and ensure intuitive navigation.</li><li>Incorporated feedback from the client to refine designs, ensuring alignment with their vision and business goals.</li></ul></div>"
+		},
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "<ul><li>The user interface features a clean, professional design with a predominantly red and white color scheme, using the “Raleway” typeface for typography.</li><li>The product layout emphasizes key information through well-defined cards and buttons, with clear navigation elements and prominent call-to-action sections.</li></ul>"
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 8.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "pokerZombie/User Interface and Product Outlook 9.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully designed Poker Zombie platform delivering a clean and professional website that helps users compare poker platforms and access poker-related content.</li><li>The user-friendly design ensures easy navigation, builds trust, and aligns with both user expectations and client goals.</li></ul>"
+		},
+		{
+			"heading": "Client Feedback",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire pokerZombie app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances pokerZombie’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+		}
+	]
 }

@@ -1,0 +1,112 @@
+{
+	"theme_color": "#7449A9",
+	"title": "Eventflow - Gamification",
+	"subtitle": "How we integrated gamification techniques into EventFlow to boost user engagement with Flowcoin, resulting in increased platform interaction and enhanced user retention through rewards and incentives.",
+	"hero_img": "eventflow/Hero Image 1.webp",
+	"about": {
+		"name": "Eventflow",
+		"desc": "Eventflow is a platform that simplifies attendee registration, ticketing, and event management. It offers customizable event pages, ticket sales tools, and smooth registration experiences for various event types, from conferences to festivals.",
+		"domain": "Event Management , Web 3",
+		"year": "2024",
+		"services": ["UI/UX consultation and visualization"],
+		"platform": "Web, Mobile",
+		"mainTechStack": ["Figma"],
+		"images": []
+	},
+	"projectTeam": {
+		"desc": "",
+		"members": ["UX researcher: Vanshita, Aditya", "UI Design : Himanshu"],
+		"img": ""
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>Managing a clinic's finances and operations and projects can be overwhelming, with multiple moving parts such as tracking and meventflowtoring expenses, and ensuring patient-related tasks are completed.</li><li>The client wanted a centralized system to provide real-time insights, enabling clinic administrators to efficiently manage projects, patients, forms, and analytics all in one place.</li></ul>"
+		},
+		{
+			"heading": "What was the Goal?",
+			"desc": "<div><span>To build a centralised platform healthcare platfrom that :</span><br/><br/><ul><li>Simplifies user management with role-based filters, project assignments.</li><li>Provides a real-time financial dashboard for tracking sales, expenses, and refunds, while streamlining patient task management and consolidating key data for quick, informed decision-making</li></ul></div>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<div><span className='inner_title'>Key Solutions Delivered:</span><br/><br/><ul><li><strong>Dashboard: </strong>Central hub for financial and personal metrics, including sales, expenses, refunds, and task completion.</li><li><strong>Chat: </strong>Real-time messaging for team collaboration and updates.</li><li><strong>Projects: </strong>Manage clinic projects, tasks, and progress tracking.</li><li><strong>Procedure Pricing: </strong>Manage and update pricing for clinic procedures.</li><li><strong>Forms:</strong> Create, store, and manage forms filled by the patients for inquiries</li><li><strong>User Management:</strong> Handle user roles, permissions, and task assignments.</li><li><strong>Admin Settings: </strong>Control panel for platform configuration and system customization.</li></ul></div>"
+		},
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><span className='inner_title'>Understanding Client Requirements:</span><br /><p>The client provided a basic structure of required features, which we used as a foundation to build user flows and organize data points systematically.</p></div><br /><br /><div><span className='inner_title'>Research & Inspiration</span><br /><p>To align with the client’s vision, we studied similar platforms, particularly Asana by Atlassian, to understand how user management systems function effectively.</p></div><br /><br /><div><span className='inner_title'>Iterative Design Approach:</span><br /><p>Using the research insights and client feedback, we designed and refined the platform to ensure it was comprehensive, user-friendly, and met all requirements seamlessly.</p></div><br /><br />"
+		}
+	],
+
+	"mockups_1": [
+		{
+			"img": "eventflow/About Image 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "eventflow/About Image 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "eventflow/About Image 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "eventflow/About Image 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "eventflow/About Image 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "eventflow/About Image 7.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "eventflow/About Image 8.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "eventflow/About Image 9.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "eventflow/About Image 10.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "eventflow/Behind The Scene 1.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>We created a centralized platform that integrates financial tracking, project management, and patient task monitoring, making clinic operations more efficient and organized.</li><li>The platform's clean design, intuitive navigation, and role-based features ensure ease of use, enabling clinic administrators to manage complex workflows effortlessly.</li></ul>"
+		}
+	]
+}

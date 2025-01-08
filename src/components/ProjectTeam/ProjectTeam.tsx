@@ -31,13 +31,15 @@ const ProjectTeam = ({ data }: { data: ProjectTeamProps }) => {
 					)}
 				</div>
 			</div>
-			<Image
-				src={`${IMAGE_BASE_URL}${data.img}`}
-				alt='Project Team'
-				className='image'
-				width={1200}
-				height={440}
-			/>
+			{data.img && (
+				<Image
+					src={`${IMAGE_BASE_URL}${data.img}`}
+					alt='Project Team'
+					className='image'
+					width={1200}
+					height={440}
+				/>
+			)}
 		</div>
 	);
 };
