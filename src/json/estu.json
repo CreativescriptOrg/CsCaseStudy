@@ -1,114 +1,154 @@
 {
-  "title": "Estu: Transforming Student Life Management",
-  "hero_img": "/images/estu-hero.png",
-  "about": {
-    "name": "Estu",
-    "desc": "Estu aims to provide meaningful connections, events, financial tools, and brand collaborations that help college students achieve a balanced life.",
-    "domain": "Fintech",
-    "year": "2022-2024",
-    "services": [
-      "Mobile App Design and Development",
-      "Dashboard Development",
-      "Landing Page"
-    ],
-    "mainTechStack": [
-      "React Native",
-      "Next.js",
-      "Node.js",
-      "Python",
-      "AWS",
-      "PostgreSQL",
-      "MongoDB"
-    ],
-    "platform": "Mobile, Web",
-    "image": "/images/estu-placeholder.png"
-  },
-  "projectTeam": {
-    "desc": "The team at Creative Script collaborated across various domains including mobile, web, backend, design, QA, and project management to deliver a seamless and engaging platform for Estu.",
-    "img": "/images/team-placeholder.png"
-  },
-  "problem": {
-    "desc": "College students often juggle multiple apps and platforms to manage their academic, financial, and social needs. Estu addresses this challenge by providing an all-in-one solution that simplifies student life while enhancing engagement and functionality."
-  },
-  "goals": [
-    {
-      "title": "User Goal",
-      "desc": "Deliver a seamless platform for college students to manage academic, financial, and social aspects of their lives."
-    },
-    {
-      "title": "Business Goal",
-      "desc": "Ensure scalability and performance optimization while aligning with Estu’s brand vision to enhance user engagement and retention."
-    }
-  ],
-  "solution": {
-    "desc": "Creative Script provided a comprehensive solution including KYC onboarding, AI chatbot, payment features, Apple/Google Wallet integration, exclusive campaigns, and admin dashboards, ensuring seamless functionality across mobile and web platforms."
-  },
-  "mockups": [
-    {
-      "img": "/images/mockup1.png",
-      "alt": "Mobile App Mockup 1",
-      "width": 600,
-      "height": 455
-    },
-    {
-      "img": "/images/mockup2.png",
-      "alt": "Dashboard Mockup",
-      "width": 700,
-      "height": 400
-    },
-    {
-      "img": "/images/mockup3.png",
-      "alt": "Landing Page Mockup",
-      "width": 700,
-      "height": 500
-    }
-  ],
-  "behindTheScenes": {
-    "discoveryPhase": {
-      "identification": "Understanding the unique challenges faced by college students through client insights and market research.",
-      "validation": "Client-driven insights coupled with extensive research on student needs and challenges.",
-      "analysis": "Analyzed pain points and mapped out an integrated solution to address fragmented student life management."
-    },
-    "problemsIdentified": [
-      {
-        "title": "Fragmented Student Tools",
-        "desc": "Multiple apps and platforms complicate student life."
-      },
-      {
-        "title": "Unstructured Vision",
-        "desc": "Initial client ideas required significant refinement and organization."
-      },
-      {
-        "title": "Integration Challenges",
-        "desc": "Third-party dependencies like Visa and Mbanq added complexity."
-      }
-    ],
-    "affinityMapping": [
-      {
-        "img": "/images/affinity1.png",
-        "alt": "Affinity Mapping 1",
-        "width": 288,
-        "height": 400
-      }
-    ],
-    "ideaExploration": {
-      "analogyUsed": "Estu was envisioned as a unified ecosystem, simplifying and enriching student life management with innovative features.",
-      "doctor": "Creative Script Team",
-      "child": "The Estu Platform",
-      "parent": "College Students"
-    },
-    "naming": "Estu represents 'students' in a minimalistic and memorable form, directly aligning with the platform’s purpose."
-  },
-  "ui": {
-    "approach": "Delivered an intuitive and visually engaging design to ensure easy navigation and interaction for college students.",
-    "socialProof": "Built trust through high App Store and Google Play ratings and showcased testimonials and impactful features on the landing page.",
-    "futureScope": "Scaling the platform to add more advanced features, acquire the next 10,000 users, and explore international markets."
-  },
-  "conclusion": {
-    "achievements": [
-      "Delivered a comprehensive platform for college students, achieving high retention and user satisfaction.",
-      "Achieved a crash-free session rate of 99.5%, ensuring reliability.",
-      "Garnered an average app rating of 4.8 stars across platforms."
-    ]
-  }
+	"theme_color": "#46BDC8",
+	"title": "Estu Application",
+	"subtitle": "How we designed and developed a centralized all in one platform to streamline students' academic, financial, and social activities, resulting in a seamless user experience and improved management for both students and brands.",
+	"hero_img": "estu/Hero Image 1.webp",
+	"about": {
+		"name": "Estu Application",
+		"desc": "Estu is a comprehensive platform designed to streamline and centralize student life by providing tools for managing academics, finances, social interactions, and events all in one place. ",
+		"domain": "Educational Tech (Student Life Management)",
+		"year": "2024",
+		"services": ["Research", "UI & UX Designing"],
+		"platform": "Web, Mobile",
+		"mainTechStack": ["Figma"],
+		"images": [
+			{
+				"img": "estu/About Image 1.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "",
+		"members": ["UI/UX Designer - Feejan"],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What was the Problem?",
+			"desc": "<ul><li>College students engage in multiple activities and need to use different apps for managing social connections, academics, and finances.</li><li>This constant switching between apps creates unnecessary complexity.</li><li>The client aimed to develop an application that centralizes all these activities into one platform, visually aligning with students' needs and simplifying their daily tasks.</li></ul>"
+		},
+		{
+			"heading": "What were the Goals?",
+			"desc": "<ul><li>To design and develop an application with multiple features that helps students manage their academic, financial, social, and event-related activities.</li><li>To create a landing page that effectively communicates the app’s features and benefits.</li><li>To build a platform to help partners bring exclusive deals and discounts to students.</li><li>To create a platform for administrators to manage partners, students, and other stakeholders efficiently.</li><li>To keep a modern look for all components, making sure they align with the target audience and Estu’s branding.</li></ul>"
+		},
+		{
+			"heading": "What was the Solution?",
+			"desc": "<ul><li><strong>Estu Application:</strong> A comprehensive platform that simplifies student life with features like payments, ACH transfers, Estu debit card, part to part payments, academic calendar, discounts, events, social feed, and more.</li><li><strong>Estu Landing Page:</strong> A clear, engaging web page to introduce Estu’s features and guide students through the app’s offerings.</li><li><strong>Estu-Ads Platform:</strong> A space for partners to showcase deals and promotions for students, enhancing the app’s value proposition.</li><li><strong>Estu-Admin Platform:</strong> A management tool for admins to oversee user accounts, partners, and various platform stakeholders, ensuring smooth operation</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "estu/Solution 1.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "estu/Solution 3.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "estu/Solution 2.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "estu/Solution 4.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		}
+	],
+	"projectDetails_2": [
+		{
+			"heading": "Behind the Scenes...",
+			"desc": "<div><span className='inner_title'>Target Audience</span><br /><ul><li>US college students, aged 18–24, who are tech-savvy, budget-conscious, and socially active.</li></ul></div><br /><div><span className='inner_title'>Understanding the Problem</span><br /><p>We started by analyzing the main problem and brainstorming the necessary features. We then decided which features to focus on first based on client feedback, the existing application, and inspiration. We tackled the features one by one, breaking the app into manageable sections.</p></div><br /><div><span className='inner_title'>Iterative Design Process</span><br /><p>We took an approach of working on the app feature by feature. This involved wireframing to understand how each feature would flow and display data. Multiple iterations were made, and based on feedback from both our internal team and the client, the final design was confirmed.</p></div><br /><div><span className='inner_title'>Building the Ecosystem</span><br /><ul><li>The app features ACH transfers, Estu debit card, P2P payments, academic calendar, discounts, events, social feed, and more.</li><li>An ecosystem was created to manage stakeholders, with the Estu Ads platform for brands to offer deals, an admin platform to manage students and brands, and a landing page to explain the app’s features to students.</li><li>In addition, a web version of the Events and Ads pages was developed to assist brands in managing their promotions.</li></ul></div>"
+		},
+		{
+			"heading": "User Interface and Product Outlook",
+			"desc": "A clean and modern design featuring cyan as the primary color, which conveys freshness and energy, perfectly complementing the Gen Z target audience. Paired with professional, sleek typography using the 'Manrope' font, the design creates a minimal and contemporary look throughout the entire ecosystem."
+		}
+	],
+	"mockups_2": [
+		{
+			"img": "estu/User Interface and Product Outlook 1.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 2.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 3.webp",
+			"alt": "Affinity 3",
+			"width": 400,
+			"height": 400
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 4.webp",
+			"alt": "Affinity 4",
+			"width": 552,
+			"height": 400
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 5.webp",
+			"alt": "Affinity 5",
+			"width": 400,
+			"height": 260
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 6.webp",
+			"alt": "Affinity 6",
+			"width": 400,
+			"height": 270
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 7.webp",
+			"alt": "Affinity 7",
+			"width": 400,
+			"height": 400
+		}
+	],
+	"mockups_3": [
+		{
+			"img": "estu/User Interface and Product Outlook 8.webp",
+			"alt": "Affinity 1",
+			"width": 496,
+			"height": 264
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 9.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 10.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		},
+		{
+			"img": "estu/User Interface and Product Outlook 11.webp",
+			"alt": "Affinity 2",
+			"width": 288,
+			"height": 264
+		}
+	],
+	"projectDetails_3": [
+		{
+			"heading": "Conclusion",
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li><strong>Centralized Solution:</strong> We created an app that streamlines students' academic, financial, social, and event-related activities into one platform.</li><li><strong>Key Features Implementation:</strong> Successfully integrated essential features like , Estu debit card, academic calendar, discounts, ACH transfers, P2P payments and social feeds.</li><li>Effective Stakeholder Management:</strong> Designed and developed the Estu-Ads platform for brands to offer deals and the Estu-Admin platform to manage students, brands, and other stakeholders.</li><li><strong>User-Centric Design:</strong> Delivered a modern, visually appealing design resonating with the Gen Z audience.</li></ul>"
+		}
+	]
 }

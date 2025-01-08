@@ -5,10 +5,10 @@ import data from "@/json/seoul.json";
 import ProjectTeam from "@/components/ProjectTeam/ProjectTeam";
 import { HeroProps } from "@/components/Hero/Hero";
 import { ProjectTeamProps } from "@/components/ProjectTeam/ProjectTeam";
-import { IMAGE_BASE_URL } from "@/config";
 import ProjectDetailsSection from "@/components/ProjectDetailsSection/ProjectDetailsSection";
+import Media from "@/components/Media/Media";
 
-export default function Home() {
+export default function Seoul() {
 	const hero: HeroProps = { title: data.title, image: data.hero_img };
 	const about: AboutProps = {
 		name: data.about.name,
@@ -35,15 +35,7 @@ export default function Home() {
 
 			<div className='container docchase_mockup_grid mockup_grid'>
 				{data.mockups_1.map((el: any, i: number) => (
-					<img
-						key={i}
-						src={`${IMAGE_BASE_URL}${el.img}`}
-						alt={el.alt}
-						className='image'
-						width={el.width}
-						height={el.height}
-						loading='lazy'
-					/>
+					<Media key={i} data={el} />
 				))}
 			</div>
 			<ProjectDetailsSection data={data.projectDetails_2} />
@@ -51,15 +43,7 @@ export default function Home() {
 			<div className='caption_container'>
 				<div className='container mockup_grid konster_affinity'>
 					{data.mockups_2.map((el: any, i: number) => (
-						<img
-							key={i}
-							src={`${IMAGE_BASE_URL}${el.img}`}
-							alt={el.alt}
-							className='image'
-							width={el.width}
-							height={el.height}
-							loading='lazy'
-						/>
+						<Media key={i} data={el} />
 					))}
 				</div>
 			</div>
@@ -69,15 +53,7 @@ export default function Home() {
 
 			<div className='container mockup_grid two_col_grid'>
 				{data.mockups_3.map((el: any, i: number) => (
-					<img
-						key={i}
-						src={`${IMAGE_BASE_URL}${el.img}`}
-						alt={el.alt}
-						className='image'
-						width={el.width}
-						height={el.height}
-						loading='lazy'
-					/>
+					<Media key={i} data={el} />
 				))}
 			</div>
 

@@ -21,19 +21,19 @@
 	"projectDetails_1": [
 		{
 			"heading": "What was the Problem?",
-			"desc": "<ul><li>Managing a clinic's finances and operations and projects can be overwhelming, with multiple moving parts such as tracking and meventflowtoring expenses, and ensuring patient-related tasks are completed.</li><li>The client wanted a centralized system to provide real-time insights, enabling clinic administrators to efficiently manage projects, patients, forms, and analytics all in one place.</li></ul>"
+			"desc": "EventFlow, an event booking platform using Flowcoin, wanted to increase user engagement, improve understanding of Flowcoin, and motivate users to interact more with the platform."
 		},
 		{
 			"heading": "What was the Goal?",
-			"desc": "<div><span>To build a centralised platform healthcare platfrom that :</span><br/><br/><ul><li>Simplifies user management with role-based filters, project assignments.</li><li>Provides a real-time financial dashboard for tracking sales, expenses, and refunds, while streamlining patient task management and consolidating key data for quick, informed decision-making</li></ul></div>"
+			"desc": "To integrate gamification techniques into the user journey, encouraging users to utilize Flowcoin for ticket purchases, resale, exclusive event access and other touch points throughout the entire website."
 		},
 		{
 			"heading": "What was the Solution?",
-			"desc": "<div><span className='inner_title'>Key Solutions Delivered:</span><br/><br/><ul><li><strong>Dashboard: </strong>Central hub for financial and personal metrics, including sales, expenses, refunds, and task completion.</li><li><strong>Chat: </strong>Real-time messaging for team collaboration and updates.</li><li><strong>Projects: </strong>Manage clinic projects, tasks, and progress tracking.</li><li><strong>Procedure Pricing: </strong>Manage and update pricing for clinic procedures.</li><li><strong>Forms:</strong> Create, store, and manage forms filled by the patients for inquiries</li><li><strong>User Management:</strong> Handle user roles, permissions, and task assignments.</li><li><strong>Admin Settings: </strong>Control panel for platform configuration and system customization.</li></ul></div>"
+			"desc": "<div><span className='inner_title'>Key Solutions Delivered:</span><br/><br/><ul><li><strong>FloCoin Integration:</strong> Showcased perks for FloCoin holders at multiple stages (homepage, registration, checkout).</li><li><strong>Daily Login Streaks:</strong> Encouraged repeat visits with rewards and leaderboards to encourage users to repeatedly come on the platform.</li><li><strong>Event Discovery Rewards:</strong> Gave FloCoin for exploring events and using interest meters for trending events.</li><li><strong>Referral and Presale Incentives:</strong> Early bird rewards, referral bonuses, and achievement badges.</li><li><strong>FloCoin Payment Boost:</strong> Gave exclusive perks for using Flowcoin during checkout.</li><li><strong>Ticket Resale Rewards:</strong> Incentives for listing and completing resale transactions.</li><li><strong>Loyalty Programs:</strong> Created tiered rewards for continued engagement and marketplace spending.</li><li><strong>Community and Social Engagement:</strong> Gamified social sharing and event-following features for additional rewards.</li><li><strong>Badges and Milestones:</strong> Awarded badges for purchase milestones, profile completion, and reseller status.</li></ul></div>"
 		},
 		{
 			"heading": "Behind the Scenes...",
-			"desc": "<div><span className='inner_title'>Understanding Client Requirements:</span><br /><p>The client provided a basic structure of required features, which we used as a foundation to build user flows and organize data points systematically.</p></div><br /><br /><div><span className='inner_title'>Research & Inspiration</span><br /><p>To align with the client’s vision, we studied similar platforms, particularly Asana by Atlassian, to understand how user management systems function effectively.</p></div><br /><br /><div><span className='inner_title'>Iterative Design Approach:</span><br /><p>Using the research insights and client feedback, we designed and refined the platform to ensure it was comprehensive, user-friendly, and met all requirements seamlessly.</p></div><br /><br />"
+			"desc": "<div><span className='inner_title'>User Journey Mapping:</span><br /><p>We tracked user interactions across the platform to understand emotions and identify key touchpoints that can be incorporated.</p></div><br /><br /><div><span className='inner_title'>Gamification Suggestions</span><br /><p>Introduced engaging elements like tier rankings, loyalty rewards, and leaderboards to incentivize Flowcoin usage.</p></div><br /><br /><div><span className='inner_title'>Showcasing the ideas:</span><br /><p>Aligned the ideas with EventFlow’s existing design system and color scheme to maintain brand consistency in order to showcase the ideas in an effective manner.</p></div><br /><br />"
 		}
 	],
 
@@ -106,7 +106,7 @@
 	"projectDetails_2": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>We created a centralized platform that integrates financial tracking, project management, and patient task monitoring, making clinic operations more efficient and organized.</li><li>The platform's clean design, intuitive navigation, and role-based features ensure ease of use, enabling clinic administrators to manage complex workflows effortlessly.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>The project successfully highlighted gamification techniques in EventFlo’s website in order to  boost FloCoin and in turn helping in user retention and engagement meanwhile maintaining Eventflo’s design language throughout.</li></ul>"
 		}
 	]
 }

@@ -1,0 +1,99 @@
+{
+	"theme_color": "#1F1F1F",
+	"title": "Game Menu Design",
+	"subtitle": "How we re-created the game menu screens addressing the UI inconsistencies and building interactive prototypes, for clearer communication of the client’s vision and a more streamlined development process.",
+	"hero_img": "gameDesign/Hero Image 1.webp",
+	"about": {
+		"name": "Game Menu Design",
+		"desc": "“1,000 Soldiers” is an ios shooting game, set in the second world war era. Here, we helped the client re-create the game menu screens in figma, following their pre-designed components and helped them visualize certain interactions through prototyping.",
+		"domain": "Game assets and prototyping",
+		"year": "2024",
+		"services": ["UI Designing"],
+		"platform": "ios mobile & ipad",
+		"mainTechStack": ["Figma"],
+		"images": [
+			{
+				"img": "gameDesign/About Image 1.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434
+			},
+			{
+				"img": "gameDesign/About Image 3.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 724,
+				"height": 400
+			},
+			{
+				"img": "gameDesign/About Image 2.webp",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 496,
+				"height": 949
+			}
+		]
+	},
+	"projectTeam": {
+		"desc": "The project’s design took 3 -4 weeks to complete.",
+		"members": ["UI Design: Hariom Gupta"],
+		"img": "placeholder.png"
+	},
+	"projectDetails_1": [
+		{
+			"heading": "What Were Client Goal",
+			"desc": "<ul><li>The client requested assistance in recreating game assets in Figma to ensure they are editable and easy for developers to inspect.</li><li>This approach aims to streamline the development process, simplify future updates, and make the designs more comprehensible for the development team.</li></ul>"
+		},
+		{
+			"heading": "What We did",
+			"desc": "<ul><li>Re-created the menu screens, improving the UI’s inconsistencies like spacing, colors, sizing, etc.</li><li>We also build some figma prototypes, showcasing certain interactions such as button pressing animation, inventory unlock animation and some notification popups.</li><li>This ensured that the game developers are communicated well about the client vision for the UI components and its interactions.</li></ul>"
+		}
+	],
+	"mockups_1": [
+		{
+			"img": "gameDesign/What We Did Video 1.mp4",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434,
+			"isVideo": true
+		},
+		{
+			"img": "gameDesign/What We Did Image 1.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		},
+		{
+			"img": "gameDesign/What We Did Video 2.mp4",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434,
+			"isVideo": true
+		},
+		{
+			"img": "gameDesign/What We Did Video 3.mp4",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434,
+			"isVideo": true
+		},
+		{
+			"img": "gameDesign/What We Did Video 4.mp4",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434,
+			"isVideo": true
+		},
+		{
+			"img": "gameDesign/What We Did Video 5.mp4",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434,
+			"isVideo": true
+		},
+		{
+			"img": "gameDesign/What We Did Image 2.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		}
+	]
+}
