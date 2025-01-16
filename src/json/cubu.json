@@ -46,7 +46,7 @@
 	"projectDetails_1": [
 		{
 			"heading": "What was the Problem?",
-			"desc": "<div><span className='inner_title'>Unclear Presentation of Services</span><br/><ul><li>The existing landing page failed to present Cubu's features in an organized and visually appealing manner.</li><li>The lack of a clean layout made it challenging for users to understand the services and features at a glance.</li></ul></div>"
+			"desc": "<div><span className='inner_title'>Unclear Presentation of Services</span><br/><br/><ul><li>The existing landing page failed to present Cubu's features in an organized and visually appealing manner.</li><li>The lack of a clean layout made it challenging for users to understand the services and features at a glance.</li></ul></div>"
 		},
 		{
 			"heading": "What were the Goals?",
@@ -148,11 +148,11 @@
 	"projectDetails_3": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>The redesign successfully presented Cubu’s features in a clear, visually appealing format, making the services easy to understand for users.</li><li>By combining minimal design, animations, and client feedback, we delivered a landing page that effectively communicates Cubu’s offerings while enhancing user experience.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>The redesign successfully presented Cubu’s features in a clear, visually appealing format, making the services easy to understand for users.</li><li>By combining minimal design, animations, and client feedback, we delivered a landing page that effectively communicates Cubu’s offerings while enhancing user experience.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire cubu app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances cubu’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire cubu app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances cubu’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

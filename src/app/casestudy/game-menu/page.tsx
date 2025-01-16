@@ -34,13 +34,20 @@ export default function GameMenu() {
 		<div style={{ "--theme-color": data.theme_color } as React.CSSProperties}>
 			<Header />
 			<Hero data={hero} />
-			<About data={about} about_grid='docchase_about_grid' />
-			<ProjectTeam data={projectTeam} />
+			<About data={about} about_grid='four_section_grid' />
+			{/* <ProjectTeam data={projectTeam} /> */}
 
 			<ProjectDetailsSection data={data.projectDetails_1} />
 
-			<div className='container docchase_about_grid mockup_grid'>
+			<div className='container dolado_mockup_grid oni_grid mockup_grid'>
 				{data.mockups_1.map((el: any, i: number) => (
+					<Media key={i} data={el} />
+				))}
+			</div>
+			<br />
+			<br />
+			<div className='container docchase_about_grid gamemenu_grid mockup_grid'>
+				{data.mockups_2.map((el: any, i: number) => (
 					<Media key={i} data={el} />
 				))}
 			</div>

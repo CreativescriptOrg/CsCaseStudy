@@ -46,7 +46,7 @@ export default function Fuzzle() {
 			</div>
 			<ProjectDetailsSection data={data.projectDetails_2} />
 			<div className='caption_container'>
-				<div className='container mockup_grid konster_affinity'>
+				<div className='container mockup_grid packed_grid'>
 					{data.mockups_2.map((el: any, i: number) => (
 						<Media key={i} data={el} />
 					))}

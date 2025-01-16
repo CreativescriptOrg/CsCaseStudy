@@ -130,11 +130,11 @@
 	"projectDetails_3": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully designed the landing page that effectively organizes and presents challenges, improving user experience with easy search and filter options.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Successfully designed the landing page that effectively organizes and presents challenges, improving user experience with easy search and filter options.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire oni app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances oni’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire oni app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances oni’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

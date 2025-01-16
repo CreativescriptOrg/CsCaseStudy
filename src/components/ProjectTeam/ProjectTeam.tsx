@@ -19,8 +19,6 @@ const ProjectTeam = ({ data }: { data: ProjectTeamProps }) => {
 					<p>{data.desc}</p>
 					{data.members && (
 						<>
-							<br />
-							<br />
 							<span>The project team consisted of the following members :</span>
 							<ul>
 								{data.members.map((member, i) => (

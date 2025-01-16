@@ -37,7 +37,7 @@ export default function Home() {
 
 		//   <ProjectDetailsSection data={data.projectDetails_1} />
 
-		//   <div className="container docchase_mockup_grid mockup_grid">
+		//   <div className="container two_col_grid mockup_grid">
 		//     {data.mockups_1.map((el: any, i: number) => (
 		//       <img
 		//         key={i}
@@ -54,7 +54,7 @@ export default function Home() {
 		//   <ProjectDetailsSection data={data.projectDetails_3} />
 
 		//   <div className="caption_container">
-		//     <div className="container mockup_grid konster_affinity">
+		//     <div className="container mockup_grid packed_grid">
 		//       {data.mockups_2.map((el: any, i: number) => (
 		//         <img
 		//           key={i}

@@ -65,7 +65,7 @@
 	"projectDetails_2": [
 		{
 			"heading": "Behind the Scenes...",
-			"desc": "<div><div className='inner_title'>Target Audience</div><br /><br /><ul><li>Indian individuals aged 24 to 45 years interested in second opinions from US Doctors for their medical concerns.</li></ul></div><br /><br /><div><strong>User Interface Understanding and Inspiration</strong><br /><br /><p>We conducted a UX Audit on the existing Landing Page to identify potential issues with usability and content structuring.</p></div><br /><br /><div><strong>Ideation on various sections</strong><br /><br /><p>Based on the understanding developed from the UX Audit we re-structured the entire flow highlighting Second Sathi’s offerings and core value propositions.We did multiple iterations of hero sections as well as next sections of the website and  finalized on those which best aligned with users goals. We incorporated constant client feedback into the process to align user and business goals together.</p></div>"
+			"desc": "<div><div className='inner_title'>Target Audience</div><br /><ul><li>Indian individuals aged 24 to 45 years interested in second opinions from US Doctors for their medical concerns.</li></ul></div><br /><br /><div><strong>Identifying Issues in Current Landing Page</strong><br /><br /><p>We conducted a UX Audit on the existing Landing Page to identify potential issues with usability and content structuring.</p></div><br /><br /><div><strong>Ideation on various sections</strong><br /><br /><p>Based on the understanding developed from the UX Audit we re-structured the entire flow highlighting Second Sathi’s offerings and core value propositions.We did multiple iterations of hero sections as well as next sections of the website and  finalized on those which best aligned with users goals. We incorporated constant client feedback into the process to align user and business goals together.</p></div>"
 		}
 	],
 	"mockups_2": [
@@ -136,11 +136,11 @@
 	"projectDetails_4": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully re-designed Second Sathi’s landing page, clearly showcasing its services and functionality.</li><li>Enhanced user understanding by guiding them to express their concerns easily through a clean, structured interface, while giving the page an overall medical-themed appearance.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Successfully re-designed Second Sathi’s landing page, clearly showcasing its services and functionality.</li><li>Enhanced user understanding by guiding them to express their concerns easily through a clean, structured interface, while giving the page an overall medical-themed appearance.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire secondsathi app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances secondsathi’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire secondsathi app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances secondsathi’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

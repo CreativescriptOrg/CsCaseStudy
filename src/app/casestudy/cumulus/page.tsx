@@ -34,7 +34,7 @@ export default function Cumulus() {
 		<div style={{ "--theme-color": data.theme_color } as React.CSSProperties}>
 			<Header />
 			<Hero data={hero} />
-			<About data={about} about_grid='docchase_about_grid' />
+			<About data={about} about_grid='four_section_grid reversed' />
 			<ProjectTeam data={projectTeam} />
 
 			<ProjectDetailsSection data={data.projectDetails_1} />
@@ -48,12 +48,12 @@ export default function Cumulus() {
 			<ProjectDetailsSection data={data.projectDetails_3} />
 
 			<div className='caption_container'>
-				<div className='container mockup_grid konster_affinity'>
+				<div className='container mockup_grid packed_grid'>
 					{data.mockups_2.map((el: any, i: number) => (
 						<Media key={i} data={el} />
 					))}
 				</div>
-				<span>Doc Chase Branding</span>
+				<span>Cumulus Branding</span>
 			</div>
 			<br />
 			<br />

@@ -148,11 +148,11 @@
 	"projectDetails_3": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully designed the client’s Landing Page showcasing client’s achievement and experience along with webinar details, highlights and benefits.</li><li>The final design reflects the client’s approachable yet professional personality, creating an engaging experience that encourages webinar registrations while building trust with users.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Successfully designed the client’s Landing Page showcasing client’s achievement and experience along with webinar details, highlights and benefits.</li><li>The final design reflects the client’s approachable yet professional personality, creating an engaging experience that encourages webinar registrations while building trust with users.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire realEstate app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances realEstate’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire realEstate app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances realEstate’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

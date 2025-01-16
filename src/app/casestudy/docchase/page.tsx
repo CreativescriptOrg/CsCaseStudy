@@ -27,17 +27,18 @@ export default function Docchase() {
 	const projectTeam: ProjectTeamProps = {
 		desc: data.projectTeam?.desc || "",
 		img: data.projectTeam?.img || "",
+		members: data.projectTeam?.members || [],
 	};
 
 	return (
 		<div style={{ "--theme-color": data.theme_color } as React.CSSProperties}>
 			<Header />
 			<Hero data={hero} />
-			<About data={about} about_grid='docchase_about_grid' />
+			<About data={about} about_grid='four_section_grid' />
 			<ProjectTeam data={projectTeam} />
 			<ProjectDetailsSection data={data.projectDetails_1} />
 
-			<div className='container docchase_mockup_grid mockup_grid'>
+			<div className='container two_col_grid mockup_grid'>
 				{data.mockups_1.map((el: any, i: number) => (
 					<Media key={i} data={el} />
 				))}
@@ -47,7 +48,7 @@ export default function Docchase() {
 			<ProjectDetailsSection data={data.projectDetails_3} />
 
 			<div className='caption_container'>
-				<div className='container mockup_grid konster_affinity'>
+				<div className='container mockup_grid packed_grid'>
 					{data.mockups_2.map((el: any, i: number) => (
 						<Media key={i} data={el} />
 					))}
@@ -58,7 +59,7 @@ export default function Docchase() {
 			<br />
 			<br />
 
-			<div className='container mockup_grid'>
+			<div className='container mockup_grid one_col_grid'>
 				{data.mockups_3.map((el: any, i: number) => (
 					<Media key={i} data={el} />
 				))}

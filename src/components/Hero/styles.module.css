@@ -3,8 +3,8 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-bottom: 6rem;
-	gap: 2rem;
+	margin-bottom: 2rem;
+	gap: 1rem;
 }
 .container {
 	width: 100%;
@@ -15,7 +15,7 @@
 	align-items: center;
 	background: url("/images/hero_bg.png");
 	color: white;
-	padding-block: 4rem;
+	padding-inline: 1rem;
 
 	gap: 3rem;
 	overflow: hidden;
@@ -46,7 +46,6 @@
 }
 
 .container img {
-	margin-bottom: -120px;
 	z-index: 1;
 	border: 1px solid #ffffff99;
 	box-shadow: 0px 4px 24px 0px #0000000f;
@@ -61,17 +60,28 @@
 	font-weight: 400;
 	line-height: 34.75px;
 	letter-spacing: -0.02em;
-	text-align: left;
+	text-align: center;
 	text-underline-position: from-font;
 	text-decoration-skip-ink: none;
 }
 
+.caption {
+	text-align: center;
+}
 @media (min-width: 768px) {
 	.hero {
 		margin-bottom: 4rem;
+		gap: 2rem;
+	}
+	.container {
+		padding-block: 4rem;
 	}
 	.container h1 {
 		font-size: 60px;
 		line-height: 86.88px;
+	}
+
+	.container img {
+		margin-bottom: -120px;
 	}
 }

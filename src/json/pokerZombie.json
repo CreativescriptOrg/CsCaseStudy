@@ -40,7 +40,7 @@
 	},
 	"projectTeam": {
 		"desc": "The project’s design took two weeks to complete.",
-		"members": ["UX researcher: Vanshita", "UI Design: Hariom Gupta"],
+		"members": ["UX researcher: Vanshita", "UI Design: Himanshu"],
 		"img": "placeholder.png"
 	},
 	"projectDetails_1": [
@@ -80,7 +80,7 @@
 	"projectDetails_2": [
 		{
 			"heading": "Behind the Scenes...",
-			"desc": "<div><span className='inner_title'>Target Audience</span><br /><ul><li>Indian poker enthusiasts or those looking to get into poker, aged 19-34.</li></ul></div><br /><div><span className='inner_title'>Research and Analysis</span><br /><ul><li>Conducted an initial interview as part of a user study to understand the target audience’s preferences, needs, and expectations.</li><li>Performed market analysis, focusing on poker websites as specified by the client, to identify industry standards and trends for inspiration.</li></ul></div><br /><div><span className='inner_title'>Moodboarding</span><br /><ul><li>Created mood boards to define the visual direction, including color schemes, typography, and imagery that align with the poker theme and client's brand.</li></ul></div><br /><div><span className='inner_title'>UI Design and Layout Exploration</span><br /><ul><li>Designed multiple layouts, exploring different structures for the landing page to optimize user experience and ensure intuitive navigation.</li><li>Incorporated feedback from the client to refine designs, ensuring alignment with their vision and business goals.</li></ul></div>"
+			"desc": "<div><span className='inner_title'>Target Audience</span><br /><br /><ul><li>Indian poker enthusiasts or those looking to get into poker, aged 19-34.</li></ul></div><br /><div><span className='inner_title'>Research and Analysis</span><br /><br /><ul><li>Conducted an initial interview as part of a user study to understand the target audience’s preferences, needs, and expectations.</li><li>Performed market analysis, focusing on poker websites as specified by the client, to identify industry standards and trends for inspiration.</li></ul></div><br /><div><span className='inner_title'>Moodboarding</span><br /><br /><ul><li>Created mood boards to define the visual direction, including color schemes, typography, and imagery that align with the poker theme and client's brand.</li></ul></div><br /><div><span className='inner_title'>UI Design and Layout Exploration</span><br /><br /><ul><li>Designed multiple layouts, exploring different structures for the landing page to optimize user experience and ensure intuitive navigation.</li><li>Incorporated feedback from the client to refine designs, ensuring alignment with their vision and business goals.</li></ul></div>"
 		},
 		{
 			"heading": "User Interface and Product Outlook",
@@ -148,11 +148,11 @@
 	"projectDetails_3": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully designed Poker Zombie platform delivering a clean and professional website that helps users compare poker platforms and access poker-related content.</li><li>The user-friendly design ensures easy navigation, builds trust, and aligns with both user expectations and client goals.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Successfully designed Poker Zombie platform delivering a clean and professional website that helps users compare poker platforms and access poker-related content.</li><li>The user-friendly design ensures easy navigation, builds trust, and aligns with both user expectations and client goals.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire pokerZombie app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances pokerZombie’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire pokerZombie app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances pokerZombie’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

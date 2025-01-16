@@ -34,7 +34,7 @@ export default function Eventflow() {
 			<Hero data={hero} />
 			<About data={about} about_grid='docchase_about_grid' />
 			<ProjectTeam data={projectTeam} />
-			<div className='container mockup_grid konster_affinity'>
+			<div className='container mockup_grid packed_grid'>
 				{data.mockups_1.map((el: any, i: number) => (
 					<Media key={i} data={el} />
 				))}

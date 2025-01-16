@@ -1,6 +1,5 @@
-import { IMAGE_BASE_URL } from "@/config";
 import styles from "./styles.module.css";
-import Image from "next/image";
+import Media from "@/components/Media/Media";
 
 export interface AboutProps {
 	name: string;
@@ -25,7 +24,7 @@ const About = ({
 			<div className='section_info'>
 				<h2 className={`${styles.name} section_heading`}>{name}</h2>
 				<div className='section_info_right'>
-					<span className='title'>About Case study</span>
+					{/* <span className='title'>About Case study</span> */}
 					<p>{desc}</p>
 				</div>
 			</div>
@@ -46,14 +45,17 @@ const About = ({
 						))}
 					</div>
 				</div>
-				<div>
-					<span>Main Tech Stack</span>
+				{mainTechStack && mainTechStack.length > 0 && (
 					<div>
-						{mainTechStack.map((el, i) => (
-							<span key={i}>{el}</span>
-						))}
+						<span>Main Tech Stack</span>
+						<div>
+							{mainTechStack.map((el, i) => (
+								<span key={i}>{el}</span>
+							))}
+						</div>
 					</div>
-				</div>
+				)}
+
 				<div>
 					<span>Platform</span>
 					<div>{platform}</div>
@@ -64,14 +66,7 @@ const About = ({
 					className={`mockup_grid ${about_grid ? about_grid : styles.images}`}
 				>
 					{images.map((image: any, i: number) => (
-						<Image
-							src={`${IMAGE_BASE_URL}${image.img}`}
-							alt={image.alt}
-							className='image'
-							width={image.width}
-							height={image.height}
-							key={i}
-						/>
+						<Media key={i} data={image} />
 					))}
 				</div>
 			)}

@@ -9,7 +9,7 @@
 		"domain": "Event Management , Web 3",
 		"year": "2024",
 		"services": ["UI/UX consultation and visualization"],
-		"platform": "Web, Mobile",
+		"platform": "Mobile",
 		"mainTechStack": ["Figma"],
 		"images": []
 	},
@@ -33,7 +33,7 @@
 		},
 		{
 			"heading": "Behind the Scenes...",
-			"desc": "<div><span className='inner_title'>User Journey Mapping:</span><br /><p>We tracked user interactions across the platform to understand emotions and identify key touchpoints that can be incorporated.</p></div><br /><br /><div><span className='inner_title'>Gamification Suggestions</span><br /><p>Introduced engaging elements like tier rankings, loyalty rewards, and leaderboards to incentivize Flowcoin usage.</p></div><br /><br /><div><span className='inner_title'>Showcasing the ideas:</span><br /><p>Aligned the ideas with EventFlow’s existing design system and color scheme to maintain brand consistency in order to showcase the ideas in an effective manner.</p></div><br /><br />"
+			"desc": "<div><span className='inner_title'>User Journey Mapping:</span><br /><br /><p>We tracked user interactions across the platform to understand emotions and identify key touchpoints that can be incorporated.</p></div><br /><br /><div><span className='inner_title'>Gamification Suggestions</span><br /><br /><p>Introduced engaging elements like tier rankings, loyalty rewards, and leaderboards to incentivize Flowcoin usage.</p></div><br /><br /><div><span className='inner_title'>Showcasing the ideas:</span><br /><br /><p>Aligned the ideas with EventFlow’s existing design system and color scheme to maintain brand consistency in order to showcase the ideas in an effective manner.</p></div><br /><br />"
 		}
 	],
 
@@ -106,7 +106,7 @@
 	"projectDetails_2": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>The project successfully highlighted gamification techniques in EventFlo’s website in order to  boost FloCoin and in turn helping in user retention and engagement meanwhile maintaining Eventflo’s design language throughout.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>The project successfully highlighted gamification techniques in EventFlo’s website in order to  boost FloCoin and in turn helping in user retention and engagement meanwhile maintaining Eventflo’s design language throughout.</li></ul>"
 		}
 	]
 }

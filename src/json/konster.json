@@ -76,7 +76,7 @@
 	"projectDetails_2": [
 		{
 			"heading": "Behind the Scenes...",
-			"desc": "<div className='inner_title'>Insights From Similar Platforms</div><br/><br/><div><strong>User Interface Understanding and Inspiration</strong><br/><br/><p>We drew inspiration from apps like ANGI, Task Rabbit, and Urban Company to study their user interface, color choices, and icons, which helped us design a simpler and more user-friendly interface for Konster.</p></div><div><strong>User Experience Understanding</strong><br/><br/><p>To create a smooth user flow for the app, we studied how Urban Company handles service bookings. Even though the apps are in different fields, the common process of booking services online helped us understand the user journey from finding a service to booking it. This insight helped us improving the booking experience on Konster.</p></div>"
+			"desc": "<div className='inner_title'>Insights From Similar Platforms</div><br/><br/><div><strong>User Interface Understanding and Inspiration</strong><br/><br/><p>We drew inspiration from apps like ANGI, Task Rabbit, and Urban Company to study their user interface, color choices, and icons, which helped us design a simpler and more user-friendly interface for Konster.</p></div><br/><div><strong>User Experience Understanding</strong><br/><br/><p>To create a smooth user flow for the app, we studied how Urban Company handles service bookings. Even though the apps are in different fields, the common process of booking services online helped us understand the user journey from finding a service to booking it. This insight helped us improving the booking experience on Konster.</p></div>"
 		}
 	],
 	"mockups_2": [
@@ -158,11 +158,11 @@
 	"projectDetails_4": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire Konster app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances Konster’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire Konster app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances Konster’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire Konster app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances Konster’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire Konster app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances Konster’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

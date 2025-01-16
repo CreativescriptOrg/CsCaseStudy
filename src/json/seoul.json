@@ -86,7 +86,7 @@
 	"projectDetails_2": [
 		{
 			"heading": "Behind the Scenes...",
-			"desc": "<div><span className='inner_title'>Understanding Client Requirements:</span><br /><p>The client provided a basic structure of required features, which we used as a foundation to build user flows and organize data points systematically.</p></div><br /><br /><div><span className='inner_title'>Research & Inspiration</span><br /><p>To align with the client’s vision, we studied similar platforms, particularly Asana by Atlassian, to understand how user management systems function effectively.</p></div><br /><br /><div><span className='inner_title'>Iterative Design Approach:</span><br /><p>Using the research insights and client feedback, we designed and refined the platform to ensure it was comprehensive, user-friendly, and met all requirements seamlessly.</p></div><br /><br />"
+			"desc": "<div><span className='inner_title'>Understanding Client Requirements:</span><br /><br /><p>The client provided a basic structure of required features, which we used as a foundation to build user flows and organize data points systematically.</p></div><br /><br /><div><span className='inner_title'>Research & Inspiration</span><br /><br /><p>To align with the client’s vision, we studied similar platforms, particularly Asana by Atlassian, to understand how user management systems function effectively.</p></div><br /><br /><div><span className='inner_title'>Iterative Design Approach:</span><br /><br /><p>Using the research insights and client feedback, we designed and refined the platform to ensure it was comprehensive, user-friendly, and met all requirements seamlessly.</p></div>"
 		},
 		{
 			"heading": "User Interface and Product Outlook",
@@ -154,11 +154,11 @@
 	"projectDetails_3": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>We created a centralized platform that integrates financial tracking, project management, and patient task monitoring, making clinic operations more efficient and organized.</li><li>The platform's clean design, intuitive navigation, and role-based features ensure ease of use, enabling clinic administrators to manage complex workflows effortlessly.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>We created a centralized platform that integrates financial tracking, project management, and patient task monitoring, making clinic operations more efficient and organized.</li><li>The platform's clean design, intuitive navigation, and role-based features ensure ease of use, enabling clinic administrators to manage complex workflows effortlessly.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire seoul app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances seoul’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire seoul app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances seoul’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

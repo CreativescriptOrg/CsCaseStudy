@@ -4,7 +4,7 @@
 	"subtitle": "How we designed an interactive, minimal landing page for a growth agency aligning with the client’s vision to highlight their key offerings with an engaging user experience.",
 	"hero_img": "polyviam/Hero Image 1.webp",
 	"about": {
-		"name": "polyviam",
+		"name": "Polyviam",
 		"desc": "Polyviam is a growth strategy agency, that helps startups and businesses to plan and consult growth strategies, by identifying opportunities through the big three growth levers, i.e. Product, Brand, Distribution.",
 		"domain": "Growth strategy agency",
 		"year": "2024",
@@ -160,11 +160,11 @@
 	"projectDetails_4": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Designed a visually engaging, minimal landing page that clearly communicated Polyviam’s services and growth strategies.</li><li>Used unique transitions, illustrations, and animations to create an interactive user experience aligned with the client’s vision.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Designed a visually engaging, minimal landing page that clearly communicated Polyviam’s services and growth strategies.</li><li>Used unique transitions, illustrations, and animations to create an interactive user experience aligned with the client’s vision.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire polyviam app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances polyviam’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire polyviam app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances polyviam’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

@@ -13,19 +13,26 @@
 		"mainTechStack": ["Figma"],
 		"images": [
 			{
-				"img": "gameDesign/About Image 1.webp",
+				"img": "gameDesign/About Video 1.mp4",
+				"alt": "DocChase - Healthcare Communication Platform",
+				"width": 1224,
+				"height": 434,
+				"isVideo": true
+			},
+			{
+				"img": "gameDesign/About Image 2.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "gameDesign/About Image 3.webp",
+				"img": "gameDesign/About Image 1.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "gameDesign/About Image 2.webp",
+				"img": "gameDesign/About Image 3.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 496,
 				"height": 949
@@ -56,18 +63,20 @@
 			"isVideo": true
 		},
 		{
-			"img": "gameDesign/What We Did Image 1.webp",
-			"alt": "Mockup 1",
-			"width": 590,
-			"height": 434
-		},
-		{
 			"img": "gameDesign/What We Did Video 2.mp4",
 			"alt": "Mockup 1",
 			"width": 590,
 			"height": 434,
 			"isVideo": true
 		},
+		{
+			"img": "gameDesign/What We Did Image 1.webp",
+			"alt": "Mockup 1",
+			"width": 590,
+			"height": 434
+		}
+	],
+	"mockups_2": [
 		{
 			"img": "gameDesign/What We Did Video 3.mp4",
 			"alt": "Mockup 1",

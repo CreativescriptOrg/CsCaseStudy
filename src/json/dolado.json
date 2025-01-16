@@ -47,7 +47,7 @@
 	"projectDetails_1": [
 		{
 			"heading": "What was the Problem?",
-			"desc": "<div className='inner_title'>Client Challenges</div><br/><br/><ul><li>The existing landing page didn\u2019t clearly differentiate services for sellers and suppliers, making it harder to cater to both customer categories effectively.</li><li>The client wanted a fresh layout with better storytelling, modern visuals, and alignment with current design trends while maintaining the existing branding.</li></ul>"
+			"desc": "<div className='inner_title'>Client Challenges</div><br/><ul><li>The existing landing page didn\u2019t clearly differentiate services for sellers and suppliers, making it harder to cater to both customer categories effectively.</li><li>The client wanted a fresh layout with better storytelling, modern visuals, and alignment with current design trends while maintaining the existing branding.</li></ul>"
 		},
 		{
 			"heading": "What were the Goals?",
@@ -93,7 +93,7 @@
 	"projectDetails_2": [
 		{
 			"heading": "Behind the Scenes...",
-			"desc": "<div><span className='inner_title'>Research and Inspiration</span><br /><p>Studied multiple websites for UI inspiration and performed heuristic analysis to identify areas of improvement.</p></div><br /><br /><div><span className='inner_title'>Content Restructuring</span><br /><p>Reorganized content and features into clear sections, better aligning with Dolado’s story and making key information more accessible.</p></div><br /><br /><div><span className='inner_title'>Visual Enhancements</span><br /><p>Designed graphics, visuals, and animations to highlight features and services, improving user engagement while keeping the layout clean and modern.</p></div><br /><br />"
+			"desc": "<div><span className='inner_title'>Research and Inspiration</span><br /><br /><p>Studied multiple websites for UI inspiration and performed heuristic analysis to identify areas of improvement.</p></div><br /><br /><div><span className='inner_title'>Content Restructuring</span><br /><br /><p>Reorganized content and features into clear sections, better aligning with Dolado’s story and making key information more accessible.</p></div><br /><br /><div><span className='inner_title'>Visual Enhancements</span><br /><br /><p>Designed graphics, visuals, and animations to highlight features and services, improving user engagement while keeping the layout clean and modern.</p></div><br /><br />"
 		}
 	],
 	"mockups_2": [
@@ -143,7 +143,7 @@
 	"projectDetails_3": [
 		{
 			"heading": "User Interface and Product Outlook",
-			"desc": "<div><span className='inner_title'>UI and Visuals</span><br /><ul><li>We created a minimal and professional look using the brand colors and a card-based layout for clarity.</li><li>We incorporated animations to make the page engaging and visually dynamic while maintaining branding with blue, navy blue, lime neon green, and grey accents.</li><li>Used a clean and minimal design with fonts 'Noticia Text' and 'Inter' to balance a modern and professional look.</li></ul></div>"
+			"desc": "<div><span className='inner_title'>UI and Visuals</span><br /><br /><ul><li>We created a minimal and professional look using the brand colors and a card-based layout for clarity.</li><li>We incorporated animations to make the page engaging and visually dynamic while maintaining branding with blue, navy blue, lime neon green, and grey accents.</li><li>Used a clean and minimal design with fonts 'Noticia Text' and 'Inter' to balance a modern and professional look.</li></ul></div>"
 		}
 	],
 	"mockups_3": [

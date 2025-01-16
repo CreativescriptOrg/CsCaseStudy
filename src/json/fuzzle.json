@@ -9,7 +9,12 @@
 		"domain": "Healthcare",
 		"year": "2024",
 		"services": ["Research", "UI/UX Design"],
-		"mainTechStack": [],
+		"mainTechStack": [
+			"Frontend: ",
+			"Backend: ",
+			"Database: ",
+			"Additional Tools: "
+		],
 		"platform": "Mobile App",
 		"images": [
 			{
@@ -154,11 +159,11 @@
 	"projectDetails_4": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Designed and developed the Fuzzle app with comprehensive features and a user-friendly design to tackle meal tracking and fitness management challenges.</li><li>Conducted thorough market analysis and used iterative design to ensure the app meets user needs.</li><li>Provided a comprehensive solution to help users improve their overall health.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Designed and developed the Fuzzle app with comprehensive features and a user-friendly design to tackle meal tracking and fitness management challenges.</li><li>Conducted thorough market analysis and used iterative design to ensure the app meets user needs.</li><li>Provided a comprehensive solution to help users improve their overall health.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire fuzzle app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances fuzzle’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire fuzzle app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances fuzzle’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

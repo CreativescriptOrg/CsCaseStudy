@@ -39,13 +39,13 @@ export default function Konster() {
 			<ProjectTeam data={projectTeam} />
 			<ProjectDetailsSection data={data.projectDetails_1} />
 
-			<div className='container konster_mockup_grid mockup_grid'>
+			<div className='container four_section_grid mockup_grid'>
 				{data.mockups_1.map((el: any, i: number) => (
 					<Media key={i} data={el} />
 				))}
 			</div>
 			<ProjectDetailsSection data={data.projectDetails_2} />
-			<div className='container mockup_grid konster_affinity'>
+			<div className='container mockup_grid packed_grid'>
 				{data.mockups_2.map((el: any, i: number) => (
 					<Media key={i} data={el} />
 				))}

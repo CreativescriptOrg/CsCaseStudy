@@ -58,7 +58,7 @@
 		},
 		{
 			"heading": "What was the Solution?",
-			"desc": "<ul><li>Clear Navigation: Designed an intuitive layout with CTAs guiding users to explore and enroll.</li><li>Compelling Content: Used visuals, testimonials, and success stats to build trust.</li><li>Data-Driven Confidence: Highlighted key metrics like acceptance rates to reinforce credibility.</li><li>Comprehensive Details: Included detailed program and service information for clarity.</li><li>Optimized Lead Capture: Integrated a user-friendly contact form for inquiries and enrollment.</li></ul>"
+			"desc": "<ul><li><strong>Clear Navigation:</strong> Designed an intuitive layout with CTAs guiding users to explore and enroll.</li><li><strong>Compelling Content:</strong> Used visuals, testimonials, and success stats to build trust.</li><li><strong>Data-Driven Confidence:</strong> Highlighted key metrics like acceptance rates to reinforce credibility.</li><li><strong>Comprehensive Details:</strong> Included detailed program and service information for clarity.</li><li><strong>Optimized Lead Capture:</strong> Integrated a user-friendly contact form for inquiries and enrollment.</li></ul>"
 		}
 	],
 	"mockups_1": [
@@ -96,7 +96,7 @@
 	"projectDetails_2": [
 		{
 			"heading": "Behind the Scenes...",
-			"desc": "<div><div className='inner_title'>Target Audience</div><br /><br /><ul><li>Students of age group between 16-25 preparing for top universities worldwide.</li></ul></div><br /><br /><div><strong>User Interface Understanding and Inspiration</strong><br /><br /><p>We analyzed multiple landing pages of the competitors along with references provided by the client, and drew inspiration for the look and feel of the website. We wanted to give it a professional yet engaging look.</p></div><br /><br /><div><strong>Ideation on various sections</strong><br /><br /><p>We did multiple iterations of hero sections and presented to the client. And finalized on those which best aligned with users goals.</p></div>"
+			"desc": "<div><div className='inner_title'>Target Audience</div><br /><ul><li>Students of age group between 16-25 preparing for top universities worldwide.</li></ul></div><br /><br /><div><strong>User Interface Understanding and Inspiration</strong><br /><br /><p>We analyzed multiple landing pages of the competitors along with references provided by the client, and drew inspiration for the look and feel of the website. We wanted to give it a professional yet engaging look.</p></div><br /><br /><div><strong>Ideation on various sections</strong><br /><br /><p>We did multiple iterations of hero sections and presented to the client. And finalized on those which best aligned with users goals.</p></div>"
 		}
 	],
 	"mockups_2": [
@@ -179,11 +179,11 @@
 	"projectDetails_4": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>The design highlights Unibridge’s benefits with a user-friendly and professional interface.</li><li>Clear navigation and visuals drive engagement and boost conversions.</li><li>A collaborative approach ensured a seamless blend of function and aesthetics.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>The design highlights Unibridge’s benefits with a user-friendly and professional interface.</li><li>Clear navigation and visuals drive engagement and boost conversions.</li><li>A collaborative approach ensured a seamless blend of function and aesthetics.</li></ul>"
 		},
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire taie app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances taie’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire taie app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances taie’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }

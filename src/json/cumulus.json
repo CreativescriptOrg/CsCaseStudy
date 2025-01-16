@@ -57,7 +57,7 @@
 		},
 		{
 			"heading": "What was the Solution?",
-			"desc": "<div className='inner_title'>Key Solutions Delivered:</div><br/><br/><ul><li>Dashboard: Overview with folder system, stats, search bar, and key actions.</li><li>Folder and Document Management: View folders, upload and categorize documents, and access document details with options for download and sharing.</li><li>Document Sharing: Manage access by adding designated contacts and setting custom permissions (view, edit, delete).</li><li>After Life Access: Designed a separate flow to securely select nominees and share documents with them.</li><li>Voice Memo:  Letting users record voice messages for their nominees as part of after-life access.</li><li>Notification & User Profile:  User profile management and notifications for document access, updates, and security alerts.</li></ul>"
+			"desc": "<div className='inner_title'>Key Solutions Delivered:</div><br/><br/><ul><li><strong>Dashboard:</strong> Overview with folder system, stats, search bar, and key actions.</li><li><strong>Folder and Document Management:</strong> View folders, upload and categorize documents, and access document details with options for download and sharing.</li><li><strong>Document Sharing:</strong> Manage access by adding designated contacts and setting custom permissions (view, edit, delete).</li><li><strong>After Life Access:</strong> Designed a separate flow to securely select nominees and share documents with them.</li><li><strong>Voice Memo:</strong> Letting users record voice messages for their nominees as part of after-life access.</li><li><strong>Notification & User Profile:</strong> User profile management and notifications for document access, updates, and security alerts.</li></ul>"
 		}
 	],
 	"mockups_1": [
@@ -160,7 +160,7 @@
 	"projectDetails_4": [
 		{
 			"heading": "Conclusion",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Successfully designed a comprehensive platform for secure document management and sharing incorporating inheritance planning with custom permissions and after-life access.</li><li>Ensured the design is compatible with both mobile and web versions, providing a seamless experience across all devices.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Successfully designed a comprehensive platform for secure document management and sharing incorporating inheritance planning with custom permissions and after-life access.</li><li>Ensured the design is compatible with both mobile and web versions, providing a seamless experience across all devices.</li></ul>"
 		}
 	],
 	"mockups_4": [
@@ -174,7 +174,7 @@
 	"projectDetails_5": [
 		{
 			"heading": "Client Feedback",
-			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><br/><ul><li>Re-designed the entire cumulus app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances cumulus’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
+			"desc": "<div className='inner_title'>What did we achieve from the project ?</div><br/><ul><li>Re-designed the entire cumulus app with a fresh outlook of minimalist and simpler user interface.</li><li>The new design improves usability and enhances cumulus’s image as a reliable platform for connecting users with contractors and suppliers.</li></ul>"
 		}
 	]
 }
