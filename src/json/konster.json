@@ -6,7 +6,7 @@
 	"hero_img_caption": "Konster - Construction & Maintenance Application",
 	"about": {
 		"name": "Konster",
-		"desc": "Konster is a platform connecting users with contractors and suppliers, providing reliable and efficient service management solutions.",
+		"desc": "Konster is a comprehensive platform that connects users with contractors for construction, repair, and home maintenance services, as well as with material suppliers.",
 		"domain": "Service Management",
 		"year": "2023-2024",
 		"services": [
@@ -51,7 +51,7 @@
 		{
 			"img": "konster/Solution 1.webp",
 			"alt": "Mockup 1",
-			"width": 1224,
+			"width": 1220,
 			"height": 434
 		},
 		{
@@ -63,14 +63,14 @@
 		{
 			"img": "konster/Solution 3.webp",
 			"alt": "Mockup 1",
-			"width": 380,
-			"height": 870
+			"width": 724,
+			"height": 520
 		},
 		{
 			"img": "konster/Solution 4.webp",
 			"alt": "Mockup 1",
-			"width": 724,
-			"height": 440
+			"width": 387,
+			"height": 870
 		}
 	],
 	"projectDetails_2": [
@@ -82,45 +82,45 @@
 	"mockups_2": [
 		{
 			"img": "konster/Behind The Scene 1.webp",
-			"alt": "Affinity 1",
+			"alt": "Konster - Behind The Scene 1",
 			"width": 496,
-			"height": 264
+			"height": 240
 		},
 		{
 			"img": "konster/Behind The Scene 2.webp",
-			"alt": "Affinity 2",
-			"width": 288,
-			"height": 264
+			"alt": "Konster - Behind The Scene 2",
+			"width": 496,
+			"height": 240
 		},
 		{
 			"img": "konster/Behind The Scene 3.webp",
-			"alt": "Affinity 3",
+			"alt": "Konster - Behind The Scene 3",
 			"width": 400,
 			"height": 400
 		},
 		{
 			"img": "konster/Behind The Scene 4.webp",
-			"alt": "Affinity 4",
+			"alt": "Konster - Behind The Scene 4",
 			"width": 552,
 			"height": 400
 		},
 		{
 			"img": "konster/Behind The Scene 5.webp",
-			"alt": "Affinity 5",
+			"alt": "Konster - Behind The Scene 5",
 			"width": 400,
 			"height": 260
 		},
 		{
 			"img": "konster/Behind The Scene 6.webp",
-			"alt": "Affinity 6",
+			"alt": "Konster - Behind The Scene 6",
 			"width": 400,
 			"height": 270
 		},
 		{
 			"img": "konster/Behind The Scene 7.webp",
-			"alt": "Affinity 7",
+			"alt": "Konster - Behind The Scene 7",
 			"width": 400,
-			"height": 400
+			"height": 270
 		}
 	],
 	"projectDetails_3": [
@@ -132,27 +132,28 @@
 	"mockups_3": [
 		{
 			"img": "konster/New Look Image 1.webp",
-			"alt": "Affinity 6",
-			"width": 496,
-			"height": 480
-		},
-		{
-			"img": "konster/New Look Image 2.webp",
-			"alt": "Affinity 7",
-			"width": 496,
-			"height": 480
+			"alt": "Konster - Before 1",
+			"width": 400,
+			"height": 400
 		},
 		{
 			"img": "konster/New Look Image 3.webp",
-			"alt": "Affinity 7",
-			"width": 496,
-			"height": 480
+			"alt": "Konster - After 1",
+			"width": 400,
+			"height": 400
 		},
 		{
+			"img": "konster/New Look Image 2.webp",
+			"alt": "Konster - Before 2",
+			"width": 400,
+			"height": 400
+		},
+
+		{
 			"img": "konster/New Look Image 4.webp",
-			"alt": "Affinity 7",
-			"width": 496,
-			"height": 480
+			"alt": "Konster - After 2",
+			"width": 400,
+			"height": 400
 		}
 	],
 	"projectDetails_4": [

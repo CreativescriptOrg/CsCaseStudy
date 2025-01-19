@@ -14,7 +14,7 @@
 		"images": [
 			{
 				"img": "estu/About Image 1.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "Estu Application Overview",
 				"width": 1224,
 				"height": 434
 			}
@@ -42,25 +42,25 @@
 	"mockups_1": [
 		{
 			"img": "estu/Solution 1.webp",
-			"alt": "Mockup 1",
+			"alt": "Estu Application Mockup 1",
 			"width": 590,
 			"height": 434
 		},
 		{
 			"img": "estu/Solution 3.webp",
-			"alt": "Mockup 1",
+			"alt": "Estu Application Mockup 2",
 			"width": 590,
 			"height": 434
 		},
 		{
 			"img": "estu/Solution 2.webp",
-			"alt": "Mockup 1",
+			"alt": "Estu Application Mockup 3",
 			"width": 590,
 			"height": 434
 		},
 		{
 			"img": "estu/Solution 4.webp",
-			"alt": "Mockup 1",
+			"alt": "Estu Application Mockup 4",
 			"width": 590,
 			"height": 434
 		}
@@ -78,43 +78,43 @@
 	"mockups_2": [
 		{
 			"img": "estu/User Interface and Product Outlook 1.webp",
-			"alt": "Affinity 1",
+			"alt": "User Interface Mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 2.webp",
-			"alt": "Affinity 2",
+			"alt": "User Interface Mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 3.webp",
-			"alt": "Affinity 3",
+			"alt": "User Interface Mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 4.webp",
-			"alt": "Affinity 4",
+			"alt": "User Interface Mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 5.webp",
-			"alt": "Affinity 5",
+			"alt": "User Interface Mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 6.webp",
-			"alt": "Affinity 6",
+			"alt": "User Interface Mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 7.webp",
-			"alt": "Affinity 7",
+			"alt": "User Interface Mockup 7",
 			"width": 400,
 			"height": 400
 		}
@@ -122,25 +122,25 @@
 	"mockups_3": [
 		{
 			"img": "estu/User Interface and Product Outlook 8.webp",
-			"alt": "Affinity 1",
+			"alt": "User Interface Mockup 8",
 			"width": 496,
 			"height": 264
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 9.webp",
-			"alt": "Affinity 2",
+			"alt": "User Interface Mockup 9",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 10.webp",
-			"alt": "Affinity 2",
+			"alt": "User Interface Mockup 10",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "estu/User Interface and Product Outlook 11.webp",
-			"alt": "Affinity 2",
+			"alt": "User Interface Mockup 11",
 			"width": 288,
 			"height": 264
 		}

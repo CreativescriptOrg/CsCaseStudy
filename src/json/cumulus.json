@@ -14,25 +14,25 @@
 		"images": [
 			{
 				"img": "cumulus/About Image 1.webp",
-				"alt": "cumulus - Construction & Maintenance Application",
+				"alt": "Cumulus - Document Management Dashboard",
 				"width": 1224,
 				"height": 400
 			},
 			{
 				"img": "cumulus/About Image 2.webp",
-				"alt": "cumulus - Construction & Maintenance Application",
+				"alt": "Cumulus - Document Management Dashboard",
 				"width": 724,
 				"height": 400
 			},
 			{
 				"img": "cumulus/About Image 3.webp",
-				"alt": "cumulus - Construction & Maintenance Application",
+				"alt": "Cumulus - Document Management Dashboard",
 				"width": 724,
 				"height": 520
 			},
 			{
 				"img": "cumulus/About Image 4.webp",
-				"alt": "cumulus - Construction & Maintenance Application",
+				"alt": "Cumulus - User Profile Management",
 				"width": 496,
 				"height": 949
 			}
@@ -63,31 +63,31 @@
 	"mockups_1": [
 		{
 			"img": "cumulus/Solution 1.webp",
-			"alt": "Mockup 1",
+			"alt": "Cumulus - Mockup 1",
 			"width": 590,
 			"height": 434
 		},
 		{
 			"img": "cumulus/Solution 2.webp",
-			"alt": "Mockup 1",
+			"alt": "Cumulus - Mockup 2",
 			"width": 590,
 			"height": 434
 		},
 		{
 			"img": "cumulus/Solution 3.webp",
-			"alt": "Mockup 1",
+			"alt": "Cumulus - Mockup 3",
 			"width": 590,
 			"height": 434
 		},
 		{
 			"img": "cumulus/Solution 4.webp",
-			"alt": "Mockup 1",
+			"alt": "Cumulus - Mockup 4",
 			"width": 590,
 			"height": 434
 		},
 		{
 			"img": "cumulus/Solution 5.webp",
-			"alt": "Mockup 1",
+			"alt": "Cumulus - Mockup 5",
 			"width": 1224,
 			"height": 434
 		}
@@ -101,43 +101,43 @@
 	"mockups_2": [
 		{
 			"img": "cumulus/User Interface and Product Outlook 1.webp",
-			"alt": "Affinity 1",
+			"alt": "Cumulus - User Interface Mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
 			"img": "cumulus/User Interface and Product Outlook 2.webp",
-			"alt": "Affinity 2",
+			"alt": "Cumulus - User Interface Mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "cumulus/User Interface and Product Outlook 3.webp",
-			"alt": "Affinity 3",
+			"alt": "Cumulus - User Interface Mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
 			"img": "cumulus/User Interface and Product Outlook 4.webp",
-			"alt": "Affinity 4",
+			"alt": "Cumulus - User Interface Mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
 			"img": "cumulus/User Interface and Product Outlook 5.webp",
-			"alt": "Affinity 5",
+			"alt": "Cumulus - User Interface Mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
 			"img": "cumulus/User Interface and Product Outlook 6.webp",
-			"alt": "Affinity 6",
+			"alt": "Cumulus - User Interface Mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
 			"img": "cumulus/User Interface and Product Outlook 7.webp",
-			"alt": "Affinity 7",
+			"alt": "Cumulus - User Interface Mockup 7",
 			"width": 400,
 			"height": 400
 		}
@@ -151,7 +151,7 @@
 	"mockups_3": [
 		{
 			"img": "cumulus/User Interface and Product Outlook 8.webp",
-			"alt": "Affinity 6",
+			"alt": "Cumulus - User Interface Mockup 8",
 			"width": 1224,
 			"height": 480
 		}
@@ -166,7 +166,7 @@
 	"mockups_4": [
 		{
 			"img": "cumulus/Conclusion 1.webp",
-			"alt": "Affinity 6",
+			"alt": "Cumulus - Mockup",
 			"width": 1224,
 			"height": 480
 		}

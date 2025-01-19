@@ -14,26 +14,26 @@
 		"images": [
 			{
 				"img": "gameDesign/About Video 1.mp4",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "Game menu design video",
 				"width": 1224,
 				"height": 434,
 				"isVideo": true
 			},
 			{
 				"img": "gameDesign/About Image 2.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "Game menu design screenshot 1",
 				"width": 1224,
 				"height": 434
 			},
 			{
 				"img": "gameDesign/About Image 1.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "Game menu design screenshot 2",
 				"width": 724,
 				"height": 400
 			},
 			{
 				"img": "gameDesign/About Image 3.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "Game menu design screenshot 3",
 				"width": 496,
 				"height": 949
 			}
@@ -57,21 +57,21 @@
 	"mockups_1": [
 		{
 			"img": "gameDesign/What We Did Video 1.mp4",
-			"alt": "Mockup 1",
+			"alt": "Mockup video",
 			"width": 590,
 			"height": 434,
 			"isVideo": true
 		},
 		{
 			"img": "gameDesign/What We Did Video 2.mp4",
-			"alt": "Mockup 1",
+			"alt": "Mockup video",
 			"width": 590,
 			"height": 434,
 			"isVideo": true
 		},
 		{
 			"img": "gameDesign/What We Did Image 1.webp",
-			"alt": "Mockup 1",
+			"alt": "Mockup image",
 			"width": 590,
 			"height": 434
 		}
@@ -79,28 +79,28 @@
 	"mockups_2": [
 		{
 			"img": "gameDesign/What We Did Video 3.mp4",
-			"alt": "Mockup 1",
+			"alt": "Mockup video",
 			"width": 590,
 			"height": 434,
 			"isVideo": true
 		},
 		{
 			"img": "gameDesign/What We Did Video 4.mp4",
-			"alt": "Mockup 1",
+			"alt": "Mockup video",
 			"width": 590,
 			"height": 434,
 			"isVideo": true
 		},
 		{
 			"img": "gameDesign/What We Did Video 5.mp4",
-			"alt": "Mockup 1",
+			"alt": "Mockup video",
 			"width": 590,
 			"height": 434,
 			"isVideo": true
 		},
 		{
 			"img": "gameDesign/What We Did Image 2.webp",
-			"alt": "Mockup 1",
+			"alt": "Mockup image",
 			"width": 590,
 			"height": 434
 		}

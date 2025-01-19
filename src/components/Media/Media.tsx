@@ -10,6 +10,7 @@ const Media = ({
 		alt: string;
 		width: number;
 		height: number;
+		aspect?: string;
 	};
 }) => {
 	return (
@@ -26,7 +27,7 @@ const Media = ({
 				<Image
 					src={`${IMAGE_BASE_URL}${data.img}`}
 					alt={data.alt}
-					className='image media'
+					className={`image media ${data.aspect || ""}`}
 					width={data.width}
 					height={data.height}
 					loading='lazy'

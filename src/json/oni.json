@@ -14,25 +14,25 @@
 		"images": [
 			{
 				"img": "oni/About Image 1.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "One Nation Innovation",
 				"width": 1224,
 				"height": 434
 			},
 			{
 				"img": "oni/About Image 3.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "One Nation Innovation",
 				"width": 724,
 				"height": 400
 			},
 			{
 				"img": "oni/About Image 2.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "One Nation Innovation",
 				"width": 496,
 				"height": 949
 			},
 			{
 				"img": "oni/About Image 4.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "One Nation Innovation",
 				"width": 724,
 				"height": 520
 			}
@@ -60,19 +60,19 @@
 	"mockups_1": [
 		{
 			"img": "oni/Solution 1.webp",
-			"alt": "Mockup 1",
+			"alt": "One Nation Innovation - Solution 1",
 			"width": 1220,
 			"height": 455
 		},
 		{
 			"img": "oni/Solution 2.webp",
-			"alt": "Mockup 1",
+			"alt": "One Nation Innovation - Solution 2",
 			"width": 600,
 			"height": 455
 		},
 		{
 			"img": "oni/Solution 3.webp",
-			"alt": "Mockup 1",
+			"alt": "One Nation Innovation - Solution 3",
 			"width": 496,
 			"height": 944
 		}
@@ -86,43 +86,43 @@
 	"mockups_2": [
 		{
 			"img": "oni/User Interface and Product Outlook 1.webp",
-			"alt": "Affinity 1",
+			"alt": "User interface design mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
 			"img": "oni/User Interface and Product Outlook 2.webp",
-			"alt": "Affinity 2",
+			"alt": "User interface design mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "oni/User Interface and Product Outlook 3.webp",
-			"alt": "Affinity 3",
+			"alt": "User interface design mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
 			"img": "oni/User Interface and Product Outlook 4.webp",
-			"alt": "Affinity 4",
+			"alt": "User interface design mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
 			"img": "oni/User Interface and Product Outlook 5.webp",
-			"alt": "Affinity 5",
+			"alt": "User interface design mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
 			"img": "oni/User Interface and Product Outlook 6.webp",
-			"alt": "Affinity 6",
+			"alt": "User interface design mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
 			"img": "oni/User Interface and Product Outlook 7.webp",
-			"alt": "Affinity 7",
+			"alt": "User interface design mockup 7",
 			"width": 400,
 			"height": 400
 		}

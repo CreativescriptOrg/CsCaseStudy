@@ -14,25 +14,25 @@
 		"images": [
 			{
 				"img": "dolado/About Image 1.webp",
-				"alt": "dolado - Healthcare Communication Platform",
+				"alt": "Dolado - Supply Chain Management",
 				"width": 1224,
 				"height": 434
 			},
 			{
 				"img": "dolado/About Image 3.webp",
-				"alt": "dolado - Healthcare Communication Platform",
+				"alt": "Dolado - Supply Chain Management",
 				"width": 724,
 				"height": 400
 			},
 			{
 				"img": "dolado/About Image 2.webp",
-				"alt": "dolado - Healthcare Communication Platform",
+				"alt": "Dolado - Supply Chain Management",
 				"width": 496,
 				"height": 949
 			},
 			{
 				"img": "dolado/About Image 4.webp",
-				"alt": "dolado - Healthcare Communication Platform",
+				"alt": "Dolado - Supply Chain Management",
 				"width": 724,
 				"height": 520
 			}
@@ -43,7 +43,6 @@
 		"members": ["UI/UX Designer: Hariom Gupta"],
 		"img": "placeholder.png"
 	},
-
 	"projectDetails_1": [
 		{
 			"heading": "What was the Problem?",
@@ -61,31 +60,31 @@
 	"mockups_1": [
 		{
 			"img": "dolado/Solution 1.webp",
-			"alt": "Mockup 1",
+			"alt": "Dolado solution mockup 1",
 			"width": 590,
 			"height": 442
 		},
 		{
 			"img": "dolado/Solution 2.webp",
-			"alt": "Mockup 1",
+			"alt": "Dolado solution mockup 2",
 			"width": 590,
 			"height": 442
 		},
 		{
 			"img": "dolado/Solution 3.webp",
-			"alt": "Mockup 1",
+			"alt": "Dolado solution mockup 3",
 			"width": 590,
 			"height": 442
 		},
 		{
 			"img": "dolado/Solution 4.webp",
-			"alt": "Mockup 1",
+			"alt": "Dolado solution mockup 4",
 			"width": 590,
 			"height": 442
 		},
 		{
 			"img": "dolado/Solution 5.webp",
-			"alt": "Mockup 1",
+			"alt": "Dolado solution mockup 5",
 			"width": 590,
 			"height": 442
 		}
@@ -99,43 +98,43 @@
 	"mockups_2": [
 		{
 			"img": "dolado/User Interface and Product Outlook 1.webp",
-			"alt": "Affinity 1",
+			"alt": "Dolado user interface mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
 			"img": "dolado/User Interface and Product Outlook 2.webp",
-			"alt": "Affinity 2",
+			"alt": "Dolado user interface mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "dolado/User Interface and Product Outlook 3.webp",
-			"alt": "Affinity 3",
+			"alt": "Dolado user interface mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
 			"img": "dolado/User Interface and Product Outlook 4.webp",
-			"alt": "Affinity 4",
+			"alt": "Dolado user interface mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
 			"img": "dolado/User Interface and Product Outlook 5.webp",
-			"alt": "Affinity 5",
+			"alt": "Dolado user interface mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
 			"img": "dolado/User Interface and Product Outlook 6.webp",
-			"alt": "Affinity 6",
+			"alt": "Dolado user interface mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
 			"img": "dolado/User Interface and Product Outlook 7.webp",
-			"alt": "Affinity 7",
+			"alt": "Dolado user interface mockup 7",
 			"width": 400,
 			"height": 400
 		}
@@ -149,13 +148,13 @@
 	"mockups_3": [
 		{
 			"img": "dolado/User Interface and Product Outlook 8.webp",
-			"alt": "Affinity 6",
+			"alt": "Dolado user interface mockup 8",
 			"width": 600,
 			"height": 496
 		},
 		{
 			"img": "dolado/User Interface and Product Outlook 9.webp",
-			"alt": "Affinity 6",
+			"alt": "Dolado user interface mockup 9",
 			"width": 600,
 			"height": 496
 		}

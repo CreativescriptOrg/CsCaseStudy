@@ -1,5 +1,4 @@
 import styles from "./styles.module.css";
-import data from "../../case_study_1.json";
 import { IMAGE_BASE_URL } from "../../config";
 export interface HeroProps {
 	title: string;

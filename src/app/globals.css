@@ -28,8 +28,17 @@ body {
 img {
 	max-width: 100%;
 	height: auto;
+	/* object-fit: cover; */
 }
-
+.media.square {
+	aspect-ratio: 1/1;
+}
+.media.rectangle {
+	aspect-ratio: 16/9;
+}
+.media.portrait {
+	aspect-ratio: 9/16;
+}
 .mochiy-pop-one-regular {
 	font-family: "Mochiy Pop One", sans-serif;
 }
@@ -332,6 +341,7 @@ ul li {
 	.four_section_grid {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
+		/* grid-template-rows: auto 420px 520px; */
 		grid-template-rows: repeat(3, auto);
 		gap: 1rem;
 	}
@@ -352,18 +362,22 @@ ul li {
 
 	.four_section_grid.reversed .media:nth-child(2) {
 		order: 1;
+		grid-row: 2/3;
 	}
 	.four_section_grid.reversed .media:nth-child(4) {
 		order: 2;
+		grid-row: 3/4;
 	}
 	.four_section_grid.reversed .media:nth-child(3) {
 		order: 3;
+		grid-row: span 2;
 	}
 
 	.packed_grid {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
-		grid-template-rows: repeat(2.5, 1fr);
+		/* grid-template-rows: 280px 280px 1fr; */
+		grid-template-rows: repeat(3, auto);
 		gap: 1rem;
 	}
 	.packed_grid .media {

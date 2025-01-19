@@ -40,43 +40,43 @@
 	"mockups_1": [
 		{
 			"img": "eventflow/About Image 1.webp",
-			"alt": "Affinity 1",
+			"alt": "EventFlow",
 			"width": 496,
 			"height": 264
 		},
 		{
 			"img": "eventflow/About Image 2.webp",
-			"alt": "Affinity 2",
+			"alt": "EventFlow",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "eventflow/About Image 3.webp",
-			"alt": "Affinity 3",
+			"alt": "EventFlow",
 			"width": 400,
 			"height": 400
 		},
 		{
 			"img": "eventflow/About Image 4.webp",
-			"alt": "Affinity 4",
+			"alt": "EventFlow",
 			"width": 552,
 			"height": 400
 		},
 		{
 			"img": "eventflow/About Image 5.webp",
-			"alt": "Affinity 5",
+			"alt": "EventFlow",
 			"width": 400,
 			"height": 260
 		},
 		{
 			"img": "eventflow/About Image 7.webp",
-			"alt": "Affinity 6",
+			"alt": "EventFlow",
 			"width": 400,
 			"height": 270
 		},
 		{
 			"img": "eventflow/About Image 8.webp",
-			"alt": "Affinity 1",
+			"alt": "EventFlow",
 			"width": 496,
 			"height": 264
 		}
@@ -84,13 +84,13 @@
 	"mockups_2": [
 		{
 			"img": "eventflow/About Image 9.webp",
-			"alt": "Affinity 2",
+			"alt": "EventFlow",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "eventflow/About Image 10.webp",
-			"alt": "Affinity 2",
+			"alt": "EventFlow",
 			"width": 288,
 			"height": 264
 		}
@@ -98,7 +98,7 @@
 	"mockups_3": [
 		{
 			"img": "eventflow/Behind The Scene 1.webp",
-			"alt": "Affinity 2",
+			"alt": "EventFlow behind the scenes",
 			"width": 288,
 			"height": 264
 		}

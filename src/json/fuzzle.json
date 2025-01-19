@@ -5,7 +5,7 @@
 	"hero_img": "fuzzle/Hero Image 1.webp",
 	"about": {
 		"name": "Fuzzle",
-		"desc": "Fuzzle is an innovative, patent-pending weight management system designed to help users control hunger cues and improve their overall well-being.",
+		"desc": "Fuzzle is an innovative, patent pending weight management system designed to help you control hunger cues and improve your overall well-being.",
 		"domain": "Healthcare",
 		"year": "2024",
 		"services": ["Research", "UI/UX Design"],
@@ -19,25 +19,25 @@
 		"images": [
 			{
 				"img": "fuzzle/About Image 1.webp",
-				"alt": "fuzzle - Healthcare Communication Platform",
+				"alt": "fuzzle - Healthcare Platform",
 				"width": 1224,
 				"height": 434
 			},
 			{
 				"img": "fuzzle/About Image 3.webp",
-				"alt": "fuzzle - Healthcare Communication Platform",
+				"alt": "fuzzle - Healthcare Platform",
 				"width": 724,
 				"height": 400
 			},
 			{
 				"img": "fuzzle/About Image 2.webp",
-				"alt": "fuzzle - Healthcare Communication Platform",
+				"alt": "fuzzle - Healthcare Platform",
 				"width": 496,
 				"height": 949
 			},
 			{
 				"img": "fuzzle/About Image 4.webp",
-				"alt": "fuzzle - Healthcare Communication Platform",
+				"alt": "fuzzle - Healthcare Platform",
 				"width": 724,
 				"height": 520
 			}
@@ -68,19 +68,19 @@
 	"mockups_1": [
 		{
 			"img": "fuzzle/Solution 1.webp",
-			"alt": "Mockup 1",
+			"alt": "Mockup of Fuzzle app",
 			"width": 1224,
 			"height": 455
 		},
 		{
 			"img": "fuzzle/Solution 2.webp",
-			"alt": "Mockup 1",
+			"alt": "Mockup of Fuzzle app",
 			"width": 600,
 			"height": 455
 		},
 		{
 			"img": "fuzzle/Solution 3.webp",
-			"alt": "Mockup 1",
+			"alt": "Mockup of Fuzzle app",
 			"width": 496,
 			"height": 944
 		}
@@ -94,43 +94,43 @@
 	"mockups_2": [
 		{
 			"img": "fuzzle/Behind the Scenes 1.webp",
-			"alt": "Affinity 1",
+			"alt": "Fuzzle",
 			"width": 496,
 			"height": 264
 		},
 		{
 			"img": "fuzzle/Behind the Scenes 2.webp",
-			"alt": "Affinity 2",
+			"alt": "Fuzzle",
 			"width": 288,
 			"height": 264
 		},
 		{
 			"img": "fuzzle/Behind the Scenes 3.webp",
-			"alt": "Affinity 3",
+			"alt": "Fuzzle",
 			"width": 400,
 			"height": 400
 		},
 		{
 			"img": "fuzzle/Behind the Scenes 4.webp",
-			"alt": "Affinity 4",
+			"alt": "Fuzzle",
 			"width": 552,
 			"height": 400
 		},
 		{
 			"img": "fuzzle/Behind the Scenes 5.webp",
-			"alt": "Affinity 5",
+			"alt": "Fuzzle",
 			"width": 400,
 			"height": 260
 		},
 		{
 			"img": "fuzzle/Behind the Scenes 6.webp",
-			"alt": "Affinity 6",
+			"alt": "Fuzzle",
 			"width": 400,
 			"height": 270
 		},
 		{
 			"img": "fuzzle/Behind the Scenes 7.webp",
-			"alt": "Affinity 7",
+			"alt": "Fuzzle",
 			"width": 400,
 			"height": 400
 		}
@@ -144,13 +144,13 @@
 	"mockups_3": [
 		{
 			"img": "fuzzle/User Interface and Product Outlook 1.webp",
-			"alt": "Affinity 6",
+			"alt": "Fuzzle - User Interface and Product Outlook 1",
 			"width": 600,
 			"height": 455
 		},
 		{
 			"img": "fuzzle/User Interface and Product Outlook 2.webp",
-			"alt": "Affinity 6",
+			"alt": "Fuzzle - User Interface and Product Outlook 2",
 			"width": 600,
 			"height": 455
 		}

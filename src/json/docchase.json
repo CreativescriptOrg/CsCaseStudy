@@ -1,7 +1,7 @@
 {
 	"theme_color": "#3348FF",
 	"title": "DocChase",
-	"subtitle": "How we designed and developed  a communication platform for healthcare providers with fast, responsive, and secure user interface.",
+	"subtitle": "How we designed and developed a communication platform for healthcare providers with fast, responsive, and secure user interface.",
 	"hero_img": "docchase/Hero Image 1.webp",
 	"about": {
 		"name": "DocChase",
@@ -25,20 +25,20 @@
 			},
 			{
 				"img": "docchase/About Image 2.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
-				"width": 724,
+				"alt": "DocChase user interface",
+				"width": 400,
 				"height": 400
 			},
 			{
 				"img": "docchase/About Image 3.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
+				"alt": "DocChase dashboard",
 				"width": 496,
 				"height": 949
 			},
 			{
 				"img": "docchase/About Image 4.webp",
-				"alt": "DocChase - Healthcare Communication Platform",
-				"width": 724,
+				"alt": "DocChase communication tools",
+				"width": 400,
 				"height": 520
 			}
 		]
@@ -71,26 +71,26 @@
 	"mockups_1": [
 		{
 			"img": "docchase/Solution 1.webp",
-			"alt": "Mockup 1",
-			"width": 590,
+			"alt": "DocChase dashboard mockup",
+			"width": 442,
 			"height": 442
 		},
 		{
 			"img": "docchase/Solution 2.webp",
-			"alt": "Mockup 1",
-			"width": 590,
+			"alt": "DocChase calendar integration mockup",
+			"width": 442,
 			"height": 442
 		},
 		{
 			"img": "docchase/Solution 3.webp",
-			"alt": "Mockup 1",
-			"width": 590,
+			"alt": "DocChase patient management mockup",
+			"width": 442,
 			"height": 442
 		},
 		{
 			"img": "docchase/Solution 4.webp",
-			"alt": "Mockup 1",
-			"width": 590,
+			"alt": "DocChase call log system mockup",
+			"width": 442,
 			"height": 442
 		}
 	],
@@ -103,45 +103,45 @@
 	"mockups_2": [
 		{
 			"img": "docchase/User Interface and Product Outlook 1.webp",
-			"alt": "Affinity 1",
+			"alt": "DocChase user interface mockup 1",
 			"width": 496,
-			"height": 264
+			"height": 240
 		},
 		{
 			"img": "docchase/User Interface and Product Outlook 2.webp",
-			"alt": "Affinity 2",
-			"width": 288,
-			"height": 264
+			"alt": "DocChase user interface mockup 2",
+			"width": 496,
+			"height": 240
 		},
 		{
 			"img": "docchase/User Interface and Product Outlook 3.webp",
-			"alt": "Affinity 3",
+			"alt": "DocChase user interface mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
 			"img": "docchase/User Interface and Product Outlook 4.webp",
-			"alt": "Affinity 4",
+			"alt": "DocChase user interface mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
 			"img": "docchase/User Interface and Product Outlook 5.webp",
-			"alt": "Affinity 5",
+			"alt": "DocChase user interface mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
 			"img": "docchase/User Interface and Product Outlook 6.webp",
-			"alt": "Affinity 6",
+			"alt": "DocChase user interface mockup 6",
 			"width": 400,
-			"height": 270
+			"height": 260
 		},
 		{
 			"img": "docchase/User Interface and Product Outlook 7.webp",
-			"alt": "Affinity 7",
+			"alt": "DocChase user interface mockup 7",
 			"width": 400,
-			"height": 400
+			"height": 260
 		}
 	],
 	"projectDetails_3": [
@@ -153,7 +153,7 @@
 	"mockups_3": [
 		{
 			"img": "docchase/User Interface and Product Outlook 8.webp",
-			"alt": "Affinity 6",
+			"alt": "DocChase user interface mockup 8",
 			"width": 1224,
 			"height": 480
 		}

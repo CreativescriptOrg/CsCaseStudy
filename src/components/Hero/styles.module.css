@@ -70,18 +70,11 @@
 }
 @media (min-width: 768px) {
 	.hero {
-		margin-bottom: 4rem;
-		gap: 2rem;
-	}
-	.container {
-		padding-block: 4rem;
+		margin-bottom: 0;
+		gap: 1rem;
 	}
 	.container h1 {
 		font-size: 60px;
 		line-height: 86.88px;
-	}
-
-	.container img {
-		margin-bottom: -120px;
 	}
 }
