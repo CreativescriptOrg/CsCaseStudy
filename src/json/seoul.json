@@ -39,8 +39,11 @@
 		]
 	},
 	"projectTeam": {
-		"desc": "The project’s design took 3 -4 weeks to complete.",
-		"members": ["UI Design: Hariom Gupta"],
+		"desc": "The team consisted of two UI designers and one UX designer along with the project owner. The entire project was completed in 4 weeks.",
+		"members": [
+			"UI Design - Himanshu, Hariom",
+			"Project Management and UX Design - Vanshita"
+		],
 		"img": "placeholder.png"
 	},
 	"projectDetails_1": [

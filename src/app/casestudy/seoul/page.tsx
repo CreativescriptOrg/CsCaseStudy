@@ -26,6 +26,7 @@ export default function Seoul() {
 	};
 	const projectTeam: ProjectTeamProps = {
 		desc: data.projectTeam?.desc || "",
+		members: data.projectTeam?.members || [],
 		img: data.projectTeam?.img || "",
 	};
 
