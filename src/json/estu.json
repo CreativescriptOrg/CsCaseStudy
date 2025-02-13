@@ -2,7 +2,7 @@
 	"theme_color": "#46BDC8",
 	"title": "Estu Application",
 	"subtitle": "How we designed and developed a centralized all in one platform to streamline students' academic, financial, and social activities, resulting in a seamless user experience and improved management for both students and brands.",
-	"hero_img": "estu/Hero Image 1.webp",
+	"hero_img": "estu/Hero_Image_1.webp",
 	"about": {
 		"name": "Estu Application",
 		"desc": "Estu is a comprehensive platform designed to streamline and centralize student life by providing tools for managing academics, finances, social interactions, and events all in one place. ",
@@ -13,7 +13,7 @@
 		"mainTechStack": ["Figma"],
 		"images": [
 			{
-				"img": "estu/About Image 1.webp",
+				"img": "estu/About_Image_1.webp",
 				"alt": "Estu Application Overview",
 				"width": 1224,
 				"height": 434
@@ -41,25 +41,25 @@
 	],
 	"mockups_1": [
 		{
-			"img": "estu/Solution 1.webp",
+			"img": "estu/Solution_1.webp",
 			"alt": "Estu Application Mockup 1",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "estu/Solution 3.webp",
+			"img": "estu/Solution_3.webp",
 			"alt": "Estu Application Mockup 2",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "estu/Solution 2.webp",
+			"img": "estu/Solution_2.webp",
 			"alt": "Estu Application Mockup 3",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "estu/Solution 4.webp",
+			"img": "estu/Solution_4.webp",
 			"alt": "Estu Application Mockup 4",
 			"width": 590,
 			"height": 434
@@ -77,43 +77,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "estu/User Interface and Product Outlook 1.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "User Interface Mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 2.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "User Interface Mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 3.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "User Interface Mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 4.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "User Interface Mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 5.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "User Interface Mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 6.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "User Interface Mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 7.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "User Interface Mockup 7",
 			"width": 400,
 			"height": 400
@@ -121,25 +121,25 @@
 	],
 	"mockups_3": [
 		{
-			"img": "estu/User Interface and Product Outlook 8.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "User Interface Mockup 8",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 9.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "User Interface Mockup 9",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 10.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_10.webp",
 			"alt": "User Interface Mockup 10",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "estu/User Interface and Product Outlook 11.webp",
+			"img": "estu/User_Interface_and_Product_Outlook_11.webp",
 			"alt": "User Interface Mockup 11",
 			"width": 288,
 			"height": 264

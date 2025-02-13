@@ -2,7 +2,7 @@
 	"theme_color": "#1F1F1F",
 	"title": "Seoul Medical CRM Design",
 	"subtitle": "How we developed a centralized healthcare platform that integrates financial tracking, project management, and patient task mseoultoring, resulting in more efficient clinic operations and streamlined administrative workflows.",
-	"hero_img": "seoul/Hero Image 1.webp",
+	"hero_img": "seoul/Hero_Image_1.webp",
 	"about": {
 		"name": "Seoul Medical CRM",
 		"desc": "Seoul Medical CRM is a platform provides a comprehensive user management system, enabling hospital administrators to keep track of team roles, responsibilities, and project assignments efficiently.",
@@ -13,25 +13,25 @@
 		"mainTechStack": ["Figma"],
 		"images": [
 			{
-				"img": "seoul/About Image 1.webp",
+				"img": "seoul/About_Image_1.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "seoul/About Image 3.webp",
+				"img": "seoul/About_Image_3.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "seoul/About Image 2.webp",
+				"img": "seoul/About_Image_2.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 496,
 				"height": 949
 			},
 			{
-				"img": "seoul/About Image 4.webp",
+				"img": "seoul/About_Image_4.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 724,
 				"height": 520
@@ -62,25 +62,25 @@
 	],
 	"mockups_1": [
 		{
-			"img": "seoul/Solution 1.webp",
+			"img": "seoul/Solution_1.webp",
 			"alt": "Mockup 1",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "seoul/Solution 2.webp",
+			"img": "seoul/Solution_2.webp",
 			"alt": "Mockup 1",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "seoul/Solution 3.webp",
+			"img": "seoul/Solution_3.webp",
 			"alt": "Mockup 1",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "seoul/Solution 4.webp",
+			"img": "seoul/Solution_4.webp",
 			"alt": "Mockup 1",
 			"width": 590,
 			"height": 434
@@ -98,43 +98,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "seoul/User Interface and Product Outlook 1.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Affinity 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "seoul/User Interface and Product Outlook 2.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Affinity 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "seoul/User Interface and Product Outlook 3.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Affinity 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "seoul/User Interface and Product Outlook 4.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Affinity 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "seoul/User Interface and Product Outlook 5.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Affinity 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "seoul/User Interface and Product Outlook 6.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Affinity 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "seoul/User Interface and Product Outlook 7.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Affinity 7",
 			"width": 400,
 			"height": 400
@@ -142,13 +142,13 @@
 	],
 	"mockups_3": [
 		{
-			"img": "seoul/User Interface and Product Outlook 8.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Affinity 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "seoul/User Interface and Product Outlook 9.webp",
+			"img": "seoul/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "Affinity 2",
 			"width": 288,
 			"height": 264

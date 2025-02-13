@@ -2,7 +2,7 @@
 	"theme_color": "#0067FF",
 	"title": "Cumulus",
 	"subtitle": "How we designed a secure, user-friendly platform for document management and inheritance planning to ensure seamless experience and efficiency for users.",
-	"hero_img": "cumulus/Hero Image 1.webp",
+	"hero_img": "cumulus/Hero_Image_1.webp",
 	"about": {
 		"name": "Cumulus",
 		"desc": "Cumulus is a web-based responsive application that allows users to securely store documents, share them with designated individuals, and set inheritance rules for document access after the owner's passing. The platform emphasizes ease of use, data security, and seamless sharing.",
@@ -13,25 +13,25 @@
 		"platform": "Web Application",
 		"images": [
 			{
-				"img": "cumulus/About Image 1.webp",
+				"img": "cumulus/About_Image_1.webp",
 				"alt": "Cumulus - Document Management Dashboard",
 				"width": 1224,
 				"height": 400
 			},
 			{
-				"img": "cumulus/About Image 2.webp",
+				"img": "cumulus/About_Image_2.webp",
 				"alt": "Cumulus - Document Management Dashboard",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "cumulus/About Image 3.webp",
+				"img": "cumulus/About_Image_3.webp",
 				"alt": "Cumulus - Document Management Dashboard",
 				"width": 724,
 				"height": 520
 			},
 			{
-				"img": "cumulus/About Image 4.webp",
+				"img": "cumulus/About_Image_4.webp",
 				"alt": "Cumulus - User Profile Management",
 				"width": 496,
 				"height": 949
@@ -62,31 +62,31 @@
 	],
 	"mockups_1": [
 		{
-			"img": "cumulus/Solution 1.webp",
+			"img": "cumulus/Solution_1.webp",
 			"alt": "Cumulus - Mockup 1",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "cumulus/Solution 2.webp",
+			"img": "cumulus/Solution_2.webp",
 			"alt": "Cumulus - Mockup 2",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "cumulus/Solution 3.webp",
+			"img": "cumulus/Solution_3.webp",
 			"alt": "Cumulus - Mockup 3",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "cumulus/Solution 4.webp",
+			"img": "cumulus/Solution_4.webp",
 			"alt": "Cumulus - Mockup 4",
 			"width": 590,
 			"height": 434
 		},
 		{
-			"img": "cumulus/Solution 5.webp",
+			"img": "cumulus/Solution_5.webp",
 			"alt": "Cumulus - Mockup 5",
 			"width": 1224,
 			"height": 434
@@ -100,43 +100,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "cumulus/User Interface and Product Outlook 1.webp",
+			"img": "cumulus/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Cumulus - User Interface Mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "cumulus/User Interface and Product Outlook 2.webp",
+			"img": "cumulus/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Cumulus - User Interface Mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "cumulus/User Interface and Product Outlook 3.webp",
+			"img": "cumulus/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Cumulus - User Interface Mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "cumulus/User Interface and Product Outlook 4.webp",
+			"img": "cumulus/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Cumulus - User Interface Mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "cumulus/User Interface and Product Outlook 5.webp",
+			"img": "cumulus/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Cumulus - User Interface Mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "cumulus/User Interface and Product Outlook 6.webp",
+			"img": "cumulus/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Cumulus - User Interface Mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "cumulus/User Interface and Product Outlook 7.webp",
+			"img": "cumulus/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Cumulus - User Interface Mockup 7",
 			"width": 400,
 			"height": 400
@@ -150,7 +150,7 @@
 	],
 	"mockups_3": [
 		{
-			"img": "cumulus/User Interface and Product Outlook 8.webp",
+			"img": "cumulus/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Cumulus - User Interface Mockup 8",
 			"width": 1224,
 			"height": 480
@@ -165,7 +165,7 @@
 	],
 	"mockups_4": [
 		{
-			"img": "cumulus/Conclusion 1.webp",
+			"img": "cumulus/Conclusion_1.webp",
 			"alt": "Cumulus - Mockup",
 			"width": 1224,
 			"height": 480

@@ -2,7 +2,7 @@
 	"theme_color": "#7B41EC",
 	"title": "Cubu",
 	"subtitle": "How we redesigned Cubu's landing page to present its services with graphics , animation and clean layout, resulting in a more user-friendly experience that effectively communicates its key features.",
-	"hero_img": "cubu/Hero Image 1.webp",
+	"hero_img": "cubu/Hero_Image_1.webp",
 	"about": {
 		"name": "Cubu",
 		"desc": "Cubu is a platform that streamlines the customer journey, both in-branch and online. - <strong>The complete toolkit for running and optimizing customer service in your organization.</strong>",
@@ -13,25 +13,25 @@
 		"mainTechStack": [],
 		"images": [
 			{
-				"img": "cubu/About Image 1.webp",
+				"img": "cubu/About_Image_1.webp",
 				"alt": "Cubu",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "cubu/About Image 3.webp",
+				"img": "cubu/About_Image_3.webp",
 				"alt": "Cubu",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "cubu/About Image 2.webp",
+				"img": "cubu/About_Image_2.webp",
 				"alt": "Cubu",
 				"width": 496,
 				"height": 949
 			},
 			{
-				"img": "cubu/About Image 4.webp",
+				"img": "cubu/About_Image_4.webp",
 				"alt": "Cubu",
 				"width": 724,
 				"height": 520
@@ -59,19 +59,19 @@
 	],
 	"mockups_1": [
 		{
-			"img": "cubu/Solution 1.webp",
+			"img": "cubu/Solution_1.webp",
 			"alt": "Cubu solution mockup 1",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "cubu/Solution 2.webp",
+			"img": "cubu/Solution_2.webp",
 			"alt": "Cubu solution mockup 2",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "cubu/Solution 3.webp",
+			"img": "cubu/Solution_3.webp",
 			"alt": "Cubu solution mockup 3",
 			"width": 496,
 			"height": 944
@@ -89,43 +89,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "cubu/User Interface and Product Outlook 1.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Cubu UI mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "cubu/User Interface and Product Outlook 2.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Cubu UI mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "cubu/User Interface and Product Outlook 3.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Cubu UI mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "cubu/User Interface and Product Outlook 4.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Cubu UI mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "cubu/User Interface and Product Outlook 5.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Cubu UI mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "cubu/User Interface and Product Outlook 6.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Cubu UI mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "cubu/User Interface and Product Outlook 7.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Cubu UI mockup 7",
 			"width": 400,
 			"height": 400
@@ -133,13 +133,13 @@
 	],
 	"mockups_3": [
 		{
-			"img": "cubu/User Interface and Product Outlook 8.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Cubu UI mockup 8",
 			"width": 1224,
 			"height": 480
 		},
 		{
-			"img": "cubu/User Interface and Product Outlook 9.webp",
+			"img": "cubu/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "Cubu UI mockup 9",
 			"width": 1224,
 			"height": 480

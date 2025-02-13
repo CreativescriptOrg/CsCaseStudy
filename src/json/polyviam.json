@@ -2,7 +2,7 @@
 	"theme_color": "#4A4E69",
 	"title": "Polyviam",
 	"subtitle": "How we designed an interactive, minimal landing page for a growth agency aligning with the client’s vision to highlight their key offerings with an engaging user experience.",
-	"hero_img": "polyviam/Hero Image 1.webp",
+	"hero_img": "polyviam/Hero_Image_1.webp",
 	"about": {
 		"name": "Polyviam",
 		"desc": "Polyviam is a growth strategy agency, that helps startups and businesses to plan and consult growth strategies, by identifying opportunities through the big three growth levers, i.e. Product, Brand, Distribution.",
@@ -13,7 +13,7 @@
 		"platform": "Web, Mobile",
 		"images": [
 			{
-				"img": "polyviam/About Image 1.webp",
+				"img": "polyviam/About_Image_1.webp",
 				"alt": "polyviam - Construction & Maintenance Application",
 				"width": 1224,
 				"height": 400
@@ -44,31 +44,31 @@
 	],
 	"mockups_1": [
 		{
-			"img": "polyviam/Solution 1.webp",
+			"img": "polyviam/Solution_1.webp",
 			"alt": "Mockup 1",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "polyviam/Solution 2.webp",
+			"img": "polyviam/Solution_2.webp",
 			"alt": "Mockup 1",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "polyviam/Solution 3.webp",
+			"img": "polyviam/Solution_3.webp",
 			"alt": "Mockup 1",
 			"width": 496,
 			"height": 944
 		},
 		{
-			"img": "polyviam/Solution 4.webp",
+			"img": "polyviam/Solution_4.webp",
 			"alt": "Mockup 1",
 			"width": 704,
 			"height": 400
 		},
 		{
-			"img": "polyviam/Solution 5.webp",
+			"img": "polyviam/Solution_5.webp",
 			"alt": "Mockup 1",
 			"width": 704,
 			"height": 520
@@ -82,43 +82,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "polyviam/User Interface and Product Outlook 1.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Affinity 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 2.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Affinity 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 3.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Affinity 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 4.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Affinity 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 5.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Affinity 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 6.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Affinity 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 7.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Affinity 7",
 			"width": 400,
 			"height": 400
@@ -132,25 +132,25 @@
 	],
 	"mockups_3": [
 		{
-			"img": "polyviam/User Interface and Product Outlook 8.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Affinity 6",
 			"width": 1224,
 			"height": 480
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 9.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "Affinity 6",
 			"width": 1224,
 			"height": 480
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 10.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_10.webp",
 			"alt": "Affinity 6",
 			"width": 1224,
 			"height": 480
 		},
 		{
-			"img": "polyviam/User Interface and Product Outlook 11.webp",
+			"img": "polyviam/User_Interface_and_Product_Outlook_11.webp",
 			"alt": "Affinity 6",
 			"width": 1224,
 			"height": 480

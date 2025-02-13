@@ -2,7 +2,7 @@
 	"theme_color": "#2C3393",
 	"title": "TAIE International Institute",
 	"subtitle": "How we created a professional, engaging landing page to effectively highlight the TAIE Institute's programs, enhancing user engagement and conversions with clear navigation, compelling visuals.",
-	"hero_img": "taie/Hero Image 1.webp",
+	"hero_img": "taie/Hero_Image_1.webp",
 	"about": {
 		"name": "TAIE International Institute",
 		"desc": "TAIE International Institute is a leading international school in the heart of Toronto, Canada. TAIE offers an top university preparation program Unibridge, that acts as a pathway for students to the prestigious universities worldwide.",
@@ -13,25 +13,25 @@
 		"platform": "Web, Mobile",
 		"images": [
 			{
-				"img": "taie/About Image 1.webp",
+				"img": "taie/About_Image_1.webp",
 				"alt": "taie - Healthcare Communication Platform",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "taie/About Image 2.webp",
+				"img": "taie/About_Image_2.webp",
 				"alt": "taie - Healthcare Communication Platform",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "taie/About Image 3.webp",
+				"img": "taie/About_Image_3.webp",
 				"alt": "taie - Healthcare Communication Platform",
 				"width": 496,
 				"height": 949
 			},
 			{
-				"img": "taie/About Image 4.webp",
+				"img": "taie/About_Image_4.webp",
 				"alt": "taie - Healthcare Communication Platform",
 				"width": 724,
 				"height": 520
@@ -63,31 +63,31 @@
 	],
 	"mockups_1": [
 		{
-			"img": "taie/Solution 1.webp",
+			"img": "taie/Solution_1.webp",
 			"alt": "Mockup 1",
 			"width": 1224,
 			"height": 455
 		},
 		{
-			"img": "taie/Solution 2.webp",
+			"img": "taie/Solution_2.webp",
 			"alt": "Mockup 1",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "taie/Solution 3.webp",
+			"img": "taie/Solution_3.webp",
 			"alt": "Mockup 1",
 			"width": 496,
 			"height": 944
 		},
 		{
-			"img": "taie/Solution 4.webp",
+			"img": "taie/Solution_4.webp",
 			"alt": "Mockup 1",
 			"width": 496,
 			"height": 944
 		},
 		{
-			"img": "taie/Solution 5.webp",
+			"img": "taie/Solution_5.webp",
 			"alt": "Mockup 1",
 			"width": 496,
 			"height": 944
@@ -101,43 +101,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "taie/User Interface and Product Outlook 1.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Affinity 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 2.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Affinity 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 3.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Affinity 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 4.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Affinity 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 5.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Affinity 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 6.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Affinity 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 7.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Affinity 7",
 			"width": 400,
 			"height": 400
@@ -151,25 +151,25 @@
 	],
 	"mockups_3": [
 		{
-			"img": "taie/User Interface and Product Outlook 8.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Affinity 6",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 9.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "Affinity 6",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 10.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_10.webp",
 			"alt": "Affinity 6",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "taie/User Interface and Product Outlook 11.webp",
+			"img": "taie/User_Interface_and_Product_Outlook_11.webp",
 			"alt": "Affinity 6",
 			"width": 600,
 			"height": 455

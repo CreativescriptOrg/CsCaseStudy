@@ -2,7 +2,7 @@
 	"theme_color": "#7E00DE",
 	"title": "Fuzzle",
 	"subtitle": "How we designed and developed the Fuzzle app with meal planning and fitness tracking to improve weight management, helping users track their diet plan and health goals leading to improved well-being.",
-	"hero_img": "fuzzle/Hero Image 1.webp",
+	"hero_img": "fuzzle/Hero_Image_1.webp",
 	"about": {
 		"name": "Fuzzle",
 		"desc": "Fuzzle is an innovative, patent pending weight management system designed to help you control hunger cues and improve your overall well-being.",
@@ -18,25 +18,25 @@
 		"platform": "Mobile App",
 		"images": [
 			{
-				"img": "fuzzle/About Image 1.webp",
+				"img": "fuzzle/About_Image_1.webp",
 				"alt": "fuzzle - Healthcare Platform",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "fuzzle/About Image 3.webp",
+				"img": "fuzzle/About_Image_3.webp",
 				"alt": "fuzzle - Healthcare Platform",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "fuzzle/About Image 2.webp",
+				"img": "fuzzle/About_Image_2.webp",
 				"alt": "fuzzle - Healthcare Platform",
 				"width": 496,
 				"height": 949
 			},
 			{
-				"img": "fuzzle/About Image 4.webp",
+				"img": "fuzzle/About_Image_4.webp",
 				"alt": "fuzzle - Healthcare Platform",
 				"width": 724,
 				"height": 520
@@ -67,19 +67,19 @@
 	],
 	"mockups_1": [
 		{
-			"img": "fuzzle/Solution 1.webp",
+			"img": "fuzzle/Solution_1.webp",
 			"alt": "Mockup of Fuzzle app",
 			"width": 1224,
 			"height": 455
 		},
 		{
-			"img": "fuzzle/Solution 2.webp",
+			"img": "fuzzle/Solution_2.webp",
 			"alt": "Mockup of Fuzzle app",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "fuzzle/Solution 3.webp",
+			"img": "fuzzle/Solution_3.webp",
 			"alt": "Mockup of Fuzzle app",
 			"width": 496,
 			"height": 944
@@ -93,43 +93,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "fuzzle/Behind the Scenes 1.webp",
+			"img": "fuzzle/Behind_the_Scenes_1.webp",
 			"alt": "Fuzzle",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "fuzzle/Behind the Scenes 2.webp",
+			"img": "fuzzle/Behind_the_Scenes_2.webp",
 			"alt": "Fuzzle",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "fuzzle/Behind the Scenes 3.webp",
+			"img": "fuzzle/Behind_the_Scenes_3.webp",
 			"alt": "Fuzzle",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "fuzzle/Behind the Scenes 4.webp",
+			"img": "fuzzle/Behind_the_Scenes_4.webp",
 			"alt": "Fuzzle",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "fuzzle/Behind the Scenes 5.webp",
+			"img": "fuzzle/Behind_the_Scenes_5.webp",
 			"alt": "Fuzzle",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "fuzzle/Behind the Scenes 6.webp",
+			"img": "fuzzle/Behind_the_Scenes_6.webp",
 			"alt": "Fuzzle",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "fuzzle/Behind the Scenes 7.webp",
+			"img": "fuzzle/Behind_the_Scenes_7.webp",
 			"alt": "Fuzzle",
 			"width": 400,
 			"height": 400
@@ -143,13 +143,13 @@
 	],
 	"mockups_3": [
 		{
-			"img": "fuzzle/User Interface and Product Outlook 1.webp",
+			"img": "fuzzle/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Fuzzle - User Interface and Product Outlook 1",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "fuzzle/User Interface and Product Outlook 2.webp",
+			"img": "fuzzle/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Fuzzle - User Interface and Product Outlook 2",
 			"width": 600,
 			"height": 455

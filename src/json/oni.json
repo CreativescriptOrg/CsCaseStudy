@@ -2,7 +2,7 @@
 	"theme_color": "#1F1F1F",
 	"title": "One Nation Innovation ",
 	"subtitle": "How we designed the One Nation Innovation landing page to showcase government-hosted challenges resulting in a streamlined user experience that simplifies the discovery of relevant challenges and drives engagement.",
-	"hero_img": "oni/Hero Image 1.webp",
+	"hero_img": "oni/Hero_Image_1.webp",
 	"about": {
 		"name": "One Nation Innovation",
 		"desc": "One Nation Innovation platform aims to present open challenges hosted by government improving public services where problem-solvers propose innovative solutions, driving higher quality and efficiency",
@@ -13,25 +13,25 @@
 		"mainTechStack": [],
 		"images": [
 			{
-				"img": "oni/About Image 1.webp",
+				"img": "oni/About_Image_1.webp",
 				"alt": "One Nation Innovation",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "oni/About Image 3.webp",
+				"img": "oni/About_Image_3.webp",
 				"alt": "One Nation Innovation",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "oni/About Image 2.webp",
+				"img": "oni/About_Image_2.webp",
 				"alt": "One Nation Innovation",
 				"width": 496,
 				"height": 949
 			},
 			{
-				"img": "oni/About Image 4.webp",
+				"img": "oni/About_Image_4.webp",
 				"alt": "One Nation Innovation",
 				"width": 724,
 				"height": 520
@@ -59,19 +59,19 @@
 	],
 	"mockups_1": [
 		{
-			"img": "oni/Solution 1.webp",
+			"img": "oni/Solution_1.webp",
 			"alt": "One Nation Innovation - Solution 1",
 			"width": 1220,
 			"height": 455
 		},
 		{
-			"img": "oni/Solution 2.webp",
+			"img": "oni/Solution_2.webp",
 			"alt": "One Nation Innovation - Solution 2",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "oni/Solution 3.webp",
+			"img": "oni/Solution_3.webp",
 			"alt": "One Nation Innovation - Solution 3",
 			"width": 496,
 			"height": 944
@@ -85,43 +85,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "oni/User Interface and Product Outlook 1.webp",
+			"img": "oni/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "User interface design mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "oni/User Interface and Product Outlook 2.webp",
+			"img": "oni/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "User interface design mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "oni/User Interface and Product Outlook 3.webp",
+			"img": "oni/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "User interface design mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "oni/User Interface and Product Outlook 4.webp",
+			"img": "oni/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "User interface design mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "oni/User Interface and Product Outlook 5.webp",
+			"img": "oni/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "User interface design mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "oni/User Interface and Product Outlook 6.webp",
+			"img": "oni/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "User interface design mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "oni/User Interface and Product Outlook 7.webp",
+			"img": "oni/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "User interface design mockup 7",
 			"width": 400,
 			"height": 400

@@ -2,7 +2,7 @@
 	"theme_color": "#1F1F1F",
 	"title": "Real Estate Landing Page",
 	"subtitle": "How we designed real-estate landing page to showcase home flipping benefits ensuring a professional outlook integrating clear call to action for webinar sign-ups leading to a trusted and engaging experience, driving conversions.",
-	"hero_img": "realEstate/Hero Image 1.webp",
+	"hero_img": "realEstate/Hero_Image_1.webp",
 	"about": {
 		"name": "Real Estate Landing Page",
 		"desc": "Personal landing page for a real estate client Shreaz Ali to educate users about the benefits of home flipping and showcase his experience and achievements.",
@@ -13,25 +13,25 @@
 		"platform": "Web, Mobile",
 		"images": [
 			{
-				"img": "realEstate/About Image 1.webp",
+				"img": "realEstate/About_Image_1.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "realEstate/About Image 3.webp",
+				"img": "realEstate/About_Image_3.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "realEstate/About Image 2.webp",
+				"img": "realEstate/About_Image_2.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 496,
 				"height": 949
 			},
 			{
-				"img": "realEstate/About Image 4.webp",
+				"img": "realEstate/About_Image_4.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 724,
 				"height": 520
@@ -59,19 +59,19 @@
 	],
 	"mockups_1": [
 		{
-			"img": "realEstate/Solution 1.webp",
+			"img": "realEstate/Solution_1.webp",
 			"alt": "Mockup 1",
 			"width": 1224,
 			"height": 434
 		},
 		{
-			"img": "realEstate/Solution 2.webp",
+			"img": "realEstate/Solution_2.webp",
 			"alt": "Mockup 1",
 			"width": 724,
 			"height": 400
 		},
 		{
-			"img": "realEstate/Solution 3.webp",
+			"img": "realEstate/Solution_3.webp",
 			"alt": "Mockup 1",
 			"width": 380,
 			"height": 870
@@ -89,43 +89,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "realEstate/User Interface and Product Outlook 1.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Affinity 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "realEstate/User Interface and Product Outlook 2.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Affinity 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "realEstate/User Interface and Product Outlook 3.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Affinity 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "realEstate/User Interface and Product Outlook 4.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Affinity 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "realEstate/User Interface and Product Outlook 5.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Affinity 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "realEstate/User Interface and Product Outlook 6.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Affinity 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "realEstate/User Interface and Product Outlook 7.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Affinity 7",
 			"width": 400,
 			"height": 400
@@ -133,13 +133,13 @@
 	],
 	"mockups_3": [
 		{
-			"img": "realEstate/User Interface and Product Outlook 8.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Affinity 6",
 			"width": 496,
 			"height": 480
 		},
 		{
-			"img": "realEstate/User Interface and Product Outlook 9.webp",
+			"img": "realEstate/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "Affinity 7",
 			"width": 496,
 			"height": 480

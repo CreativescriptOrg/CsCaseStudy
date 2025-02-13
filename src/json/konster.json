@@ -2,7 +2,7 @@
 	"theme_color": "#214DAC",
 	"title": "Konster Redesign Project",
 	"subtitle": "How we redesigned a construction and maintenance services app, giving it a fresh, simpler user interface, and improved the service booking experience for users.",
-	"hero_img": "konster/Hero Image 1.webp",
+	"hero_img": "konster/Hero_Image_1.webp",
 	"hero_img_caption": "Konster - Construction & Maintenance Application",
 	"about": {
 		"name": "Konster",
@@ -18,7 +18,7 @@
 		"platform": "Mobile",
 		"image": [
 			{
-				"img": "konster/About Image 1.webp",
+				"img": "konster/About_Image_1.webp",
 				"alt": "Konster - Construction & Maintenance Application",
 				"width": 1224,
 				"height": 434
@@ -49,25 +49,25 @@
 	],
 	"mockups_1": [
 		{
-			"img": "konster/Solution 1.webp",
+			"img": "konster/Solution_1.webp",
 			"alt": "Mockup 1",
 			"width": 1220,
 			"height": 434
 		},
 		{
-			"img": "konster/Solution 2.webp",
+			"img": "konster/Solution_2.webp",
 			"alt": "Mockup 1",
 			"width": 724,
 			"height": 400
 		},
 		{
-			"img": "konster/Solution 3.webp",
+			"img": "konster/Solution_3.webp",
 			"alt": "Mockup 1",
 			"width": 724,
 			"height": 520
 		},
 		{
-			"img": "konster/Solution 4.webp",
+			"img": "konster/Solution_4.webp",
 			"alt": "Mockup 1",
 			"width": 387,
 			"height": 870
@@ -81,43 +81,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "konster/Behind The Scene 1.webp",
+			"img": "konster/Behind_The_Scene_1.webp",
 			"alt": "Konster - Behind The Scene 1",
 			"width": 496,
 			"height": 240
 		},
 		{
-			"img": "konster/Behind The Scene 2.webp",
+			"img": "konster/Behind_The_Scene_2.webp",
 			"alt": "Konster - Behind The Scene 2",
 			"width": 496,
 			"height": 240
 		},
 		{
-			"img": "konster/Behind The Scene 3.webp",
+			"img": "konster/Behind_The_Scene_3.webp",
 			"alt": "Konster - Behind The Scene 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "konster/Behind The Scene 4.webp",
+			"img": "konster/Behind_The_Scene_4.webp",
 			"alt": "Konster - Behind The Scene 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "konster/Behind The Scene 5.webp",
+			"img": "konster/Behind_The_Scene_5.webp",
 			"alt": "Konster - Behind The Scene 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "konster/Behind The Scene 6.webp",
+			"img": "konster/Behind_The_Scene_6.webp",
 			"alt": "Konster - Behind The Scene 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "konster/Behind The Scene 7.webp",
+			"img": "konster/Behind_The_Scene_7.webp",
 			"alt": "Konster - Behind The Scene 7",
 			"width": 400,
 			"height": 270
@@ -131,26 +131,26 @@
 	],
 	"mockups_3": [
 		{
-			"img": "konster/New Look Image 1.webp",
+			"img": "konster/New_Look_Image_1.webp",
 			"alt": "Konster - Before 1",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "konster/New Look Image 3.webp",
+			"img": "konster/New_Look_Image_3.webp",
 			"alt": "Konster - After 1",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "konster/New Look Image 2.webp",
+			"img": "konster/New_Look_Image_2.webp",
 			"alt": "Konster - Before 2",
 			"width": 400,
 			"height": 400
 		},
 
 		{
-			"img": "konster/New Look Image 4.webp",
+			"img": "konster/New_Look_Image_4.webp",
 			"alt": "Konster - After 2",
 			"width": 400,
 			"height": 400

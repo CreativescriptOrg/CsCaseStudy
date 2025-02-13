@@ -2,7 +2,7 @@
 	"theme_color": "#1F1F1F",
 	"title": "Poker Zombie",
 	"subtitle": "How we designed the One Nation Innovation landing page to showcase government-hosted challenges resulting in a streamlined user experience that simplifies the discovery of relevant challenges and drives engagement.",
-	"hero_img": "pokerZombie/Hero Image 1.webp",
+	"hero_img": "pokerZombie/Hero_Image_1.webp",
 	"about": {
 		"name": "Poker Zombie",
 		"desc": "Poker zombie is a platform that allows users to compare different online poker platforms, helping them determine which site best suits their needs based on the features offered by each platform",
@@ -13,25 +13,25 @@
 		"platform": "Web, Mobile",
 		"images": [
 			{
-				"img": "pokerZombie/About Image 1.webp",
+				"img": "pokerZombie/About_Image_1.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "pokerZombie/About Image 3.webp",
+				"img": "pokerZombie/About_Image_3.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "pokerZombie/About Image 2.webp",
+				"img": "pokerZombie/About_Image_2.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 496,
 				"height": 949
 			},
 			{
-				"img": "pokerZombie/About Image 4.webp",
+				"img": "pokerZombie/About_Image_4.webp",
 				"alt": "DocChase - Healthcare Communication Platform",
 				"width": 724,
 				"height": 520
@@ -59,19 +59,19 @@
 	],
 	"mockups_1": [
 		{
-			"img": "pokerZombie/Solution 1.webp",
+			"img": "pokerZombie/Solution_1.webp",
 			"alt": "Mockup 1",
 			"width": 1220,
 			"height": 455
 		},
 		{
-			"img": "pokerZombie/Solution 2.webp",
+			"img": "pokerZombie/Solution_2.webp",
 			"alt": "Mockup 1",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "pokerZombie/Solution 3.webp",
+			"img": "pokerZombie/Solution_3.webp",
 			"alt": "Mockup 1",
 			"width": 496,
 			"height": 944
@@ -89,43 +89,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 1.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Affinity 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 2.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Affinity 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 3.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Affinity 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 4.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Affinity 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 5.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Affinity 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 6.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Affinity 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 7.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Affinity 7",
 			"width": 400,
 			"height": 400
@@ -133,13 +133,13 @@
 	],
 	"mockups_3": [
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 8.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Affinity 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "pokerZombie/User Interface and Product Outlook 9.webp",
+			"img": "pokerZombie/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "Affinity 2",
 			"width": 288,
 			"height": 264

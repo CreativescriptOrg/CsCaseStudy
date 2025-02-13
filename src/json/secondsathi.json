@@ -2,7 +2,7 @@
 	"theme_color": "#2198CE",
 	"title": "Second Sathi - Landing Page Re-design",
 	"subtitle": "How we re-designed a  landing page to help lead generation by streamlining the content flow, enhancing usability, and creating a clean medical-themed interface.",
-	"hero_img": "secondsathi/Hero Image 1.webp",
+	"hero_img": "secondsathi/Hero_Image_1.webp",
 	"about": {
 		"name": "Second Sathi - Landing Page Re-design",
 		"desc": "Second Sathi is a platform that connects individuals with US-based doctors to provide reliable second opinions for their medical concerns.",
@@ -13,7 +13,7 @@
 		"platform": "Web, Mobile",
 		"images": [
 			{
-				"img": "secondsathi/About Image 1.webp",
+				"img": "secondsathi/About_Image_1.webp",
 				"alt": "secondsathi - Construction & Maintenance Application",
 				"width": 1224,
 				"height": 400
@@ -44,19 +44,19 @@
 	],
 	"mockups_1": [
 		{
-			"img": "secondsathi/Solution 1.webp",
+			"img": "secondsathi/Solution_1.webp",
 			"alt": "Mockup 1",
 			"width": 1224,
 			"height": 455
 		},
 		{
-			"img": "secondsathi/Solution 2.webp",
+			"img": "secondsathi/Solution_2.webp",
 			"alt": "Mockup 1",
 			"width": 600,
 			"height": 455
 		},
 		{
-			"img": "secondsathi/Solution 3.webp",
+			"img": "secondsathi/Solution_3.webp",
 			"alt": "Mockup 1",
 			"width": 496,
 			"height": 944
@@ -70,43 +70,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "secondsathi/User Interface and Product Outlook 1.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Affinity 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "secondsathi/User Interface and Product Outlook 2.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Affinity 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "secondsathi/User Interface and Product Outlook 3.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Affinity 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "secondsathi/User Interface and Product Outlook 4.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Affinity 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "secondsathi/User Interface and Product Outlook 5.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Affinity 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "secondsathi/User Interface and Product Outlook 6.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Affinity 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "secondsathi/User Interface and Product Outlook 7.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Affinity 7",
 			"width": 400,
 			"height": 400
@@ -120,13 +120,13 @@
 	],
 	"mockups_3": [
 		{
-			"img": "secondsathi/User Interface and Product Outlook 8.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Affinity 6",
 			"width": 1224,
 			"height": 480
 		},
 		{
-			"img": "secondsathi/User Interface and Product Outlook 9.webp",
+			"img": "secondsathi/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "Affinity 6",
 			"width": 1224,
 			"height": 480

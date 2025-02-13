@@ -2,7 +2,7 @@
 	"theme_color": "#196BF7",
 	"title": "Dolado",
 	"subtitle": "How we redesigned the landing page of the platform that streamlines the connection between sellers and industries by clearly separating services for sellers and suppliers, with modern visuals, animations, and a clean layout to enhance engagement and storytelling.",
-	"hero_img": "dolado/Hero Image 1.webp",
+	"hero_img": "dolado/Hero_Image_1.webp",
 	"about": {
 		"name": "Dolado",
 		"desc": "Dolado is a platform designed to streamline the connection between sellers and industries, making it easier to manage and facilitate sales processes.",
@@ -13,25 +13,25 @@
 		"platform": "Web, Mobile",
 		"images": [
 			{
-				"img": "dolado/About Image 1.webp",
+				"img": "dolado/About_Image_1.webp",
 				"alt": "Dolado - Supply Chain Management",
 				"width": 1224,
 				"height": 434
 			},
 			{
-				"img": "dolado/About Image 3.webp",
+				"img": "dolado/About_Image_3.webp",
 				"alt": "Dolado - Supply Chain Management",
 				"width": 724,
 				"height": 400
 			},
 			{
-				"img": "dolado/About Image 2.webp",
+				"img": "dolado/About_Image_2.webp",
 				"alt": "Dolado - Supply Chain Management",
 				"width": 496,
 				"height": 949
 			},
 			{
-				"img": "dolado/About Image 4.webp",
+				"img": "dolado/About_Image_4.webp",
 				"alt": "Dolado - Supply Chain Management",
 				"width": 724,
 				"height": 520
@@ -59,31 +59,31 @@
 	],
 	"mockups_1": [
 		{
-			"img": "dolado/Solution 1.webp",
+			"img": "dolado/Solution_1.webp",
 			"alt": "Dolado solution mockup 1",
 			"width": 590,
 			"height": 442
 		},
 		{
-			"img": "dolado/Solution 2.webp",
+			"img": "dolado/Solution_2.webp",
 			"alt": "Dolado solution mockup 2",
 			"width": 590,
 			"height": 442
 		},
 		{
-			"img": "dolado/Solution 3.webp",
+			"img": "dolado/Solution_3.webp",
 			"alt": "Dolado solution mockup 3",
 			"width": 590,
 			"height": 442
 		},
 		{
-			"img": "dolado/Solution 4.webp",
+			"img": "dolado/Solution_4.webp",
 			"alt": "Dolado solution mockup 4",
 			"width": 590,
 			"height": 442
 		},
 		{
-			"img": "dolado/Solution 5.webp",
+			"img": "dolado/Solution_5.webp",
 			"alt": "Dolado solution mockup 5",
 			"width": 590,
 			"height": 442
@@ -97,43 +97,43 @@
 	],
 	"mockups_2": [
 		{
-			"img": "dolado/User Interface and Product Outlook 1.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_1.webp",
 			"alt": "Dolado user interface mockup 1",
 			"width": 496,
 			"height": 264
 		},
 		{
-			"img": "dolado/User Interface and Product Outlook 2.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_2.webp",
 			"alt": "Dolado user interface mockup 2",
 			"width": 288,
 			"height": 264
 		},
 		{
-			"img": "dolado/User Interface and Product Outlook 3.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_3.webp",
 			"alt": "Dolado user interface mockup 3",
 			"width": 400,
 			"height": 400
 		},
 		{
-			"img": "dolado/User Interface and Product Outlook 4.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_4.webp",
 			"alt": "Dolado user interface mockup 4",
 			"width": 552,
 			"height": 400
 		},
 		{
-			"img": "dolado/User Interface and Product Outlook 5.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_5.webp",
 			"alt": "Dolado user interface mockup 5",
 			"width": 400,
 			"height": 260
 		},
 		{
-			"img": "dolado/User Interface and Product Outlook 6.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_6.webp",
 			"alt": "Dolado user interface mockup 6",
 			"width": 400,
 			"height": 270
 		},
 		{
-			"img": "dolado/User Interface and Product Outlook 7.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_7.webp",
 			"alt": "Dolado user interface mockup 7",
 			"width": 400,
 			"height": 400
@@ -147,13 +147,13 @@
 	],
 	"mockups_3": [
 		{
-			"img": "dolado/User Interface and Product Outlook 8.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_8.webp",
 			"alt": "Dolado user interface mockup 8",
 			"width": 600,
 			"height": 496
 		},
 		{
-			"img": "dolado/User Interface and Product Outlook 9.webp",
+			"img": "dolado/User_Interface_and_Product_Outlook_9.webp",
 			"alt": "Dolado user interface mockup 9",
 			"width": 600,
 			"height": 496
